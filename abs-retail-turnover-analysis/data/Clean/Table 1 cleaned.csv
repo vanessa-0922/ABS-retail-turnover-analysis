@@ -1,0 +1,3634 @@
+date,year,month,industry,turnover
+1982-04-01,1982,4,Food retailing,1162.6
+1982-05-01,1982,5,Food retailing,1150.9
+1982-06-01,1982,6,Food retailing,1160.0
+1982-07-01,1982,7,Food retailing,1206.4
+1982-08-01,1982,8,Food retailing,1152.5
+1982-09-01,1982,9,Food retailing,1189.1
+1982-10-01,1982,10,Food retailing,1247.4
+1982-11-01,1982,11,Food retailing,1280.7
+1982-12-01,1982,12,Food retailing,1483.7
+1983-01-01,1983,1,Food retailing,1202.8
+1983-02-01,1983,2,Food retailing,1224.2
+1983-03-01,1983,3,Food retailing,1332.4
+1983-04-01,1983,4,Food retailing,1270.9
+1983-05-01,1983,5,Food retailing,1251.7
+1983-06-01,1983,6,Food retailing,1269.3
+1983-07-01,1983,7,Food retailing,1292.8
+1983-08-01,1983,8,Food retailing,1337.0
+1983-09-01,1983,9,Food retailing,1322.8
+1983-10-01,1983,10,Food retailing,1355.4
+1983-11-01,1983,11,Food retailing,1410.9
+1983-12-01,1983,12,Food retailing,1642.3
+1984-01-01,1984,1,Food retailing,1314.5
+1984-02-01,1984,2,Food retailing,1335.4
+1984-03-01,1984,3,Food retailing,1388.8
+1984-04-01,1984,4,Food retailing,1346.5
+1984-05-01,1984,5,Food retailing,1404.3
+1984-06-01,1984,6,Food retailing,1367.6
+1984-07-01,1984,7,Food retailing,1361.6
+1984-08-01,1984,8,Food retailing,1436.7
+1984-09-01,1984,9,Food retailing,1355.6
+1984-10-01,1984,10,Food retailing,1462.7
+1984-11-01,1984,11,Food retailing,1501.4
+1984-12-01,1984,12,Food retailing,1686.6
+1985-01-01,1985,1,Food retailing,1484.7
+1985-02-01,1985,2,Food retailing,1397.0
+1985-03-01,1985,3,Food retailing,1495.0
+1985-04-01,1985,4,Food retailing,1474.9
+1985-05-01,1985,5,Food retailing,1556.8
+1985-06-01,1985,6,Food retailing,1453.7
+1985-07-01,1985,7,Food retailing,1558.6
+1985-08-01,1985,8,Food retailing,1585.7
+1985-09-01,1985,9,Food retailing,1518.0
+1985-10-01,1985,10,Food retailing,1655.7
+1985-11-01,1985,11,Food retailing,1667.3
+1985-12-01,1985,12,Food retailing,1867.3
+1986-01-01,1986,1,Food retailing,1674.4
+1986-02-01,1986,2,Food retailing,1558.5
+1986-03-01,1986,3,Food retailing,1676.6
+1986-04-01,1986,4,Food retailing,1643.7
+1986-05-01,1986,5,Food retailing,1746.5
+1986-06-01,1986,6,Food retailing,1638.5
+1986-07-01,1986,7,Food retailing,1721.8
+1986-08-01,1986,8,Food retailing,1720.9
+1986-09-01,1986,9,Food retailing,1705.7
+1986-10-01,1986,10,Food retailing,1816.4
+1986-11-01,1986,11,Food retailing,1774.7
+1986-12-01,1986,12,Food retailing,2073.6
+1987-01-01,1987,1,Food retailing,1830.7
+1987-02-01,1987,2,Food retailing,1710.1
+1987-03-01,1987,3,Food retailing,1791.0
+1987-04-01,1987,4,Food retailing,1824.4
+1987-05-01,1987,5,Food retailing,1823.3
+1987-06-01,1987,6,Food retailing,1761.9
+1987-07-01,1987,7,Food retailing,1856.9
+1987-08-01,1987,8,Food retailing,1821.0
+1987-09-01,1987,9,Food retailing,1830.0
+1987-10-01,1987,10,Food retailing,1942.4
+1987-11-01,1987,11,Food retailing,1885.9
+1987-12-01,1987,12,Food retailing,2272.4
+1988-01-01,1988,1,Food retailing,1885.1
+1988-02-01,1988,2,Food retailing,1845.2
+1988-03-01,1988,3,Food retailing,2021.6
+1988-04-01,1988,4,Food retailing,1937.5
+1988-05-01,1988,5,Food retailing,1907.0
+1988-06-01,1988,6,Food retailing,1925.7
+1988-07-01,1988,7,Food retailing,1932.6
+1988-08-01,1988,8,Food retailing,1977.6
+1988-09-01,1988,9,Food retailing,2035.2
+1988-10-01,1988,10,Food retailing,2050.7
+1988-11-01,1988,11,Food retailing,2109.5
+1988-12-01,1988,12,Food retailing,2549.7
+1989-01-01,1989,1,Food retailing,2056.1
+1989-02-01,1989,2,Food retailing,1990.2
+1989-03-01,1989,3,Food retailing,2261.2
+1989-04-01,1989,4,Food retailing,2104.6
+1989-05-01,1989,5,Food retailing,2139.0
+1989-06-01,1989,6,Food retailing,2170.3
+1989-07-01,1989,7,Food retailing,2163.1
+1989-08-01,1989,8,Food retailing,2255.1
+1989-09-01,1989,9,Food retailing,2262.6
+1989-10-01,1989,10,Food retailing,2221.7
+1989-11-01,1989,11,Food retailing,2327.5
+1989-12-01,1989,12,Food retailing,2788.4
+1990-01-01,1990,1,Food retailing,2277.4
+1990-02-01,1990,2,Food retailing,2185.3
+1990-03-01,1990,3,Food retailing,2439.5
+1990-04-01,1990,4,Food retailing,2286.0
+1990-05-01,1990,5,Food retailing,2382.9
+1990-06-01,1990,6,Food retailing,2361.9
+1990-07-01,1990,7,Food retailing,2302.9
+1990-08-01,1990,8,Food retailing,2469.0
+1990-09-01,1990,9,Food retailing,2307.8
+1990-10-01,1990,10,Food retailing,2442.4
+1990-11-01,1990,11,Food retailing,2553.4
+1990-12-01,1990,12,Food retailing,2887.2
+1991-01-01,1991,1,Food retailing,2551.9
+1991-02-01,1991,2,Food retailing,2341.5
+1991-03-01,1991,3,Food retailing,2593.6
+1991-04-01,1991,4,Food retailing,2402.9
+1991-05-01,1991,5,Food retailing,2584.5
+1991-06-01,1991,6,Food retailing,2410.0
+1991-07-01,1991,7,Food retailing,2540.0
+1991-08-01,1991,8,Food retailing,2684.0
+1991-09-01,1991,9,Food retailing,2452.1
+1991-10-01,1991,10,Food retailing,2679.6
+1991-11-01,1991,11,Food retailing,2693.4
+1991-12-01,1991,12,Food retailing,2984.8
+1992-01-01,1992,1,Food retailing,2684.5
+1992-02-01,1992,2,Food retailing,2562.4
+1992-03-01,1992,3,Food retailing,2643.1
+1992-04-01,1992,4,Food retailing,2707.1
+1992-05-01,1992,5,Food retailing,2697.5
+1992-06-01,1992,6,Food retailing,2584.2
+1992-07-01,1992,7,Food retailing,2754.7
+1992-08-01,1992,8,Food retailing,2670.5
+1992-09-01,1992,9,Food retailing,2665.6
+1992-10-01,1992,10,Food retailing,2858.5
+1992-11-01,1992,11,Food retailing,2700.6
+1992-12-01,1992,12,Food retailing,3221.5
+1993-01-01,1993,1,Food retailing,2789.1
+1993-02-01,1993,2,Food retailing,2610.6
+1993-03-01,1993,3,Food retailing,2795.8
+1993-04-01,1993,4,Food retailing,2832.7
+1993-05-01,1993,5,Food retailing,2773.6
+1993-06-01,1993,6,Food retailing,2714.1
+1993-07-01,1993,7,Food retailing,2876.2
+1993-08-01,1993,8,Food retailing,2734.0
+1993-09-01,1993,9,Food retailing,2805.7
+1993-10-01,1993,10,Food retailing,2901.8
+1993-11-01,1993,11,Food retailing,2872.4
+1993-12-01,1993,12,Food retailing,3433.4
+1994-01-01,1994,1,Food retailing,2834.4
+1994-02-01,1994,2,Food retailing,2724.2
+1994-03-01,1994,3,Food retailing,3048.7
+1994-04-01,1994,4,Food retailing,2837.4
+1994-05-01,1994,5,Food retailing,2848.7
+1994-06-01,1994,6,Food retailing,2869.9
+1994-07-01,1994,7,Food retailing,2953.3
+1994-08-01,1994,8,Food retailing,2964.7
+1994-09-01,1994,9,Food retailing,3013.5
+1994-10-01,1994,10,Food retailing,3081.6
+1994-11-01,1994,11,Food retailing,3082.7
+1994-12-01,1994,12,Food retailing,3700.0
+1995-01-01,1995,1,Food retailing,3063.0
+1995-02-01,1995,2,Food retailing,2949.1
+1995-03-01,1995,3,Food retailing,3244.4
+1995-04-01,1995,4,Food retailing,3151.0
+1995-05-01,1995,5,Food retailing,3200.0
+1995-06-01,1995,6,Food retailing,3179.6
+1995-07-01,1995,7,Food retailing,3212.0
+1995-08-01,1995,8,Food retailing,3342.3
+1995-09-01,1995,9,Food retailing,3301.7
+1995-10-01,1995,10,Food retailing,3369.8
+1995-11-01,1995,11,Food retailing,3485.3
+1995-12-01,1995,12,Food retailing,3996.9
+1996-01-01,1996,1,Food retailing,3357.2
+1996-02-01,1996,2,Food retailing,3339.0
+1996-03-01,1996,3,Food retailing,3468.7
+1996-04-01,1996,4,Food retailing,3346.5
+1996-05-01,1996,5,Food retailing,3515.8
+1996-06-01,1996,6,Food retailing,3329.3
+1996-07-01,1996,7,Food retailing,3433.3
+1996-08-01,1996,8,Food retailing,3577.3
+1996-09-01,1996,9,Food retailing,3377.2
+1996-10-01,1996,10,Food retailing,3648.3
+1996-11-01,1996,11,Food retailing,3649.2
+1996-12-01,1996,12,Food retailing,4034.4
+1997-01-01,1997,1,Food retailing,3688.2
+1997-02-01,1997,2,Food retailing,3363.0
+1997-03-01,1997,3,Food retailing,3676.9
+1997-04-01,1997,4,Food retailing,3480.1
+1997-05-01,1997,5,Food retailing,3682.6
+1997-06-01,1997,6,Food retailing,3414.8
+1997-07-01,1997,7,Food retailing,3652.3
+1997-08-01,1997,8,Food retailing,3669.0
+1997-09-01,1997,9,Food retailing,3585.7
+1997-10-01,1997,10,Food retailing,3879.4
+1997-11-01,1997,11,Food retailing,3794.0
+1997-12-01,1997,12,Food retailing,4339.8
+1998-01-01,1998,1,Food retailing,3973.8
+1998-02-01,1998,2,Food retailing,3571.6
+1998-03-01,1998,3,Food retailing,3799.6
+1998-04-01,1998,4,Food retailing,3832.3
+1998-05-01,1998,5,Food retailing,3882.4
+1998-06-01,1998,6,Food retailing,3705.2
+1998-07-01,1998,7,Food retailing,3951.3
+1998-08-01,1998,8,Food retailing,3888.9
+1998-09-01,1998,9,Food retailing,3897.8
+1998-10-01,1998,10,Food retailing,4213.3
+1998-11-01,1998,11,Food retailing,4003.3
+1998-12-01,1998,12,Food retailing,4690.1
+1999-01-01,1999,1,Food retailing,4218.6
+1999-02-01,1999,2,Food retailing,3844.3
+1999-03-01,1999,3,Food retailing,4250.9
+1999-04-01,1999,4,Food retailing,4091.1
+1999-05-01,1999,5,Food retailing,4079.0
+1999-06-01,1999,6,Food retailing,3961.9
+1999-07-01,1999,7,Food retailing,4239.4
+1999-08-01,1999,8,Food retailing,4117.8
+1999-09-01,1999,9,Food retailing,4184.0
+1999-10-01,1999,10,Food retailing,4373.6
+1999-11-01,1999,11,Food retailing,4273.0
+1999-12-01,1999,12,Food retailing,5099.8
+2000-01-01,2000,1,Food retailing,4247.2
+2000-02-01,2000,2,Food retailing,4069.7
+2000-03-01,2000,3,Food retailing,4353.4
+2000-04-01,2000,4,Food retailing,4174.4
+2000-05-01,2000,5,Food retailing,4161.7
+2000-06-01,2000,6,Food retailing,4175.1
+2000-07-01,2000,7,Food retailing,4221.2
+2000-08-01,2000,8,Food retailing,4362.9
+2000-09-01,2000,9,Food retailing,4315.6
+2000-10-01,2000,10,Food retailing,4384.7
+2000-11-01,2000,11,Food retailing,4450.9
+2000-12-01,2000,12,Food retailing,5194.1
+2001-01-01,2001,1,Food retailing,4486.2
+2001-02-01,2001,2,Food retailing,4221.3
+2001-03-01,2001,3,Food retailing,4699.1
+2001-04-01,2001,4,Food retailing,4497.1
+2001-05-01,2001,5,Food retailing,4603.0
+2001-06-01,2001,6,Food retailing,4458.2
+2001-07-01,2001,7,Food retailing,4532.8
+2001-08-01,2001,8,Food retailing,4745.1
+2001-09-01,2001,9,Food retailing,4606.5
+2001-10-01,2001,10,Food retailing,4863.1
+2001-11-01,2001,11,Food retailing,4941.5
+2001-12-01,2001,12,Food retailing,5543.0
+2002-01-01,2002,1,Food retailing,5044.6
+2002-02-01,2002,2,Food retailing,4559.4
+2002-03-01,2002,3,Food retailing,5098.2
+2002-04-01,2002,4,Food retailing,4747.6
+2002-05-01,2002,5,Food retailing,5028.5
+2002-06-01,2002,6,Food retailing,4716.1
+2002-07-01,2002,7,Food retailing,4971.5
+2002-08-01,2002,8,Food retailing,5145.5
+2002-09-01,2002,9,Food retailing,4912.5
+2002-10-01,2002,10,Food retailing,5283.5
+2002-11-01,2002,11,Food retailing,5300.6
+2002-12-01,2002,12,Food retailing,5862.1
+2003-01-01,2003,1,Food retailing,5402.8
+2003-02-01,2003,2,Food retailing,4861.0
+2003-03-01,2003,3,Food retailing,5280.2
+2003-04-01,2003,4,Food retailing,5171.5
+2003-05-01,2003,5,Food retailing,5316.3
+2003-06-01,2003,6,Food retailing,4895.4
+2003-07-01,2003,7,Food retailing,5296.9
+2003-08-01,2003,8,Food retailing,5286.8
+2003-09-01,2003,9,Food retailing,5192.1
+2003-10-01,2003,10,Food retailing,5583.9
+2003-11-01,2003,11,Food retailing,5498.8
+2003-12-01,2003,12,Food retailing,6269.7
+2004-01-01,2004,1,Food retailing,5769.9
+2004-02-01,2004,2,Food retailing,5311.8
+2004-03-01,2004,3,Food retailing,5602.4
+2004-04-01,2004,4,Food retailing,5627.7
+2004-05-01,2004,5,Food retailing,5542.3
+2004-06-01,2004,6,Food retailing,5406.3
+2004-07-01,2004,7,Food retailing,5722.7
+2004-08-01,2004,8,Food retailing,5569.3
+2004-09-01,2004,9,Food retailing,5622.8
+2004-10-01,2004,10,Food retailing,5819.7
+2004-11-01,2004,11,Food retailing,5753.4
+2004-12-01,2004,12,Food retailing,6753.1
+2005-01-01,2005,1,Food retailing,5710.3
+2005-02-01,2005,2,Food retailing,5336.4
+2005-03-01,2005,3,Food retailing,5936.5
+2005-04-01,2005,4,Food retailing,5710.9
+2005-05-01,2005,5,Food retailing,5661.0
+2005-06-01,2005,6,Food retailing,5582.8
+2005-07-01,2005,7,Food retailing,5888.5
+2005-08-01,2005,8,Food retailing,5929.6
+2005-09-01,2005,9,Food retailing,5931.4
+2005-10-01,2005,10,Food retailing,6100.1
+2005-11-01,2005,11,Food retailing,6071.2
+2005-12-01,2005,12,Food retailing,7083.5
+2006-01-01,2006,1,Food retailing,6113.6
+2006-02-01,2006,2,Food retailing,5704.1
+2006-03-01,2006,3,Food retailing,6335.1
+2006-04-01,2006,4,Food retailing,6139.3
+2006-05-01,2006,5,Food retailing,6133.3
+2006-06-01,2006,6,Food retailing,6071.6
+2006-07-01,2006,7,Food retailing,6197.4
+2006-08-01,2006,8,Food retailing,6368.5
+2006-09-01,2006,9,Food retailing,6296.9
+2006-10-01,2006,10,Food retailing,6567.2
+2006-11-01,2006,11,Food retailing,6614.2
+2006-12-01,2006,12,Food retailing,7569.8
+2007-01-01,2007,1,Food retailing,6638.4
+2007-02-01,2007,2,Food retailing,6172.9
+2007-03-01,2007,3,Food retailing,6863.0
+2007-04-01,2007,4,Food retailing,6600.0
+2007-05-01,2007,5,Food retailing,6691.7
+2007-06-01,2007,6,Food retailing,6518.0
+2007-07-01,2007,7,Food retailing,6751.1
+2007-08-01,2007,8,Food retailing,7001.1
+2007-09-01,2007,9,Food retailing,6847.4
+2007-10-01,2007,10,Food retailing,7144.7
+2007-11-01,2007,11,Food retailing,7250.0
+2007-12-01,2007,12,Food retailing,8154.3
+2008-01-01,2008,1,Food retailing,7206.3
+2008-02-01,2008,2,Food retailing,6787.8
+2008-03-01,2008,3,Food retailing,7315.8
+2008-04-01,2008,4,Food retailing,6882.6
+2008-05-01,2008,5,Food retailing,7163.6
+2008-06-01,2008,6,Food retailing,6761.8
+2008-07-01,2008,7,Food retailing,7240.5
+2008-08-01,2008,8,Food retailing,7355.4
+2008-09-01,2008,9,Food retailing,7095.7
+2008-10-01,2008,10,Food retailing,7642.8
+2008-11-01,2008,11,Food retailing,7630.1
+2008-12-01,2008,12,Food retailing,8784.9
+2009-01-01,2009,1,Food retailing,7985.3
+2009-02-01,2009,2,Food retailing,7151.3
+2009-03-01,2009,3,Food retailing,7832.4
+2009-04-01,2009,4,Food retailing,7710.6
+2009-05-01,2009,5,Food retailing,7763.2
+2009-06-01,2009,6,Food retailing,7399.3
+2009-07-01,2009,7,Food retailing,7725.6
+2009-08-01,2009,8,Food retailing,7807.5
+2009-09-01,2009,9,Food retailing,7635.8
+2009-10-01,2009,10,Food retailing,8109.7
+2009-11-01,2009,11,Food retailing,8204.0
+2009-12-01,2009,12,Food retailing,9249.0
+2010-01-01,2010,1,Food retailing,8093.4
+2010-02-01,2010,2,Food retailing,7243.1
+2010-03-01,2010,3,Food retailing,8017.8
+2010-04-01,2010,4,Food retailing,7835.6
+2010-05-01,2010,5,Food retailing,7887.6
+2010-06-01,2010,6,Food retailing,7527.9
+2010-07-01,2010,7,Food retailing,8044.4
+2010-08-01,2010,8,Food retailing,7924.7
+2010-09-01,2010,9,Food retailing,7855.4
+2010-10-01,2010,10,Food retailing,8239.5
+2010-11-01,2010,11,Food retailing,8288.1
+2010-12-01,2010,12,Food retailing,9491.8
+2011-01-01,2011,1,Food retailing,8403.6
+2011-02-01,2011,2,Food retailing,7649.6
+2011-03-01,2011,3,Food retailing,8285.0
+2011-04-01,2011,4,Food retailing,8211.3
+2011-05-01,2011,5,Food retailing,8059.0
+2011-06-01,2011,6,Food retailing,7878.3
+2011-07-01,2011,7,Food retailing,8315.2
+2011-08-01,2011,8,Food retailing,8360.3
+2011-09-01,2011,9,Food retailing,8274.2
+2011-10-01,2011,10,Food retailing,8606.3
+2011-11-01,2011,11,Food retailing,8569.9
+2011-12-01,2011,12,Food retailing,9936.0
+2012-01-01,2012,1,Food retailing,8534.8
+2012-02-01,2012,2,Food retailing,8119.1
+2012-03-01,2012,3,Food retailing,8736.6
+2012-04-01,2012,4,Food retailing,8399.2
+2012-05-01,2012,5,Food retailing,8450.7
+2012-06-01,2012,6,Food retailing,8269.7
+2012-07-01,2012,7,Food retailing,8500.4
+2012-08-01,2012,8,Food retailing,8787.9
+2012-09-01,2012,9,Food retailing,8582.8
+2012-10-01,2012,10,Food retailing,8982.0
+2012-11-01,2012,11,Food retailing,9048.5
+2012-12-01,2012,12,Food retailing,10262.1
+2013-01-01,2013,1,Food retailing,9067.6
+2013-02-01,2013,2,Food retailing,8264.8
+2013-03-01,2013,3,Food retailing,9272.0
+2013-04-01,2013,4,Food retailing,8614.9
+2013-05-01,2013,5,Food retailing,8876.5
+2013-06-01,2013,6,Food retailing,8516.9
+2013-07-01,2013,7,Food retailing,8855.8
+2013-08-01,2013,8,Food retailing,9188.1
+2013-09-01,2013,9,Food retailing,8839.1
+2013-10-01,2013,10,Food retailing,9338.4
+2013-11-01,2013,11,Food retailing,9345.9
+2013-12-01,2013,12,Food retailing,10856.4
+2014-01-01,2014,1,Food retailing,9701.6
+2014-02-01,2014,2,Food retailing,8667.9
+2014-03-01,2014,3,Food retailing,9524.6
+2014-04-01,2014,4,Food retailing,9223.9
+2014-05-01,2014,5,Food retailing,9386.0
+2014-06-01,2014,6,Food retailing,8977.5
+2014-07-01,2014,7,Food retailing,9393.3
+2014-08-01,2014,8,Food retailing,9582.4
+2014-09-01,2014,9,Food retailing,9353.8
+2014-10-01,2014,10,Food retailing,9964.4
+2014-11-01,2014,11,Food retailing,9911.1
+2014-12-01,2014,12,Food retailing,11271.6
+2015-01-01,2015,1,Food retailing,9955.4
+2015-02-01,2015,2,Food retailing,9020.0
+2015-03-01,2015,3,Food retailing,9926.5
+2015-04-01,2015,4,Food retailing,9538.0
+2015-05-01,2015,5,Food retailing,9707.1
+2015-06-01,2015,6,Food retailing,9217.8
+2015-07-01,2015,7,Food retailing,9718.0
+2015-08-01,2015,8,Food retailing,9834.8
+2015-09-01,2015,9,Food retailing,9645.8
+2015-10-01,2015,10,Food retailing,10319.2
+2015-11-01,2015,11,Food retailing,10128.5
+2015-12-01,2015,12,Food retailing,11731.2
+2016-01-01,2016,1,Food retailing,10244.9
+2016-02-01,2016,2,Food retailing,9556.9
+2016-03-01,2016,3,Food retailing,10354.0
+2016-04-01,2016,4,Food retailing,9727.9
+2016-05-01,2016,5,Food retailing,9815.2
+2016-06-01,2016,6,Food retailing,9516.5
+2016-07-01,2016,7,Food retailing,9928.5
+2016-08-01,2016,8,Food retailing,10041.9
+2016-09-01,2016,9,Food retailing,10005.7
+2016-10-01,2016,10,Food retailing,10482.6
+2016-11-01,2016,11,Food retailing,10435.7
+2016-12-01,2016,12,Food retailing,12230.1
+2017-01-01,2017,1,Food retailing,10431.5
+2017-02-01,2017,2,Food retailing,9574.6
+2017-03-01,2017,3,Food retailing,10510.3
+2017-04-01,2017,4,Food retailing,10274.1
+2017-05-01,2017,5,Food retailing,10189.7
+2017-06-01,2017,6,Food retailing,9857.6
+2017-07-01,2017,7,Food retailing,10272.8
+2017-08-01,2017,8,Food retailing,10363.7
+2017-09-01,2017,9,Food retailing,10307.9
+2017-10-01,2017,10,Food retailing,10710.9
+2017-11-01,2017,11,Food retailing,10780.7
+2017-12-01,2017,12,Food retailing,12552.1
+2018-01-01,2018,1,Food retailing,10713.3
+2018-02-01,2018,2,Food retailing,9833.2
+2018-03-01,2018,3,Food retailing,11188.4
+2018-04-01,2018,4,Food retailing,10354.1
+2018-05-01,2018,5,Food retailing,10645.2
+2018-06-01,2018,6,Food retailing,10268.2
+2018-07-01,2018,7,Food retailing,10604.4
+2018-08-01,2018,8,Food retailing,10852.2
+2018-09-01,2018,9,Food retailing,10713.8
+2018-10-01,2018,10,Food retailing,11126.1
+2018-11-01,2018,11,Food retailing,11214.7
+2018-12-01,2018,12,Food retailing,13037.6
+2019-01-01,2019,1,Food retailing,11253.8
+2019-02-01,2019,2,Food retailing,10308.6
+2019-03-01,2019,3,Food retailing,11405.1
+2019-04-01,2019,4,Food retailing,10964.8
+2019-05-01,2019,5,Food retailing,11024.2
+2019-06-01,2019,6,Food retailing,10587.6
+2019-07-01,2019,7,Food retailing,10950.7
+2019-08-01,2019,8,Food retailing,11296.5
+2019-09-01,2019,9,Food retailing,10949.5
+2019-10-01,2019,10,Food retailing,11569.3
+2019-11-01,2019,11,Food retailing,11648.2
+2019-12-01,2019,12,Food retailing,13310.8
+2020-01-01,2020,1,Food retailing,11574.1
+2020-02-01,2020,2,Food retailing,11072.4
+2020-03-01,2020,3,Food retailing,14319.2
+2020-04-01,2020,4,Food retailing,11662.1
+2020-05-01,2020,5,Food retailing,12518.8
+2020-06-01,2020,6,Food retailing,11952.6
+2020-07-01,2020,7,Food retailing,12697.8
+2020-08-01,2020,8,Food retailing,12773.5
+2020-09-01,2020,9,Food retailing,12382.0
+2020-10-01,2020,10,Food retailing,13049.3
+2020-11-01,2020,11,Food retailing,12786.8
+2020-12-01,2020,12,Food retailing,14756.9
+2021-01-01,2021,1,Food retailing,12825.2
+2021-02-01,2021,2,Food retailing,11378.5
+2021-03-01,2021,3,Food retailing,12565.1
+2021-04-01,2021,4,Food retailing,12001.6
+2021-05-01,2021,5,Food retailing,12334.8
+2021-06-01,2021,6,Food retailing,11949.2
+2021-07-01,2021,7,Food retailing,12811.6
+2021-08-01,2021,8,Food retailing,12994.5
+2021-09-01,2021,9,Food retailing,12768.9
+2021-10-01,2021,10,Food retailing,13259.0
+2021-11-01,2021,11,Food retailing,12722.8
+2021-12-01,2021,12,Food retailing,15255.2
+2022-01-01,2022,1,Food retailing,13372.0
+2022-02-01,2022,2,Food retailing,11886.0
+2022-03-01,2022,3,Food retailing,13090.0
+2022-04-01,2022,4,Food retailing,13070.3
+2022-05-01,2022,5,Food retailing,12932.2
+2022-06-01,2022,6,Food retailing,12499.6
+2022-07-01,2022,7,Food retailing,13205.7
+2022-08-01,2022,8,Food retailing,13310.4
+2022-09-01,2022,9,Food retailing,13328.8
+2022-10-01,2022,10,Food retailing,13930.9
+2022-11-01,2022,11,Food retailing,13839.2
+2022-12-01,2022,12,Food retailing,16471.7
+2023-01-01,2023,1,Food retailing,13919.6
+2023-02-01,2023,2,Food retailing,12838.4
+2023-03-01,2023,3,Food retailing,14199.2
+2023-04-01,2023,4,Food retailing,13806.0
+2023-05-01,2023,5,Food retailing,13707.4
+2023-06-01,2023,6,Food retailing,13266.7
+2023-07-01,2023,7,Food retailing,13796.7
+2023-08-01,2023,8,Food retailing,13857.4
+2023-09-01,2023,9,Food retailing,13858.4
+2023-10-01,2023,10,Food retailing,14268.5
+2023-11-01,2023,11,Food retailing,14296.6
+2023-12-01,2023,12,Food retailing,16634.0
+2024-01-01,2024,1,Food retailing,14188.2
+2024-02-01,2024,2,Food retailing,13546.5
+2024-03-01,2024,3,Food retailing,14838.6
+2024-04-01,2024,4,Food retailing,13749.8
+2024-05-01,2024,5,Food retailing,14189.2
+2024-06-01,2024,6,Food retailing,13699.6
+2024-07-01,2024,7,Food retailing,14115.7
+2024-08-01,2024,8,Food retailing,14593.1
+2024-09-01,2024,9,Food retailing,14066.0
+2024-10-01,2024,10,Food retailing,14705.8
+2024-11-01,2024,11,Food retailing,14871.4
+2024-12-01,2024,12,Food retailing,17040.3
+2025-01-01,2025,1,Food retailing,14691.2
+2025-02-01,2025,2,Food retailing,13589.6
+2025-03-01,2025,3,Food retailing,15149.9
+2025-04-01,2025,4,Food retailing,14530.8
+2025-05-01,2025,5,Food retailing,14747.0
+2025-06-01,2025,6,Food retailing,14095.0
+1982-04-01,1982,4,Household goods retailing,592.3
+1982-05-01,1982,5,Household goods retailing,629.6
+1982-06-01,1982,6,Household goods retailing,607.4
+1982-07-01,1982,7,Household goods retailing,632.4
+1982-08-01,1982,8,Household goods retailing,622.6
+1982-09-01,1982,9,Household goods retailing,622.0
+1982-10-01,1982,10,Household goods retailing,637.8
+1982-11-01,1982,11,Household goods retailing,717.2
+1982-12-01,1982,12,Household goods retailing,1077.0
+1983-01-01,1983,1,Household goods retailing,615.9
+1983-02-01,1983,2,Household goods retailing,621.7
+1983-03-01,1983,3,Household goods retailing,719.1
+1983-04-01,1983,4,Household goods retailing,633.4
+1983-05-01,1983,5,Household goods retailing,697.9
+1983-06-01,1983,6,Household goods retailing,661.8
+1983-07-01,1983,7,Household goods retailing,656.9
+1983-08-01,1983,8,Household goods retailing,711.0
+1983-09-01,1983,9,Household goods retailing,690.3
+1983-10-01,1983,10,Household goods retailing,714.6
+1983-11-01,1983,11,Household goods retailing,815.5
+1983-12-01,1983,12,Household goods retailing,1197.8
+1984-01-01,1984,1,Household goods retailing,684.2
+1984-02-01,1984,2,Household goods retailing,698.5
+1984-03-01,1984,3,Household goods retailing,746.0
+1984-04-01,1984,4,Household goods retailing,634.7
+1984-05-01,1984,5,Household goods retailing,755.0
+1984-06-01,1984,6,Household goods retailing,677.2
+1984-07-01,1984,7,Household goods retailing,708.7
+1984-08-01,1984,8,Household goods retailing,740.9
+1984-09-01,1984,9,Household goods retailing,679.0
+1984-10-01,1984,10,Household goods retailing,769.3
+1984-11-01,1984,11,Household goods retailing,859.3
+1984-12-01,1984,12,Household goods retailing,1174.6
+1985-01-01,1985,1,Household goods retailing,703.0
+1985-02-01,1985,2,Household goods retailing,669.4
+1985-03-01,1985,3,Household goods retailing,742.2
+1985-04-01,1985,4,Household goods retailing,721.6
+1985-05-01,1985,5,Household goods retailing,855.8
+1985-06-01,1985,6,Household goods retailing,742.3
+1985-07-01,1985,7,Household goods retailing,799.9
+1985-08-01,1985,8,Household goods retailing,815.5
+1985-09-01,1985,9,Household goods retailing,776.8
+1985-10-01,1985,10,Household goods retailing,881.3
+1985-11-01,1985,11,Household goods retailing,973.2
+1985-12-01,1985,12,Household goods retailing,1351.7
+1986-01-01,1986,1,Household goods retailing,812.6
+1986-02-01,1986,2,Household goods retailing,763.6
+1986-03-01,1986,3,Household goods retailing,768.0
+1986-04-01,1986,4,Household goods retailing,827.0
+1986-05-01,1986,5,Household goods retailing,935.1
+1986-06-01,1986,6,Household goods retailing,833.6
+1986-07-01,1986,7,Household goods retailing,878.2
+1986-08-01,1986,8,Household goods retailing,898.1
+1986-09-01,1986,9,Household goods retailing,862.3
+1986-10-01,1986,10,Household goods retailing,950.6
+1986-11-01,1986,11,Household goods retailing,968.2
+1986-12-01,1986,12,Household goods retailing,1414.0
+1987-01-01,1987,1,Household goods retailing,861.1
+1987-02-01,1987,2,Household goods retailing,812.5
+1987-03-01,1987,3,Household goods retailing,862.3
+1987-04-01,1987,4,Household goods retailing,846.8
+1987-05-01,1987,5,Household goods retailing,933.6
+1987-06-01,1987,6,Household goods retailing,886.2
+1987-07-01,1987,7,Household goods retailing,958.9
+1987-08-01,1987,8,Household goods retailing,938.2
+1987-09-01,1987,9,Household goods retailing,953.0
+1987-10-01,1987,10,Household goods retailing,1058.8
+1987-11-01,1987,11,Household goods retailing,1084.6
+1987-12-01,1987,12,Household goods retailing,1576.1
+1988-01-01,1988,1,Household goods retailing,938.9
+1988-02-01,1988,2,Household goods retailing,968.3
+1988-03-01,1988,3,Household goods retailing,1035.6
+1988-04-01,1988,4,Household goods retailing,945.3
+1988-05-01,1988,5,Household goods retailing,1074.9
+1988-06-01,1988,6,Household goods retailing,1053.6
+1988-07-01,1988,7,Household goods retailing,1045.1
+1988-08-01,1988,8,Household goods retailing,1073.4
+1988-09-01,1988,9,Household goods retailing,1040.7
+1988-10-01,1988,10,Household goods retailing,1092.9
+1988-11-01,1988,11,Household goods retailing,1210.9
+1988-12-01,1988,12,Household goods retailing,1714.8
+1989-01-01,1989,1,Household goods retailing,1089.2
+1989-02-01,1989,2,Household goods retailing,1021.5
+1989-03-01,1989,3,Household goods retailing,1107.0
+1989-04-01,1989,4,Household goods retailing,1089.0
+1989-05-01,1989,5,Household goods retailing,1203.6
+1989-06-01,1989,6,Household goods retailing,1151.9
+1989-07-01,1989,7,Household goods retailing,1135.8
+1989-08-01,1989,8,Household goods retailing,1161.5
+1989-09-01,1989,9,Household goods retailing,1174.0
+1989-10-01,1989,10,Household goods retailing,1217.4
+1989-11-01,1989,11,Household goods retailing,1351.2
+1989-12-01,1989,12,Household goods retailing,1714.2
+1990-01-01,1990,1,Household goods retailing,1128.5
+1990-02-01,1990,2,Household goods retailing,1048.0
+1990-03-01,1990,3,Household goods retailing,1148.2
+1990-04-01,1990,4,Household goods retailing,1083.7
+1990-05-01,1990,5,Household goods retailing,1211.6
+1990-06-01,1990,6,Household goods retailing,1160.4
+1990-07-01,1990,7,Household goods retailing,1136.2
+1990-08-01,1990,8,Household goods retailing,1186.0
+1990-09-01,1990,9,Household goods retailing,1111.3
+1990-10-01,1990,10,Household goods retailing,1215.3
+1990-11-01,1990,11,Household goods retailing,1277.0
+1990-12-01,1990,12,Household goods retailing,1659.5
+1991-01-01,1991,1,Household goods retailing,1147.3
+1991-02-01,1991,2,Household goods retailing,1094.5
+1991-03-01,1991,3,Household goods retailing,1133.5
+1991-04-01,1991,4,Household goods retailing,1136.3
+1991-05-01,1991,5,Household goods retailing,1205.3
+1991-06-01,1991,6,Household goods retailing,1110.0
+1991-07-01,1991,7,Household goods retailing,1220.1
+1991-08-01,1991,8,Household goods retailing,1231.6
+1991-09-01,1991,9,Household goods retailing,1165.6
+1991-10-01,1991,10,Household goods retailing,1312.5
+1991-11-01,1991,11,Household goods retailing,1343.1
+1991-12-01,1991,12,Household goods retailing,1660.7
+1992-01-01,1992,1,Household goods retailing,1203.5
+1992-02-01,1992,2,Household goods retailing,1143.3
+1992-03-01,1992,3,Household goods retailing,1199.5
+1992-04-01,1992,4,Household goods retailing,1206.7
+1992-05-01,1992,5,Household goods retailing,1228.4
+1992-06-01,1992,6,Household goods retailing,1199.3
+1992-07-01,1992,7,Household goods retailing,1278.9
+1992-08-01,1992,8,Household goods retailing,1194.8
+1992-09-01,1992,9,Household goods retailing,1260.6
+1992-10-01,1992,10,Household goods retailing,1379.7
+1992-11-01,1992,11,Household goods retailing,1382.2
+1992-12-01,1992,12,Household goods retailing,1817.1
+1993-01-01,1993,1,Household goods retailing,1292.7
+1993-02-01,1993,2,Household goods retailing,1190.4
+1993-03-01,1993,3,Household goods retailing,1346.6
+1993-04-01,1993,4,Household goods retailing,1274.5
+1993-05-01,1993,5,Household goods retailing,1324.2
+1993-06-01,1993,6,Household goods retailing,1308.6
+1993-07-01,1993,7,Household goods retailing,1345.9
+1993-08-01,1993,8,Household goods retailing,1300.5
+1993-09-01,1993,9,Household goods retailing,1366.1
+1993-10-01,1993,10,Household goods retailing,1438.0
+1993-11-01,1993,11,Household goods retailing,1532.2
+1993-12-01,1993,12,Household goods retailing,2011.8
+1994-01-01,1994,1,Household goods retailing,1373.4
+1994-02-01,1994,2,Household goods retailing,1325.1
+1994-03-01,1994,3,Household goods retailing,1451.4
+1994-04-01,1994,4,Household goods retailing,1334.8
+1994-05-01,1994,5,Household goods retailing,1443.6
+1994-06-01,1994,6,Household goods retailing,1456.0
+1994-07-01,1994,7,Household goods retailing,1427.8
+1994-08-01,1994,8,Household goods retailing,1503.1
+1994-09-01,1994,9,Household goods retailing,1475.2
+1994-10-01,1994,10,Household goods retailing,1508.7
+1994-11-01,1994,11,Household goods retailing,1616.5
+1994-12-01,1994,12,Household goods retailing,2058.9
+1995-01-01,1995,1,Household goods retailing,1463.9
+1995-02-01,1995,2,Household goods retailing,1373.3
+1995-03-01,1995,3,Household goods retailing,1533.7
+1995-04-01,1995,4,Household goods retailing,1420.6
+1995-05-01,1995,5,Household goods retailing,1576.3
+1995-06-01,1995,6,Household goods retailing,1607.5
+1995-07-01,1995,7,Household goods retailing,1545.7
+1995-08-01,1995,8,Household goods retailing,1550.8
+1995-09-01,1995,9,Household goods retailing,1583.0
+1995-10-01,1995,10,Household goods retailing,1622.6
+1995-11-01,1995,11,Household goods retailing,1705.5
+1995-12-01,1995,12,Household goods retailing,2212.4
+1996-01-01,1996,1,Household goods retailing,1580.7
+1996-02-01,1996,2,Household goods retailing,1485.5
+1996-03-01,1996,3,Household goods retailing,1582.6
+1996-04-01,1996,4,Household goods retailing,1498.9
+1996-05-01,1996,5,Household goods retailing,1644.5
+1996-06-01,1996,6,Household goods retailing,1610.9
+1996-07-01,1996,7,Household goods retailing,1695.0
+1996-08-01,1996,8,Household goods retailing,1664.9
+1996-09-01,1996,9,Household goods retailing,1583.8
+1996-10-01,1996,10,Household goods retailing,1740.4
+1996-11-01,1996,11,Household goods retailing,1798.7
+1996-12-01,1996,12,Household goods retailing,2296.1
+1997-01-01,1997,1,Household goods retailing,1686.0
+1997-02-01,1997,2,Household goods retailing,1576.9
+1997-03-01,1997,3,Household goods retailing,1608.8
+1997-04-01,1997,4,Household goods retailing,1610.8
+1997-05-01,1997,5,Household goods retailing,1712.9
+1997-06-01,1997,6,Household goods retailing,1664.3
+1997-07-01,1997,7,Household goods retailing,1698.0
+1997-08-01,1997,8,Household goods retailing,1662.9
+1997-09-01,1997,9,Household goods retailing,1678.9
+1997-10-01,1997,10,Household goods retailing,1811.1
+1997-11-01,1997,11,Household goods retailing,1835.5
+1997-12-01,1997,12,Household goods retailing,2418.4
+1998-01-01,1998,1,Household goods retailing,1724.9
+1998-02-01,1998,2,Household goods retailing,1531.3
+1998-03-01,1998,3,Household goods retailing,1660.0
+1998-04-01,1998,4,Household goods retailing,1602.0
+1998-05-01,1998,5,Household goods retailing,1677.0
+1998-06-01,1998,6,Household goods retailing,1668.8
+1998-07-01,1998,7,Household goods retailing,1699.6
+1998-08-01,1998,8,Household goods retailing,1649.9
+1998-09-01,1998,9,Household goods retailing,1685.0
+1998-10-01,1998,10,Household goods retailing,1783.6
+1998-11-01,1998,11,Household goods retailing,1776.0
+1998-12-01,1998,12,Household goods retailing,2323.2
+1999-01-01,1999,1,Household goods retailing,1775.4
+1999-02-01,1999,2,Household goods retailing,1597.2
+1999-03-01,1999,3,Household goods retailing,1733.6
+1999-04-01,1999,4,Household goods retailing,1681.0
+1999-05-01,1999,5,Household goods retailing,1764.5
+1999-06-01,1999,6,Household goods retailing,1779.0
+1999-07-01,1999,7,Household goods retailing,1817.4
+1999-08-01,1999,8,Household goods retailing,1830.7
+1999-09-01,1999,9,Household goods retailing,1894.3
+1999-10-01,1999,10,Household goods retailing,2000.7
+1999-11-01,1999,11,Household goods retailing,2037.0
+1999-12-01,1999,12,Household goods retailing,2568.3
+2000-01-01,2000,1,Household goods retailing,1924.7
+2000-02-01,2000,2,Household goods retailing,1813.6
+2000-03-01,2000,3,Household goods retailing,1919.9
+2000-04-01,2000,4,Household goods retailing,1769.8
+2000-05-01,2000,5,Household goods retailing,1985.7
+2000-06-01,2000,6,Household goods retailing,2346.3
+2000-07-01,2000,7,Household goods retailing,1875.7
+2000-08-01,2000,8,Household goods retailing,2013.1
+2000-09-01,2000,9,Household goods retailing,2015.7
+2000-10-01,2000,10,Household goods retailing,2098.2
+2000-11-01,2000,11,Household goods retailing,2213.3
+2000-12-01,2000,12,Household goods retailing,2776.0
+2001-01-01,2001,1,Household goods retailing,2095.8
+2001-02-01,2001,2,Household goods retailing,1887.4
+2001-03-01,2001,3,Household goods retailing,2063.2
+2001-04-01,2001,4,Household goods retailing,1982.7
+2001-05-01,2001,5,Household goods retailing,2118.3
+2001-06-01,2001,6,Household goods retailing,2205.1
+2001-07-01,2001,7,Household goods retailing,2217.5
+2001-08-01,2001,8,Household goods retailing,2253.1
+2001-09-01,2001,9,Household goods retailing,2188.7
+2001-10-01,2001,10,Household goods retailing,2404.9
+2001-11-01,2001,11,Household goods retailing,2517.4
+2001-12-01,2001,12,Household goods retailing,3113.9
+2002-01-01,2002,1,Household goods retailing,2438.8
+2002-02-01,2002,2,Household goods retailing,2123.9
+2002-03-01,2002,3,Household goods retailing,2296.4
+2002-04-01,2002,4,Household goods retailing,2336.0
+2002-05-01,2002,5,Household goods retailing,2478.6
+2002-06-01,2002,6,Household goods retailing,2475.0
+2002-07-01,2002,7,Household goods retailing,2465.3
+2002-08-01,2002,8,Household goods retailing,2501.2
+2002-09-01,2002,9,Household goods retailing,2460.6
+2002-10-01,2002,10,Household goods retailing,2635.3
+2002-11-01,2002,11,Household goods retailing,2752.9
+2002-12-01,2002,12,Household goods retailing,3366.1
+2003-01-01,2003,1,Household goods retailing,2528.5
+2003-02-01,2003,2,Household goods retailing,2231.8
+2003-03-01,2003,3,Household goods retailing,2430.7
+2003-04-01,2003,4,Household goods retailing,2368.9
+2003-05-01,2003,5,Household goods retailing,2539.9
+2003-06-01,2003,6,Household goods retailing,2595.6
+2003-07-01,2003,7,Household goods retailing,2675.1
+2003-08-01,2003,8,Household goods retailing,2665.2
+2003-09-01,2003,9,Household goods retailing,2726.7
+2003-10-01,2003,10,Household goods retailing,2903.8
+2003-11-01,2003,11,Household goods retailing,2948.3
+2003-12-01,2003,12,Household goods retailing,3650.5
+2004-01-01,2004,1,Household goods retailing,2829.9
+2004-02-01,2004,2,Household goods retailing,2545.4
+2004-03-01,2004,3,Household goods retailing,2746.3
+2004-04-01,2004,4,Household goods retailing,2569.2
+2004-05-01,2004,5,Household goods retailing,2675.2
+2004-06-01,2004,6,Household goods retailing,2793.8
+2004-07-01,2004,7,Household goods retailing,2843.3
+2004-08-01,2004,8,Household goods retailing,2798.1
+2004-09-01,2004,9,Household goods retailing,2848.0
+2004-10-01,2004,10,Household goods retailing,3078.3
+2004-11-01,2004,11,Household goods retailing,3185.1
+2004-12-01,2004,12,Household goods retailing,3877.3
+2005-01-01,2005,1,Household goods retailing,2963.1
+2005-02-01,2005,2,Household goods retailing,2622.9
+2005-03-01,2005,3,Household goods retailing,2782.9
+2005-04-01,2005,4,Household goods retailing,2787.4
+2005-05-01,2005,5,Household goods retailing,2879.3
+2005-06-01,2005,6,Household goods retailing,2969.3
+2005-07-01,2005,7,Household goods retailing,2964.4
+2005-08-01,2005,8,Household goods retailing,2984.4
+2005-09-01,2005,9,Household goods retailing,2971.0
+2005-10-01,2005,10,Household goods retailing,3099.2
+2005-11-01,2005,11,Household goods retailing,3252.9
+2005-12-01,2005,12,Household goods retailing,4088.1
+2006-01-01,2006,1,Household goods retailing,3036.0
+2006-02-01,2006,2,Household goods retailing,2692.5
+2006-03-01,2006,3,Household goods retailing,2953.4
+2006-04-01,2006,4,Household goods retailing,2804.1
+2006-05-01,2006,5,Household goods retailing,3026.2
+2006-06-01,2006,6,Household goods retailing,3148.2
+2006-07-01,2006,7,Household goods retailing,3120.4
+2006-08-01,2006,8,Household goods retailing,3150.1
+2006-09-01,2006,9,Household goods retailing,3196.1
+2006-10-01,2006,10,Household goods retailing,3346.8
+2006-11-01,2006,11,Household goods retailing,3494.0
+2006-12-01,2006,12,Household goods retailing,4301.3
+2007-01-01,2007,1,Household goods retailing,3332.3
+2007-02-01,2007,2,Household goods retailing,2963.4
+2007-03-01,2007,3,Household goods retailing,3283.3
+2007-04-01,2007,4,Household goods retailing,3010.1
+2007-05-01,2007,5,Household goods retailing,3239.8
+2007-06-01,2007,6,Household goods retailing,3399.0
+2007-07-01,2007,7,Household goods retailing,3333.5
+2007-08-01,2007,8,Household goods retailing,3433.6
+2007-09-01,2007,9,Household goods retailing,3443.2
+2007-10-01,2007,10,Household goods retailing,3591.4
+2007-11-01,2007,11,Household goods retailing,3774.4
+2007-12-01,2007,12,Household goods retailing,4684.7
+2008-01-01,2008,1,Household goods retailing,3535.1
+2008-02-01,2008,2,Household goods retailing,3142.9
+2008-03-01,2008,3,Household goods retailing,3212.5
+2008-04-01,2008,4,Household goods retailing,3238.4
+2008-05-01,2008,5,Household goods retailing,3349.2
+2008-06-01,2008,6,Household goods retailing,3443.7
+2008-07-01,2008,7,Household goods retailing,3413.8
+2008-08-01,2008,8,Household goods retailing,3411.0
+2008-09-01,2008,9,Household goods retailing,3327.8
+2008-10-01,2008,10,Household goods retailing,3530.5
+2008-11-01,2008,11,Household goods retailing,3595.6
+2008-12-01,2008,12,Household goods retailing,4908.6
+2009-01-01,2009,1,Household goods retailing,3560.7
+2009-02-01,2009,2,Household goods retailing,2968.2
+2009-03-01,2009,3,Household goods retailing,3301.6
+2009-04-01,2009,4,Household goods retailing,3203.9
+2009-05-01,2009,5,Household goods retailing,3379.7
+2009-06-01,2009,6,Household goods retailing,3620.6
+2009-07-01,2009,7,Household goods retailing,3452.3
+2009-08-01,2009,8,Household goods retailing,3467.7
+2009-09-01,2009,9,Household goods retailing,3406.1
+2009-10-01,2009,10,Household goods retailing,3641.4
+2009-11-01,2009,11,Household goods retailing,3787.3
+2009-12-01,2009,12,Household goods retailing,4706.0
+2010-01-01,2010,1,Household goods retailing,3561.0
+2010-02-01,2010,2,Household goods retailing,3052.5
+2010-03-01,2010,3,Household goods retailing,3322.8
+2010-04-01,2010,4,Household goods retailing,3213.8
+2010-05-01,2010,5,Household goods retailing,3360.1
+2010-06-01,2010,6,Household goods retailing,3591.7
+2010-07-01,2010,7,Household goods retailing,3480.7
+2010-08-01,2010,8,Household goods retailing,3497.8
+2010-09-01,2010,9,Household goods retailing,3476.1
+2010-10-01,2010,10,Household goods retailing,3692.1
+2010-11-01,2010,11,Household goods retailing,3831.0
+2010-12-01,2010,12,Household goods retailing,4839.5
+2011-01-01,2011,1,Household goods retailing,3458.3
+2011-02-01,2011,2,Household goods retailing,3065.6
+2011-03-01,2011,3,Household goods retailing,3365.1
+2011-04-01,2011,4,Household goods retailing,3253.1
+2011-05-01,2011,5,Household goods retailing,3391.7
+2011-06-01,2011,6,Household goods retailing,3531.3
+2011-07-01,2011,7,Household goods retailing,3463.3
+2011-08-01,2011,8,Household goods retailing,3578.6
+2011-09-01,2011,9,Household goods retailing,3613.9
+2011-10-01,2011,10,Household goods retailing,3769.0
+2011-11-01,2011,11,Household goods retailing,3920.7
+2011-12-01,2011,12,Household goods retailing,4867.7
+2012-01-01,2012,1,Household goods retailing,3540.6
+2012-02-01,2012,2,Household goods retailing,3144.9
+2012-03-01,2012,3,Household goods retailing,3396.4
+2012-04-01,2012,4,Household goods retailing,3180.4
+2012-05-01,2012,5,Household goods retailing,3435.8
+2012-06-01,2012,6,Household goods retailing,3579.5
+2012-07-01,2012,7,Household goods retailing,3601.1
+2012-08-01,2012,8,Household goods retailing,3627.1
+2012-09-01,2012,9,Household goods retailing,3639.0
+2012-10-01,2012,10,Household goods retailing,3725.3
+2012-11-01,2012,11,Household goods retailing,3851.4
+2012-12-01,2012,12,Household goods retailing,4760.2
+2013-01-01,2013,1,Household goods retailing,3669.1
+2013-02-01,2013,2,Household goods retailing,3201.1
+2013-03-01,2013,3,Household goods retailing,3393.1
+2013-04-01,2013,4,Household goods retailing,3320.2
+2013-05-01,2013,5,Household goods retailing,3456.3
+2013-06-01,2013,6,Household goods retailing,3602.2
+2013-07-01,2013,7,Household goods retailing,3642.3
+2013-08-01,2013,8,Household goods retailing,3726.1
+2013-09-01,2013,9,Household goods retailing,3624.9
+2013-10-01,2013,10,Household goods retailing,3844.8
+2013-11-01,2013,11,Household goods retailing,3997.8
+2013-12-01,2013,12,Household goods retailing,4963.8
+2014-01-01,2014,1,Household goods retailing,3810.6
+2014-02-01,2014,2,Household goods retailing,3362.4
+2014-03-01,2014,3,Household goods retailing,3627.0
+2014-04-01,2014,4,Household goods retailing,3460.9
+2014-05-01,2014,5,Household goods retailing,3653.0
+2014-06-01,2014,6,Household goods retailing,3844.1
+2014-07-01,2014,7,Household goods retailing,3878.1
+2014-08-01,2014,8,Household goods retailing,3846.1
+2014-09-01,2014,9,Household goods retailing,4033.2
+2014-10-01,2014,10,Household goods retailing,4278.7
+2014-11-01,2014,11,Household goods retailing,4421.3
+2014-12-01,2014,12,Household goods retailing,5357.5
+2015-01-01,2015,1,Household goods retailing,4157.9
+2015-02-01,2015,2,Household goods retailing,3682.4
+2015-03-01,2015,3,Household goods retailing,3983.5
+2015-04-01,2015,4,Household goods retailing,3713.9
+2015-05-01,2015,5,Household goods retailing,3976.9
+2015-06-01,2015,6,Household goods retailing,4319.2
+2015-07-01,2015,7,Household goods retailing,4186.1
+2015-08-01,2015,8,Household goods retailing,4159.8
+2015-09-01,2015,9,Household goods retailing,4273.9
+2015-10-01,2015,10,Household goods retailing,4567.9
+2015-11-01,2015,11,Household goods retailing,4692.8
+2015-12-01,2015,12,Household goods retailing,5735.9
+2016-01-01,2016,1,Household goods retailing,4376.7
+2016-02-01,2016,2,Household goods retailing,3979.6
+2016-03-01,2016,3,Household goods retailing,4097.4
+2016-04-01,2016,4,Household goods retailing,4064.9
+2016-05-01,2016,5,Household goods retailing,4092.5
+2016-06-01,2016,6,Household goods retailing,4357.3
+2016-07-01,2016,7,Household goods retailing,4225.1
+2016-08-01,2016,8,Household goods retailing,4239.4
+2016-09-01,2016,9,Household goods retailing,4469.0
+2016-10-01,2016,10,Household goods retailing,4696.8
+2016-11-01,2016,11,Household goods retailing,4874.4
+2016-12-01,2016,12,Household goods retailing,5782.3
+2017-01-01,2017,1,Household goods retailing,4463.5
+2017-02-01,2017,2,Household goods retailing,3897.6
+2017-03-01,2017,3,Household goods retailing,4196.9
+2017-04-01,2017,4,Household goods retailing,3994.9
+2017-05-01,2017,5,Household goods retailing,4291.0
+2017-06-01,2017,6,Household goods retailing,4659.4
+2017-07-01,2017,7,Household goods retailing,4365.1
+2017-08-01,2017,8,Household goods retailing,4347.3
+2017-09-01,2017,9,Household goods retailing,4384.6
+2017-10-01,2017,10,Household goods retailing,4639.0
+2017-11-01,2017,11,Household goods retailing,5025.0
+2017-12-01,2017,12,Household goods retailing,5901.4
+2018-01-01,2018,1,Household goods retailing,4516.1
+2018-02-01,2018,2,Household goods retailing,4023.6
+2018-03-01,2018,3,Household goods retailing,4327.6
+2018-04-01,2018,4,Household goods retailing,4131.3
+2018-05-01,2018,5,Household goods retailing,4370.8
+2018-06-01,2018,6,Household goods retailing,4659.6
+2018-07-01,2018,7,Household goods retailing,4420.4
+2018-08-01,2018,8,Household goods retailing,4434.8
+2018-09-01,2018,9,Household goods retailing,4467.8
+2018-10-01,2018,10,Household goods retailing,4779.9
+2018-11-01,2018,11,Household goods retailing,5100.0
+2018-12-01,2018,12,Household goods retailing,5826.5
+2019-01-01,2019,1,Household goods retailing,4518.6
+2019-02-01,2019,2,Household goods retailing,4020.5
+2019-03-01,2019,3,Household goods retailing,4325.4
+2019-04-01,2019,4,Household goods retailing,4086.4
+2019-05-01,2019,5,Household goods retailing,4345.5
+2019-06-01,2019,6,Household goods retailing,4590.4
+2019-07-01,2019,7,Household goods retailing,4431.4
+2019-08-01,2019,8,Household goods retailing,4480.6
+2019-09-01,2019,9,Household goods retailing,4491.2
+2019-10-01,2019,10,Household goods retailing,4793.9
+2019-11-01,2019,11,Household goods retailing,5172.5
+2019-12-01,2019,12,Household goods retailing,6024.6
+2020-01-01,2020,1,Household goods retailing,4563.4
+2020-02-01,2020,2,Household goods retailing,4214.4
+2020-03-01,2020,3,Household goods retailing,4752.4
+2020-04-01,2020,4,Household goods retailing,4532.7
+2020-05-01,2020,5,Household goods retailing,5607.6
+2020-06-01,2020,6,Household goods retailing,5756.6
+2020-07-01,2020,7,Household goods retailing,5764.9
+2020-08-01,2020,8,Household goods retailing,5336.9
+2020-09-01,2020,9,Household goods retailing,5272.7
+2020-10-01,2020,10,Household goods retailing,5565.9
+2020-11-01,2020,11,Household goods retailing,6525.9
+2020-12-01,2020,12,Household goods retailing,7065.0
+2021-01-01,2021,1,Household goods retailing,5447.4
+2021-02-01,2021,2,Household goods retailing,4879.3
+2021-03-01,2021,3,Household goods retailing,5337.3
+2021-04-01,2021,4,Household goods retailing,5011.2
+2021-05-01,2021,5,Household goods retailing,5249.2
+2021-06-01,2021,6,Household goods retailing,5551.9
+2021-07-01,2021,7,Household goods retailing,5199.7
+2021-08-01,2021,8,Household goods retailing,5057.1
+2021-09-01,2021,9,Household goods retailing,5330.7
+2021-10-01,2021,10,Household goods retailing,5907.5
+2021-11-01,2021,11,Household goods retailing,7018.2
+2021-12-01,2021,12,Household goods retailing,7442.1
+2022-01-01,2022,1,Household goods retailing,5722.6
+2022-02-01,2022,2,Household goods retailing,5279.2
+2022-03-01,2022,3,Household goods retailing,5875.3
+2022-04-01,2022,4,Household goods retailing,5463.1
+2022-05-01,2022,5,Household goods retailing,5769.0
+2022-06-01,2022,6,Household goods retailing,6010.8
+2022-07-01,2022,7,Household goods retailing,5750.9
+2022-08-01,2022,8,Household goods retailing,5900.1
+2022-09-01,2022,9,Household goods retailing,5968.8
+2022-10-01,2022,10,Household goods retailing,6179.5
+2022-11-01,2022,11,Household goods retailing,6897.5
+2022-12-01,2022,12,Household goods retailing,7348.2
+2023-01-01,2023,1,Household goods retailing,5724.3
+2023-02-01,2023,2,Household goods retailing,5160.8
+2023-03-01,2023,3,Household goods retailing,5541.5
+2023-04-01,2023,4,Household goods retailing,5130.7
+2023-05-01,2023,5,Household goods retailing,5502.7
+2023-06-01,2023,6,Household goods retailing,5824.6
+2023-07-01,2023,7,Household goods retailing,5432.4
+2023-08-01,2023,8,Household goods retailing,5518.6
+2023-09-01,2023,9,Household goods retailing,5749.2
+2023-10-01,2023,10,Household goods retailing,5969.0
+2023-11-01,2023,11,Household goods retailing,6885.5
+2023-12-01,2023,12,Household goods retailing,7096.7
+2024-01-01,2024,1,Household goods retailing,5611.9
+2024-02-01,2024,2,Household goods retailing,5211.7
+2024-03-01,2024,3,Household goods retailing,5294.9
+2024-04-01,2024,4,Household goods retailing,5195.6
+2024-05-01,2024,5,Household goods retailing,5510.7
+2024-06-01,2024,6,Household goods retailing,5841.5
+2024-07-01,2024,7,Household goods retailing,5565.5
+2024-08-01,2024,8,Household goods retailing,5596.6
+2024-09-01,2024,9,Household goods retailing,5695.3
+2024-10-01,2024,10,Household goods retailing,6181.3
+2024-11-01,2024,11,Household goods retailing,7065.1
+2024-12-01,2024,12,Household goods retailing,7645.9
+2025-01-01,2025,1,Household goods retailing,5739.9
+2025-02-01,2025,2,Household goods retailing,5174.1
+2025-03-01,2025,3,Household goods retailing,5535.1
+2025-04-01,2025,4,Household goods retailing,5294.2
+2025-05-01,2025,5,Household goods retailing,5703.8
+2025-06-01,2025,6,Household goods retailing,6187.5
+1982-04-01,1982,4,"Clothing, footwear and personal accessory retailing",359.9
+1982-05-01,1982,5,"Clothing, footwear and personal accessory retailing",386.6
+1982-06-01,1982,6,"Clothing, footwear and personal accessory retailing",350.5
+1982-07-01,1982,7,"Clothing, footwear and personal accessory retailing",359.3
+1982-08-01,1982,8,"Clothing, footwear and personal accessory retailing",325.2
+1982-09-01,1982,9,"Clothing, footwear and personal accessory retailing",346.3
+1982-10-01,1982,10,"Clothing, footwear and personal accessory retailing",354.2
+1982-11-01,1982,11,"Clothing, footwear and personal accessory retailing",403.9
+1982-12-01,1982,12,"Clothing, footwear and personal accessory retailing",571.4
+1983-01-01,1983,1,"Clothing, footwear and personal accessory retailing",326.5
+1983-02-01,1983,2,"Clothing, footwear and personal accessory retailing",298.7
+1983-03-01,1983,3,"Clothing, footwear and personal accessory retailing",377.2
+1983-04-01,1983,4,"Clothing, footwear and personal accessory retailing",412.5
+1983-05-01,1983,5,"Clothing, footwear and personal accessory retailing",418.5
+1983-06-01,1983,6,"Clothing, footwear and personal accessory retailing",383.0
+1983-07-01,1983,7,"Clothing, footwear and personal accessory retailing",384.0
+1983-08-01,1983,8,"Clothing, footwear and personal accessory retailing",379.9
+1983-09-01,1983,9,"Clothing, footwear and personal accessory retailing",402.0
+1983-10-01,1983,10,"Clothing, footwear and personal accessory retailing",395.8
+1983-11-01,1983,11,"Clothing, footwear and personal accessory retailing",431.7
+1983-12-01,1983,12,"Clothing, footwear and personal accessory retailing",626.0
+1984-01-01,1984,1,"Clothing, footwear and personal accessory retailing",357.6
+1984-02-01,1984,2,"Clothing, footwear and personal accessory retailing",346.0
+1984-03-01,1984,3,"Clothing, footwear and personal accessory retailing",419.0
+1984-04-01,1984,4,"Clothing, footwear and personal accessory retailing",406.9
+1984-05-01,1984,5,"Clothing, footwear and personal accessory retailing",480.9
+1984-06-01,1984,6,"Clothing, footwear and personal accessory retailing",403.1
+1984-07-01,1984,7,"Clothing, footwear and personal accessory retailing",411.9
+1984-08-01,1984,8,"Clothing, footwear and personal accessory retailing",414.5
+1984-09-01,1984,9,"Clothing, footwear and personal accessory retailing",392.1
+1984-10-01,1984,10,"Clothing, footwear and personal accessory retailing",446.3
+1984-11-01,1984,11,"Clothing, footwear and personal accessory retailing",484.8
+1984-12-01,1984,12,"Clothing, footwear and personal accessory retailing",638.8
+1985-01-01,1985,1,"Clothing, footwear and personal accessory retailing",401.6
+1985-02-01,1985,2,"Clothing, footwear and personal accessory retailing",368.2
+1985-03-01,1985,3,"Clothing, footwear and personal accessory retailing",418.3
+1985-04-01,1985,4,"Clothing, footwear and personal accessory retailing",450.3
+1985-05-01,1985,5,"Clothing, footwear and personal accessory retailing",540.1
+1985-06-01,1985,6,"Clothing, footwear and personal accessory retailing",452.3
+1985-07-01,1985,7,"Clothing, footwear and personal accessory retailing",476.4
+1985-08-01,1985,8,"Clothing, footwear and personal accessory retailing",467.0
+1985-09-01,1985,9,"Clothing, footwear and personal accessory retailing",452.6
+1985-10-01,1985,10,"Clothing, footwear and personal accessory retailing",522.9
+1985-11-01,1985,11,"Clothing, footwear and personal accessory retailing",557.3
+1985-12-01,1985,12,"Clothing, footwear and personal accessory retailing",749.7
+1986-01-01,1986,1,"Clothing, footwear and personal accessory retailing",447.0
+1986-02-01,1986,2,"Clothing, footwear and personal accessory retailing",399.4
+1986-03-01,1986,3,"Clothing, footwear and personal accessory retailing",419.6
+1986-04-01,1986,4,"Clothing, footwear and personal accessory retailing",504.5
+1986-05-01,1986,5,"Clothing, footwear and personal accessory retailing",588.2
+1986-06-01,1986,6,"Clothing, footwear and personal accessory retailing",485.7
+1986-07-01,1986,7,"Clothing, footwear and personal accessory retailing",507.2
+1986-08-01,1986,8,"Clothing, footwear and personal accessory retailing",484.5
+1986-09-01,1986,9,"Clothing, footwear and personal accessory retailing",496.9
+1986-10-01,1986,10,"Clothing, footwear and personal accessory retailing",545.5
+1986-11-01,1986,11,"Clothing, footwear and personal accessory retailing",545.8
+1986-12-01,1986,12,"Clothing, footwear and personal accessory retailing",804.4
+1987-01-01,1987,1,"Clothing, footwear and personal accessory retailing",461.1
+1987-02-01,1987,2,"Clothing, footwear and personal accessory retailing",417.6
+1987-03-01,1987,3,"Clothing, footwear and personal accessory retailing",479.3
+1987-04-01,1987,4,"Clothing, footwear and personal accessory retailing",528.6
+1987-05-01,1987,5,"Clothing, footwear and personal accessory retailing",585.4
+1987-06-01,1987,6,"Clothing, footwear and personal accessory retailing",529.5
+1987-07-01,1987,7,"Clothing, footwear and personal accessory retailing",579.7
+1987-08-01,1987,8,"Clothing, footwear and personal accessory retailing",518.6
+1987-09-01,1987,9,"Clothing, footwear and personal accessory retailing",563.1
+1987-10-01,1987,10,"Clothing, footwear and personal accessory retailing",596.6
+1987-11-01,1987,11,"Clothing, footwear and personal accessory retailing",587.2
+1987-12-01,1987,12,"Clothing, footwear and personal accessory retailing",864.5
+1988-01-01,1988,1,"Clothing, footwear and personal accessory retailing",487.0
+1988-02-01,1988,2,"Clothing, footwear and personal accessory retailing",502.6
+1988-03-01,1988,3,"Clothing, footwear and personal accessory retailing",551.0
+1988-04-01,1988,4,"Clothing, footwear and personal accessory retailing",563.1
+1988-05-01,1988,5,"Clothing, footwear and personal accessory retailing",619.6
+1988-06-01,1988,6,"Clothing, footwear and personal accessory retailing",601.6
+1988-07-01,1988,7,"Clothing, footwear and personal accessory retailing",592.7
+1988-08-01,1988,8,"Clothing, footwear and personal accessory retailing",578.0
+1988-09-01,1988,9,"Clothing, footwear and personal accessory retailing",641.7
+1988-10-01,1988,10,"Clothing, footwear and personal accessory retailing",650.2
+1988-11-01,1988,11,"Clothing, footwear and personal accessory retailing",664.4
+1988-12-01,1988,12,"Clothing, footwear and personal accessory retailing",956.3
+1989-01-01,1989,1,"Clothing, footwear and personal accessory retailing",598.0
+1989-02-01,1989,2,"Clothing, footwear and personal accessory retailing",517.0
+1989-03-01,1989,3,"Clothing, footwear and personal accessory retailing",593.0
+1989-04-01,1989,4,"Clothing, footwear and personal accessory retailing",632.3
+1989-05-01,1989,5,"Clothing, footwear and personal accessory retailing",679.5
+1989-06-01,1989,6,"Clothing, footwear and personal accessory retailing",661.4
+1989-07-01,1989,7,"Clothing, footwear and personal accessory retailing",634.6
+1989-08-01,1989,8,"Clothing, footwear and personal accessory retailing",603.0
+1989-09-01,1989,9,"Clothing, footwear and personal accessory retailing",636.3
+1989-10-01,1989,10,"Clothing, footwear and personal accessory retailing",651.2
+1989-11-01,1989,11,"Clothing, footwear and personal accessory retailing",709.5
+1989-12-01,1989,12,"Clothing, footwear and personal accessory retailing",964.7
+1990-01-01,1990,1,"Clothing, footwear and personal accessory retailing",604.5
+1990-02-01,1990,2,"Clothing, footwear and personal accessory retailing",516.7
+1990-03-01,1990,3,"Clothing, footwear and personal accessory retailing",604.4
+1990-04-01,1990,4,"Clothing, footwear and personal accessory retailing",635.3
+1990-05-01,1990,5,"Clothing, footwear and personal accessory retailing",712.9
+1990-06-01,1990,6,"Clothing, footwear and personal accessory retailing",664.7
+1990-07-01,1990,7,"Clothing, footwear and personal accessory retailing",647.9
+1990-08-01,1990,8,"Clothing, footwear and personal accessory retailing",639.4
+1990-09-01,1990,9,"Clothing, footwear and personal accessory retailing",636.0
+1990-10-01,1990,10,"Clothing, footwear and personal accessory retailing",682.8
+1990-11-01,1990,11,"Clothing, footwear and personal accessory retailing",722.3
+1990-12-01,1990,12,"Clothing, footwear and personal accessory retailing",985.8
+1991-01-01,1991,1,"Clothing, footwear and personal accessory retailing",635.7
+1991-02-01,1991,2,"Clothing, footwear and personal accessory retailing",551.5
+1991-03-01,1991,3,"Clothing, footwear and personal accessory retailing",603.0
+1991-04-01,1991,4,"Clothing, footwear and personal accessory retailing",686.3
+1991-05-01,1991,5,"Clothing, footwear and personal accessory retailing",735.1
+1991-06-01,1991,6,"Clothing, footwear and personal accessory retailing",651.6
+1991-07-01,1991,7,"Clothing, footwear and personal accessory retailing",722.7
+1991-08-01,1991,8,"Clothing, footwear and personal accessory retailing",664.8
+1991-09-01,1991,9,"Clothing, footwear and personal accessory retailing",648.6
+1991-10-01,1991,10,"Clothing, footwear and personal accessory retailing",753.0
+1991-11-01,1991,11,"Clothing, footwear and personal accessory retailing",740.7
+1991-12-01,1991,12,"Clothing, footwear and personal accessory retailing",1046.5
+1992-01-01,1992,1,"Clothing, footwear and personal accessory retailing",695.3
+1992-02-01,1992,2,"Clothing, footwear and personal accessory retailing",611.4
+1992-03-01,1992,3,"Clothing, footwear and personal accessory retailing",645.5
+1992-04-01,1992,4,"Clothing, footwear and personal accessory retailing",721.6
+1992-05-01,1992,5,"Clothing, footwear and personal accessory retailing",769.2
+1992-06-01,1992,6,"Clothing, footwear and personal accessory retailing",721.0
+1992-07-01,1992,7,"Clothing, footwear and personal accessory retailing",729.6
+1992-08-01,1992,8,"Clothing, footwear and personal accessory retailing",633.8
+1992-09-01,1992,9,"Clothing, footwear and personal accessory retailing",668.4
+1992-10-01,1992,10,"Clothing, footwear and personal accessory retailing",747.9
+1992-11-01,1992,11,"Clothing, footwear and personal accessory retailing",734.0
+1992-12-01,1992,12,"Clothing, footwear and personal accessory retailing",1060.3
+1993-01-01,1993,1,"Clothing, footwear and personal accessory retailing",663.8
+1993-02-01,1993,2,"Clothing, footwear and personal accessory retailing",568.3
+1993-03-01,1993,3,"Clothing, footwear and personal accessory retailing",634.5
+1993-04-01,1993,4,"Clothing, footwear and personal accessory retailing",668.0
+1993-05-01,1993,5,"Clothing, footwear and personal accessory retailing",723.0
+1993-06-01,1993,6,"Clothing, footwear and personal accessory retailing",711.5
+1993-07-01,1993,7,"Clothing, footwear and personal accessory retailing",702.8
+1993-08-01,1993,8,"Clothing, footwear and personal accessory retailing",639.9
+1993-09-01,1993,9,"Clothing, footwear and personal accessory retailing",678.3
+1993-10-01,1993,10,"Clothing, footwear and personal accessory retailing",703.9
+1993-11-01,1993,11,"Clothing, footwear and personal accessory retailing",746.5
+1993-12-01,1993,12,"Clothing, footwear and personal accessory retailing",1089.7
+1994-01-01,1994,1,"Clothing, footwear and personal accessory retailing",665.3
+1994-02-01,1994,2,"Clothing, footwear and personal accessory retailing",579.3
+1994-03-01,1994,3,"Clothing, footwear and personal accessory retailing",685.9
+1994-04-01,1994,4,"Clothing, footwear and personal accessory retailing",709.4
+1994-05-01,1994,5,"Clothing, footwear and personal accessory retailing",731.6
+1994-06-01,1994,6,"Clothing, footwear and personal accessory retailing",695.9
+1994-07-01,1994,7,"Clothing, footwear and personal accessory retailing",682.5
+1994-08-01,1994,8,"Clothing, footwear and personal accessory retailing",677.3
+1994-09-01,1994,9,"Clothing, footwear and personal accessory retailing",722.3
+1994-10-01,1994,10,"Clothing, footwear and personal accessory retailing",748.2
+1994-11-01,1994,11,"Clothing, footwear and personal accessory retailing",773.9
+1994-12-01,1994,12,"Clothing, footwear and personal accessory retailing",1092.1
+1995-01-01,1995,1,"Clothing, footwear and personal accessory retailing",703.5
+1995-02-01,1995,2,"Clothing, footwear and personal accessory retailing",615.7
+1995-03-01,1995,3,"Clothing, footwear and personal accessory retailing",702.4
+1995-04-01,1995,4,"Clothing, footwear and personal accessory retailing",755.9
+1995-05-01,1995,5,"Clothing, footwear and personal accessory retailing",766.0
+1995-06-01,1995,6,"Clothing, footwear and personal accessory retailing",761.4
+1995-07-01,1995,7,"Clothing, footwear and personal accessory retailing",726.7
+1995-08-01,1995,8,"Clothing, footwear and personal accessory retailing",727.6
+1995-09-01,1995,9,"Clothing, footwear and personal accessory retailing",751.6
+1995-10-01,1995,10,"Clothing, footwear and personal accessory retailing",769.4
+1995-11-01,1995,11,"Clothing, footwear and personal accessory retailing",813.6
+1995-12-01,1995,12,"Clothing, footwear and personal accessory retailing",1156.5
+1996-01-01,1996,1,"Clothing, footwear and personal accessory retailing",754.8
+1996-02-01,1996,2,"Clothing, footwear and personal accessory retailing",662.9
+1996-03-01,1996,3,"Clothing, footwear and personal accessory retailing",717.6
+1996-04-01,1996,4,"Clothing, footwear and personal accessory retailing",758.2
+1996-05-01,1996,5,"Clothing, footwear and personal accessory retailing",807.1
+1996-06-01,1996,6,"Clothing, footwear and personal accessory retailing",755.8
+1996-07-01,1996,7,"Clothing, footwear and personal accessory retailing",777.9
+1996-08-01,1996,8,"Clothing, footwear and personal accessory retailing",746.1
+1996-09-01,1996,9,"Clothing, footwear and personal accessory retailing",739.9
+1996-10-01,1996,10,"Clothing, footwear and personal accessory retailing",806.1
+1996-11-01,1996,11,"Clothing, footwear and personal accessory retailing",808.0
+1996-12-01,1996,12,"Clothing, footwear and personal accessory retailing",1148.8
+1997-01-01,1997,1,"Clothing, footwear and personal accessory retailing",777.1
+1997-02-01,1997,2,"Clothing, footwear and personal accessory retailing",639.8
+1997-03-01,1997,3,"Clothing, footwear and personal accessory retailing",700.9
+1997-04-01,1997,4,"Clothing, footwear and personal accessory retailing",775.5
+1997-05-01,1997,5,"Clothing, footwear and personal accessory retailing",845.3
+1997-06-01,1997,6,"Clothing, footwear and personal accessory retailing",749.4
+1997-07-01,1997,7,"Clothing, footwear and personal accessory retailing",791.7
+1997-08-01,1997,8,"Clothing, footwear and personal accessory retailing",740.1
+1997-09-01,1997,9,"Clothing, footwear and personal accessory retailing",777.5
+1997-10-01,1997,10,"Clothing, footwear and personal accessory retailing",841.7
+1997-11-01,1997,11,"Clothing, footwear and personal accessory retailing",863.6
+1997-12-01,1997,12,"Clothing, footwear and personal accessory retailing",1231.1
+1998-01-01,1998,1,"Clothing, footwear and personal accessory retailing",803.2
+1998-02-01,1998,2,"Clothing, footwear and personal accessory retailing",681.0
+1998-03-01,1998,3,"Clothing, footwear and personal accessory retailing",749.7
+1998-04-01,1998,4,"Clothing, footwear and personal accessory retailing",829.8
+1998-05-01,1998,5,"Clothing, footwear and personal accessory retailing",894.0
+1998-06-01,1998,6,"Clothing, footwear and personal accessory retailing",835.0
+1998-07-01,1998,7,"Clothing, footwear and personal accessory retailing",888.2
+1998-08-01,1998,8,"Clothing, footwear and personal accessory retailing",822.5
+1998-09-01,1998,9,"Clothing, footwear and personal accessory retailing",869.3
+1998-10-01,1998,10,"Clothing, footwear and personal accessory retailing",928.8
+1998-11-01,1998,11,"Clothing, footwear and personal accessory retailing",925.5
+1998-12-01,1998,12,"Clothing, footwear and personal accessory retailing",1348.5
+1999-01-01,1999,1,"Clothing, footwear and personal accessory retailing",866.6
+1999-02-01,1999,2,"Clothing, footwear and personal accessory retailing",736.7
+1999-03-01,1999,3,"Clothing, footwear and personal accessory retailing",864.4
+1999-04-01,1999,4,"Clothing, footwear and personal accessory retailing",930.6
+1999-05-01,1999,5,"Clothing, footwear and personal accessory retailing",937.0
+1999-06-01,1999,6,"Clothing, footwear and personal accessory retailing",915.5
+1999-07-01,1999,7,"Clothing, footwear and personal accessory retailing",913.3
+1999-08-01,1999,8,"Clothing, footwear and personal accessory retailing",888.6
+1999-09-01,1999,9,"Clothing, footwear and personal accessory retailing",939.6
+1999-10-01,1999,10,"Clothing, footwear and personal accessory retailing",982.2
+1999-11-01,1999,11,"Clothing, footwear and personal accessory retailing",1022.2
+1999-12-01,1999,12,"Clothing, footwear and personal accessory retailing",1471.2
+2000-01-01,2000,1,"Clothing, footwear and personal accessory retailing",903.4
+2000-02-01,2000,2,"Clothing, footwear and personal accessory retailing",764.5
+2000-03-01,2000,3,"Clothing, footwear and personal accessory retailing",877.4
+2000-04-01,2000,4,"Clothing, footwear and personal accessory retailing",905.7
+2000-05-01,2000,5,"Clothing, footwear and personal accessory retailing",995.2
+2000-06-01,2000,6,"Clothing, footwear and personal accessory retailing",1103.9
+2000-07-01,2000,7,"Clothing, footwear and personal accessory retailing",808.6
+2000-08-01,2000,8,"Clothing, footwear and personal accessory retailing",853.0
+2000-09-01,2000,9,"Clothing, footwear and personal accessory retailing",986.4
+2000-10-01,2000,10,"Clothing, footwear and personal accessory retailing",957.7
+2000-11-01,2000,11,"Clothing, footwear and personal accessory retailing",1022.4
+2000-12-01,2000,12,"Clothing, footwear and personal accessory retailing",1499.7
+2001-01-01,2001,1,"Clothing, footwear and personal accessory retailing",945.7
+2001-02-01,2001,2,"Clothing, footwear and personal accessory retailing",800.3
+2001-03-01,2001,3,"Clothing, footwear and personal accessory retailing",945.4
+2001-04-01,2001,4,"Clothing, footwear and personal accessory retailing",989.6
+2001-05-01,2001,5,"Clothing, footwear and personal accessory retailing",1056.3
+2001-06-01,2001,6,"Clothing, footwear and personal accessory retailing",989.3
+2001-07-01,2001,7,"Clothing, footwear and personal accessory retailing",976.7
+2001-08-01,2001,8,"Clothing, footwear and personal accessory retailing",947.1
+2001-09-01,2001,9,"Clothing, footwear and personal accessory retailing",985.1
+2001-10-01,2001,10,"Clothing, footwear and personal accessory retailing",1079.5
+2001-11-01,2001,11,"Clothing, footwear and personal accessory retailing",1128.2
+2001-12-01,2001,12,"Clothing, footwear and personal accessory retailing",1616.1
+2002-01-01,2002,1,"Clothing, footwear and personal accessory retailing",1072.6
+2002-02-01,2002,2,"Clothing, footwear and personal accessory retailing",895.5
+2002-03-01,2002,3,"Clothing, footwear and personal accessory retailing",1016.1
+2002-04-01,2002,4,"Clothing, footwear and personal accessory retailing",1058.2
+2002-05-01,2002,5,"Clothing, footwear and personal accessory retailing",1139.2
+2002-06-01,2002,6,"Clothing, footwear and personal accessory retailing",1029.5
+2002-07-01,2002,7,"Clothing, footwear and personal accessory retailing",1033.3
+2002-08-01,2002,8,"Clothing, footwear and personal accessory retailing",1050.6
+2002-09-01,2002,9,"Clothing, footwear and personal accessory retailing",1079.0
+2002-10-01,2002,10,"Clothing, footwear and personal accessory retailing",1170.0
+2002-11-01,2002,11,"Clothing, footwear and personal accessory retailing",1250.2
+2002-12-01,2002,12,"Clothing, footwear and personal accessory retailing",1730.9
+2003-01-01,2003,1,"Clothing, footwear and personal accessory retailing",1108.8
+2003-02-01,2003,2,"Clothing, footwear and personal accessory retailing",925.0
+2003-03-01,2003,3,"Clothing, footwear and personal accessory retailing",1072.8
+2003-04-01,2003,4,"Clothing, footwear and personal accessory retailing",1144.4
+2003-05-01,2003,5,"Clothing, footwear and personal accessory retailing",1188.2
+2003-06-01,2003,6,"Clothing, footwear and personal accessory retailing",1130.4
+2003-07-01,2003,7,"Clothing, footwear and personal accessory retailing",1130.1
+2003-08-01,2003,8,"Clothing, footwear and personal accessory retailing",1097.2
+2003-09-01,2003,9,"Clothing, footwear and personal accessory retailing",1166.3
+2003-10-01,2003,10,"Clothing, footwear and personal accessory retailing",1270.2
+2003-11-01,2003,11,"Clothing, footwear and personal accessory retailing",1319.3
+2003-12-01,2003,12,"Clothing, footwear and personal accessory retailing",1854.6
+2004-01-01,2004,1,"Clothing, footwear and personal accessory retailing",1217.0
+2004-02-01,2004,2,"Clothing, footwear and personal accessory retailing",1033.1
+2004-03-01,2004,3,"Clothing, footwear and personal accessory retailing",1130.9
+2004-04-01,2004,4,"Clothing, footwear and personal accessory retailing",1190.7
+2004-05-01,2004,5,"Clothing, footwear and personal accessory retailing",1265.6
+2004-06-01,2004,6,"Clothing, footwear and personal accessory retailing",1261.2
+2004-07-01,2004,7,"Clothing, footwear and personal accessory retailing",1233.3
+2004-08-01,2004,8,"Clothing, footwear and personal accessory retailing",1185.0
+2004-09-01,2004,9,"Clothing, footwear and personal accessory retailing",1272.5
+2004-10-01,2004,10,"Clothing, footwear and personal accessory retailing",1324.9
+2004-11-01,2004,11,"Clothing, footwear and personal accessory retailing",1349.9
+2004-12-01,2004,12,"Clothing, footwear and personal accessory retailing",1915.2
+2005-01-01,2005,1,"Clothing, footwear and personal accessory retailing",1273.7
+2005-02-01,2005,2,"Clothing, footwear and personal accessory retailing",1055.6
+2005-03-01,2005,3,"Clothing, footwear and personal accessory retailing",1210.4
+2005-04-01,2005,4,"Clothing, footwear and personal accessory retailing",1221.3
+2005-05-01,2005,5,"Clothing, footwear and personal accessory retailing",1308.9
+2005-06-01,2005,6,"Clothing, footwear and personal accessory retailing",1310.1
+2005-07-01,2005,7,"Clothing, footwear and personal accessory retailing",1237.2
+2005-08-01,2005,8,"Clothing, footwear and personal accessory retailing",1235.8
+2005-09-01,2005,9,"Clothing, footwear and personal accessory retailing",1315.5
+2005-10-01,2005,10,"Clothing, footwear and personal accessory retailing",1368.8
+2005-11-01,2005,11,"Clothing, footwear and personal accessory retailing",1400.9
+2005-12-01,2005,12,"Clothing, footwear and personal accessory retailing",1958.3
+2006-01-01,2006,1,"Clothing, footwear and personal accessory retailing",1289.2
+2006-02-01,2006,2,"Clothing, footwear and personal accessory retailing",1084.3
+2006-03-01,2006,3,"Clothing, footwear and personal accessory retailing",1242.8
+2006-04-01,2006,4,"Clothing, footwear and personal accessory retailing",1290.5
+2006-05-01,2006,5,"Clothing, footwear and personal accessory retailing",1349.0
+2006-06-01,2006,6,"Clothing, footwear and personal accessory retailing",1346.9
+2006-07-01,2006,7,"Clothing, footwear and personal accessory retailing",1304.0
+2006-08-01,2006,8,"Clothing, footwear and personal accessory retailing",1324.9
+2006-09-01,2006,9,"Clothing, footwear and personal accessory retailing",1384.2
+2006-10-01,2006,10,"Clothing, footwear and personal accessory retailing",1464.3
+2006-11-01,2006,11,"Clothing, footwear and personal accessory retailing",1486.1
+2006-12-01,2006,12,"Clothing, footwear and personal accessory retailing",2056.6
+2007-01-01,2007,1,"Clothing, footwear and personal accessory retailing",1354.6
+2007-02-01,2007,2,"Clothing, footwear and personal accessory retailing",1165.0
+2007-03-01,2007,3,"Clothing, footwear and personal accessory retailing",1368.3
+2007-04-01,2007,4,"Clothing, footwear and personal accessory retailing",1359.1
+2007-05-01,2007,5,"Clothing, footwear and personal accessory retailing",1430.3
+2007-06-01,2007,6,"Clothing, footwear and personal accessory retailing",1461.5
+2007-07-01,2007,7,"Clothing, footwear and personal accessory retailing",1427.6
+2007-08-01,2007,8,"Clothing, footwear and personal accessory retailing",1406.8
+2007-09-01,2007,9,"Clothing, footwear and personal accessory retailing",1459.1
+2007-10-01,2007,10,"Clothing, footwear and personal accessory retailing",1561.1
+2007-11-01,2007,11,"Clothing, footwear and personal accessory retailing",1617.8
+2007-12-01,2007,12,"Clothing, footwear and personal accessory retailing",2204.2
+2008-01-01,2008,1,"Clothing, footwear and personal accessory retailing",1461.1
+2008-02-01,2008,2,"Clothing, footwear and personal accessory retailing",1278.1
+2008-03-01,2008,3,"Clothing, footwear and personal accessory retailing",1353.9
+2008-04-01,2008,4,"Clothing, footwear and personal accessory retailing",1486.7
+2008-05-01,2008,5,"Clothing, footwear and personal accessory retailing",1541.9
+2008-06-01,2008,6,"Clothing, footwear and personal accessory retailing",1402.5
+2008-07-01,2008,7,"Clothing, footwear and personal accessory retailing",1460.4
+2008-08-01,2008,8,"Clothing, footwear and personal accessory retailing",1419.4
+2008-09-01,2008,9,"Clothing, footwear and personal accessory retailing",1468.3
+2008-10-01,2008,10,"Clothing, footwear and personal accessory retailing",1547.4
+2008-11-01,2008,11,"Clothing, footwear and personal accessory retailing",1594.1
+2008-12-01,2008,12,"Clothing, footwear and personal accessory retailing",2308.7
+2009-01-01,2009,1,"Clothing, footwear and personal accessory retailing",1543.2
+2009-02-01,2009,2,"Clothing, footwear and personal accessory retailing",1259.1
+2009-03-01,2009,3,"Clothing, footwear and personal accessory retailing",1518.6
+2009-04-01,2009,4,"Clothing, footwear and personal accessory retailing",1579.8
+2009-05-01,2009,5,"Clothing, footwear and personal accessory retailing",1709.3
+2009-06-01,2009,6,"Clothing, footwear and personal accessory retailing",1568.0
+2009-07-01,2009,7,"Clothing, footwear and personal accessory retailing",1514.7
+2009-08-01,2009,8,"Clothing, footwear and personal accessory retailing",1498.2
+2009-09-01,2009,9,"Clothing, footwear and personal accessory retailing",1537.2
+2009-10-01,2009,10,"Clothing, footwear and personal accessory retailing",1631.4
+2009-11-01,2009,11,"Clothing, footwear and personal accessory retailing",1692.5
+2009-12-01,2009,12,"Clothing, footwear and personal accessory retailing",2493.6
+2010-01-01,2010,1,"Clothing, footwear and personal accessory retailing",1545.9
+2010-02-01,2010,2,"Clothing, footwear and personal accessory retailing",1273.6
+2010-03-01,2010,3,"Clothing, footwear and personal accessory retailing",1452.3
+2010-04-01,2010,4,"Clothing, footwear and personal accessory retailing",1507.5
+2010-05-01,2010,5,"Clothing, footwear and personal accessory retailing",1653.6
+2010-06-01,2010,6,"Clothing, footwear and personal accessory retailing",1558.6
+2010-07-01,2010,7,"Clothing, footwear and personal accessory retailing",1579.0
+2010-08-01,2010,8,"Clothing, footwear and personal accessory retailing",1511.0
+2010-09-01,2010,9,"Clothing, footwear and personal accessory retailing",1610.1
+2010-10-01,2010,10,"Clothing, footwear and personal accessory retailing",1594.6
+2010-11-01,2010,11,"Clothing, footwear and personal accessory retailing",1656.3
+2010-12-01,2010,12,"Clothing, footwear and personal accessory retailing",2546.8
+2011-01-01,2011,1,"Clothing, footwear and personal accessory retailing",1499.0
+2011-02-01,2011,2,"Clothing, footwear and personal accessory retailing",1291.8
+2011-03-01,2011,3,"Clothing, footwear and personal accessory retailing",1478.2
+2011-04-01,2011,4,"Clothing, footwear and personal accessory retailing",1549.9
+2011-05-01,2011,5,"Clothing, footwear and personal accessory retailing",1626.1
+2011-06-01,2011,6,"Clothing, footwear and personal accessory retailing",1545.9
+2011-07-01,2011,7,"Clothing, footwear and personal accessory retailing",1456.2
+2011-08-01,2011,8,"Clothing, footwear and personal accessory retailing",1420.7
+2011-09-01,2011,9,"Clothing, footwear and personal accessory retailing",1500.0
+2011-10-01,2011,10,"Clothing, footwear and personal accessory retailing",1566.6
+2011-11-01,2011,11,"Clothing, footwear and personal accessory retailing",1612.0
+2011-12-01,2011,12,"Clothing, footwear and personal accessory retailing",2577.1
+2012-01-01,2012,1,"Clothing, footwear and personal accessory retailing",1536.3
+2012-02-01,2012,2,"Clothing, footwear and personal accessory retailing",1308.8
+2012-03-01,2012,3,"Clothing, footwear and personal accessory retailing",1511.5
+2012-04-01,2012,4,"Clothing, footwear and personal accessory retailing",1517.7
+2012-05-01,2012,5,"Clothing, footwear and personal accessory retailing",1695.7
+2012-06-01,2012,6,"Clothing, footwear and personal accessory retailing",1647.6
+2012-07-01,2012,7,"Clothing, footwear and personal accessory retailing",1546.9
+2012-08-01,2012,8,"Clothing, footwear and personal accessory retailing",1531.4
+2012-09-01,2012,9,"Clothing, footwear and personal accessory retailing",1565.6
+2012-10-01,2012,10,"Clothing, footwear and personal accessory retailing",1619.9
+2012-11-01,2012,11,"Clothing, footwear and personal accessory retailing",1682.8
+2012-12-01,2012,12,"Clothing, footwear and personal accessory retailing",2615.7
+2013-01-01,2013,1,"Clothing, footwear and personal accessory retailing",1613.2
+2013-02-01,2013,2,"Clothing, footwear and personal accessory retailing",1348.1
+2013-03-01,2013,3,"Clothing, footwear and personal accessory retailing",1448.8
+2013-04-01,2013,4,"Clothing, footwear and personal accessory retailing",1578.0
+2013-05-01,2013,5,"Clothing, footwear and personal accessory retailing",1718.0
+2013-06-01,2013,6,"Clothing, footwear and personal accessory retailing",1641.1
+2013-07-01,2013,7,"Clothing, footwear and personal accessory retailing",1592.9
+2013-08-01,2013,8,"Clothing, footwear and personal accessory retailing",1618.4
+2013-09-01,2013,9,"Clothing, footwear and personal accessory retailing",1676.6
+2013-10-01,2013,10,"Clothing, footwear and personal accessory retailing",1791.4
+2013-11-01,2013,11,"Clothing, footwear and personal accessory retailing",1879.7
+2013-12-01,2013,12,"Clothing, footwear and personal accessory retailing",2761.9
+2014-01-01,2014,1,"Clothing, footwear and personal accessory retailing",1718.2
+2014-02-01,2014,2,"Clothing, footwear and personal accessory retailing",1416.4
+2014-03-01,2014,3,"Clothing, footwear and personal accessory retailing",1609.5
+2014-04-01,2014,4,"Clothing, footwear and personal accessory retailing",1656.5
+2014-05-01,2014,5,"Clothing, footwear and personal accessory retailing",1780.5
+2014-06-01,2014,6,"Clothing, footwear and personal accessory retailing",1680.8
+2014-07-01,2014,7,"Clothing, footwear and personal accessory retailing",1649.0
+2014-08-01,2014,8,"Clothing, footwear and personal accessory retailing",1604.1
+2014-09-01,2014,9,"Clothing, footwear and personal accessory retailing",1691.2
+2014-10-01,2014,10,"Clothing, footwear and personal accessory retailing",1791.5
+2014-11-01,2014,11,"Clothing, footwear and personal accessory retailing",1821.0
+2014-12-01,2014,12,"Clothing, footwear and personal accessory retailing",2907.0
+2015-01-01,2015,1,"Clothing, footwear and personal accessory retailing",1796.2
+2015-02-01,2015,2,"Clothing, footwear and personal accessory retailing",1456.2
+2015-03-01,2015,3,"Clothing, footwear and personal accessory retailing",1702.0
+2015-04-01,2015,4,"Clothing, footwear and personal accessory retailing",1793.4
+2015-05-01,2015,5,"Clothing, footwear and personal accessory retailing",1891.2
+2015-06-01,2015,6,"Clothing, footwear and personal accessory retailing",1774.7
+2015-07-01,2015,7,"Clothing, footwear and personal accessory retailing",1788.5
+2015-08-01,2015,8,"Clothing, footwear and personal accessory retailing",1697.1
+2015-09-01,2015,9,"Clothing, footwear and personal accessory retailing",1790.1
+2015-10-01,2015,10,"Clothing, footwear and personal accessory retailing",1888.5
+2015-11-01,2015,11,"Clothing, footwear and personal accessory retailing",1915.6
+2015-12-01,2015,12,"Clothing, footwear and personal accessory retailing",3079.9
+2016-01-01,2016,1,"Clothing, footwear and personal accessory retailing",1875.7
+2016-02-01,2016,2,"Clothing, footwear and personal accessory retailing",1598.7
+2016-03-01,2016,3,"Clothing, footwear and personal accessory retailing",1780.6
+2016-04-01,2016,4,"Clothing, footwear and personal accessory retailing",1924.6
+2016-05-01,2016,5,"Clothing, footwear and personal accessory retailing",1926.7
+2016-06-01,2016,6,"Clothing, footwear and personal accessory retailing",1967.1
+2016-07-01,2016,7,"Clothing, footwear and personal accessory retailing",1876.1
+2016-08-01,2016,8,"Clothing, footwear and personal accessory retailing",1806.3
+2016-09-01,2016,9,"Clothing, footwear and personal accessory retailing",1896.8
+2016-10-01,2016,10,"Clothing, footwear and personal accessory retailing",1937.8
+2016-11-01,2016,11,"Clothing, footwear and personal accessory retailing",2057.1
+2016-12-01,2016,12,"Clothing, footwear and personal accessory retailing",3330.5
+2017-01-01,2017,1,"Clothing, footwear and personal accessory retailing",1939.7
+2017-02-01,2017,2,"Clothing, footwear and personal accessory retailing",1558.9
+2017-03-01,2017,3,"Clothing, footwear and personal accessory retailing",1826.7
+2017-04-01,2017,4,"Clothing, footwear and personal accessory retailing",1885.8
+2017-05-01,2017,5,"Clothing, footwear and personal accessory retailing",2024.2
+2017-06-01,2017,6,"Clothing, footwear and personal accessory retailing",1988.3
+2017-07-01,2017,7,"Clothing, footwear and personal accessory retailing",1896.4
+2017-08-01,2017,8,"Clothing, footwear and personal accessory retailing",1839.3
+2017-09-01,2017,9,"Clothing, footwear and personal accessory retailing",1891.6
+2017-10-01,2017,10,"Clothing, footwear and personal accessory retailing",1948.2
+2017-11-01,2017,11,"Clothing, footwear and personal accessory retailing",2139.4
+2017-12-01,2017,12,"Clothing, footwear and personal accessory retailing",3297.7
+2018-01-01,2018,1,"Clothing, footwear and personal accessory retailing",1967.4
+2018-02-01,2018,2,"Clothing, footwear and personal accessory retailing",1632.2
+2018-03-01,2018,3,"Clothing, footwear and personal accessory retailing",1884.8
+2018-04-01,2018,4,"Clothing, footwear and personal accessory retailing",1913.2
+2018-05-01,2018,5,"Clothing, footwear and personal accessory retailing",2123.9
+2018-06-01,2018,6,"Clothing, footwear and personal accessory retailing",2099.3
+2018-07-01,2018,7,"Clothing, footwear and personal accessory retailing",1918.7
+2018-08-01,2018,8,"Clothing, footwear and personal accessory retailing",1919.5
+2018-09-01,2018,9,"Clothing, footwear and personal accessory retailing",1915.4
+2018-10-01,2018,10,"Clothing, footwear and personal accessory retailing",2082.5
+2018-11-01,2018,11,"Clothing, footwear and personal accessory retailing",2268.7
+2018-12-01,2018,12,"Clothing, footwear and personal accessory retailing",3351.8
+2019-01-01,2019,1,"Clothing, footwear and personal accessory retailing",2027.6
+2019-02-01,2019,2,"Clothing, footwear and personal accessory retailing",1690.8
+2019-03-01,2019,3,"Clothing, footwear and personal accessory retailing",1970.6
+2019-04-01,2019,4,"Clothing, footwear and personal accessory retailing",1996.7
+2019-05-01,2019,5,"Clothing, footwear and personal accessory retailing",2167.9
+2019-06-01,2019,6,"Clothing, footwear and personal accessory retailing",2134.9
+2019-07-01,2019,7,"Clothing, footwear and personal accessory retailing",2005.3
+2019-08-01,2019,8,"Clothing, footwear and personal accessory retailing",2030.1
+2019-09-01,2019,9,"Clothing, footwear and personal accessory retailing",1981.3
+2019-10-01,2019,10,"Clothing, footwear and personal accessory retailing",2126.9
+2019-11-01,2019,11,"Clothing, footwear and personal accessory retailing",2404.0
+2019-12-01,2019,12,"Clothing, footwear and personal accessory retailing",3474.3
+2020-01-01,2020,1,"Clothing, footwear and personal accessory retailing",2086.8
+2020-02-01,2020,2,"Clothing, footwear and personal accessory retailing",1718.2
+2020-03-01,2020,3,"Clothing, footwear and personal accessory retailing",1452.4
+2020-04-01,2020,4,"Clothing, footwear and personal accessory retailing",703.9
+2020-05-01,2020,5,"Clothing, footwear and personal accessory retailing",1740.7
+2020-06-01,2020,6,"Clothing, footwear and personal accessory retailing",2055.3
+2020-07-01,2020,7,"Clothing, footwear and personal accessory retailing",2104.2
+2020-08-01,2020,8,"Clothing, footwear and personal accessory retailing",1798.0
+2020-09-01,2020,9,"Clothing, footwear and personal accessory retailing",1821.5
+2020-10-01,2020,10,"Clothing, footwear and personal accessory retailing",2083.7
+2020-11-01,2020,11,"Clothing, footwear and personal accessory retailing",2757.6
+2020-12-01,2020,12,"Clothing, footwear and personal accessory retailing",3868.9
+2021-01-01,2021,1,"Clothing, footwear and personal accessory retailing",2237.5
+2021-02-01,2021,2,"Clothing, footwear and personal accessory retailing",1872.8
+2021-03-01,2021,3,"Clothing, footwear and personal accessory retailing",2297.3
+2021-04-01,2021,4,"Clothing, footwear and personal accessory retailing",2387.6
+2021-05-01,2021,5,"Clothing, footwear and personal accessory retailing",2519.6
+2021-06-01,2021,6,"Clothing, footwear and personal accessory retailing",2265.2
+2021-07-01,2021,7,"Clothing, footwear and personal accessory retailing",1841.5
+2021-08-01,2021,8,"Clothing, footwear and personal accessory retailing",1471.6
+2021-09-01,2021,9,"Clothing, footwear and personal accessory retailing",1616.5
+2021-10-01,2021,10,"Clothing, footwear and personal accessory retailing",2173.8
+2021-11-01,2021,11,"Clothing, footwear and personal accessory retailing",3241.0
+2021-12-01,2021,12,"Clothing, footwear and personal accessory retailing",4136.7
+2022-01-01,2022,1,"Clothing, footwear and personal accessory retailing",2371.1
+2022-02-01,2022,2,"Clothing, footwear and personal accessory retailing",2205.5
+2022-03-01,2022,3,"Clothing, footwear and personal accessory retailing",2608.7
+2022-04-01,2022,4,"Clothing, footwear and personal accessory retailing",2767.8
+2022-05-01,2022,5,"Clothing, footwear and personal accessory retailing",2873.4
+2022-06-01,2022,6,"Clothing, footwear and personal accessory retailing",2868.6
+2022-07-01,2022,7,"Clothing, footwear and personal accessory retailing",2775.1
+2022-08-01,2022,8,"Clothing, footwear and personal accessory retailing",2687.7
+2022-09-01,2022,9,"Clothing, footwear and personal accessory retailing",2773.0
+2022-10-01,2022,10,"Clothing, footwear and personal accessory retailing",2872.5
+2022-11-01,2022,11,"Clothing, footwear and personal accessory retailing",3462.8
+2022-12-01,2022,12,"Clothing, footwear and personal accessory retailing",4490.6
+2023-01-01,2023,1,"Clothing, footwear and personal accessory retailing",2794.1
+2023-02-01,2023,2,"Clothing, footwear and personal accessory retailing",2339.8
+2023-03-01,2023,3,"Clothing, footwear and personal accessory retailing",2722.9
+2023-04-01,2023,4,"Clothing, footwear and personal accessory retailing",2837.2
+2023-05-01,2023,5,"Clothing, footwear and personal accessory retailing",3005.5
+2023-06-01,2023,6,"Clothing, footwear and personal accessory retailing",2876.4
+2023-07-01,2023,7,"Clothing, footwear and personal accessory retailing",2729.5
+2023-08-01,2023,8,"Clothing, footwear and personal accessory retailing",2732.5
+2023-09-01,2023,9,"Clothing, footwear and personal accessory retailing",2812.7
+2023-10-01,2023,10,"Clothing, footwear and personal accessory retailing",2854.3
+2023-11-01,2023,11,"Clothing, footwear and personal accessory retailing",3455.2
+2023-12-01,2023,12,"Clothing, footwear and personal accessory retailing",4450.6
+2024-01-01,2024,1,"Clothing, footwear and personal accessory retailing",2757.7
+2024-02-01,2024,2,"Clothing, footwear and personal accessory retailing",2521.7
+2024-03-01,2024,3,"Clothing, footwear and personal accessory retailing",2667.2
+2024-04-01,2024,4,"Clothing, footwear and personal accessory retailing",2807.9
+2024-05-01,2024,5,"Clothing, footwear and personal accessory retailing",3021.8
+2024-06-01,2024,6,"Clothing, footwear and personal accessory retailing",2917.2
+2024-07-01,2024,7,"Clothing, footwear and personal accessory retailing",2770.6
+2024-08-01,2024,8,"Clothing, footwear and personal accessory retailing",2812.4
+2024-09-01,2024,9,"Clothing, footwear and personal accessory retailing",2779.8
+2024-10-01,2024,10,"Clothing, footwear and personal accessory retailing",2925.5
+2024-11-01,2024,11,"Clothing, footwear and personal accessory retailing",3582.2
+2024-12-01,2024,12,"Clothing, footwear and personal accessory retailing",4582.3
+2025-01-01,2025,1,"Clothing, footwear and personal accessory retailing",2904.1
+2025-02-01,2025,2,"Clothing, footwear and personal accessory retailing",2457.1
+2025-03-01,2025,3,"Clothing, footwear and personal accessory retailing",2809.2
+2025-04-01,2025,4,"Clothing, footwear and personal accessory retailing",2816.1
+2025-05-01,2025,5,"Clothing, footwear and personal accessory retailing",3167.1
+2025-06-01,2025,6,"Clothing, footwear and personal accessory retailing",3065.3
+1982-04-01,1982,4,Department stores,460.1
+1982-05-01,1982,5,Department stores,502.6
+1982-06-01,1982,6,Department stores,443.8
+1982-07-01,1982,7,Department stores,459.1
+1982-08-01,1982,8,Department stores,438.4
+1982-09-01,1982,9,Department stores,465.1
+1982-10-01,1982,10,Department stores,452.7
+1982-11-01,1982,11,Department stores,522.9
+1982-12-01,1982,12,Department stores,889.3
+1983-01-01,1983,1,Department stores,379.2
+1983-02-01,1983,2,Department stores,378.0
+1983-03-01,1983,3,Department stores,472.1
+1983-04-01,1983,4,Department stores,503.4
+1983-05-01,1983,5,Department stores,510.6
+1983-06-01,1983,6,Department stores,462.4
+1983-07-01,1983,7,Department stores,468.3
+1983-08-01,1983,8,Department stores,458.2
+1983-09-01,1983,9,Department stores,482.7
+1983-10-01,1983,10,Department stores,485.3
+1983-11-01,1983,11,Department stores,568.7
+1983-12-01,1983,12,Department stores,963.7
+1984-01-01,1984,1,Department stores,414.7
+1984-02-01,1984,2,Department stores,414.5
+1984-03-01,1984,3,Department stores,484.7
+1984-04-01,1984,4,Department stores,487.3
+1984-05-01,1984,5,Department stores,597.9
+1984-06-01,1984,6,Department stores,500.4
+1984-07-01,1984,7,Department stores,543.4
+1984-08-01,1984,8,Department stores,503.4
+1984-09-01,1984,9,Department stores,522.8
+1984-10-01,1984,10,Department stores,556.6
+1984-11-01,1984,11,Department stores,623.2
+1984-12-01,1984,12,Department stores,1039.4
+1985-01-01,1985,1,Department stores,516.3
+1985-02-01,1985,2,Department stores,452.5
+1985-03-01,1985,3,Department stores,525.8
+1985-04-01,1985,4,Department stores,587.7
+1985-05-01,1985,5,Department stores,700.3
+1985-06-01,1985,6,Department stores,561.8
+1985-07-01,1985,7,Department stores,602.8
+1985-08-01,1985,8,Department stores,582.5
+1985-09-01,1985,9,Department stores,563.1
+1985-10-01,1985,10,Department stores,637.1
+1985-11-01,1985,11,Department stores,697.1
+1985-12-01,1985,12,Department stores,1187.5
+1986-01-01,1986,1,Department stores,570.5
+1986-02-01,1986,2,Department stores,478.2
+1986-03-01,1986,3,Department stores,547.4
+1986-04-01,1986,4,Department stores,594.3
+1986-05-01,1986,5,Department stores,751.6
+1986-06-01,1986,6,Department stores,553.4
+1986-07-01,1986,7,Department stores,663.2
+1986-08-01,1986,8,Department stores,581.1
+1986-09-01,1986,9,Department stores,661.9
+1986-10-01,1986,10,Department stores,665.6
+1986-11-01,1986,11,Department stores,700.9
+1986-12-01,1986,12,Department stores,1367.9
+1987-01-01,1987,1,Department stores,613.9
+1987-02-01,1987,2,Department stores,513.2
+1987-03-01,1987,3,Department stores,599.9
+1987-04-01,1987,4,Department stores,674.1
+1987-05-01,1987,5,Department stores,714.0
+1987-06-01,1987,6,Department stores,670.5
+1987-07-01,1987,7,Department stores,720.9
+1987-08-01,1987,8,Department stores,601.6
+1987-09-01,1987,9,Department stores,672.3
+1987-10-01,1987,10,Department stores,709.1
+1987-11-01,1987,11,Department stores,743.2
+1987-12-01,1987,12,Department stores,1460.1
+1988-01-01,1988,1,Department stores,631.0
+1988-02-01,1988,2,Department stores,551.1
+1988-03-01,1988,3,Department stores,678.1
+1988-04-01,1988,4,Department stores,715.7
+1988-05-01,1988,5,Department stores,740.8
+1988-06-01,1988,6,Department stores,722.0
+1988-07-01,1988,7,Department stores,683.5
+1988-08-01,1988,8,Department stores,650.9
+1988-09-01,1988,9,Department stores,723.3
+1988-10-01,1988,10,Department stores,729.6
+1988-11-01,1988,11,Department stores,870.3
+1988-12-01,1988,12,Department stores,1570.0
+1989-01-01,1989,1,Department stores,631.5
+1989-02-01,1989,2,Department stores,552.0
+1989-03-01,1989,3,Department stores,719.0
+1989-04-01,1989,4,Department stores,697.6
+1989-05-01,1989,5,Department stores,764.8
+1989-06-01,1989,6,Department stores,786.3
+1989-07-01,1989,7,Department stores,715.1
+1989-08-01,1989,8,Department stores,723.8
+1989-09-01,1989,9,Department stores,757.9
+1989-10-01,1989,10,Department stores,751.7
+1989-11-01,1989,11,Department stores,923.8
+1989-12-01,1989,12,Department stores,1569.4
+1990-01-01,1990,1,Department stores,678.2
+1990-02-01,1990,2,Department stores,586.2
+1990-03-01,1990,3,Department stores,726.8
+1990-04-01,1990,4,Department stores,744.1
+1990-05-01,1990,5,Department stores,815.5
+1990-06-01,1990,6,Department stores,832.4
+1990-07-01,1990,7,Department stores,710.3
+1990-08-01,1990,8,Department stores,759.4
+1990-09-01,1990,9,Department stores,741.1
+1990-10-01,1990,10,Department stores,786.6
+1990-11-01,1990,11,Department stores,931.5
+1990-12-01,1990,12,Department stores,1563.1
+1991-01-01,1991,1,Department stores,694.0
+1991-02-01,1991,2,Department stores,604.7
+1991-03-01,1991,3,Department stores,719.2
+1991-04-01,1991,4,Department stores,748.2
+1991-05-01,1991,5,Department stores,828.2
+1991-06-01,1991,6,Department stores,746.9
+1991-07-01,1991,7,Department stores,794.5
+1991-08-01,1991,8,Department stores,770.4
+1991-09-01,1991,9,Department stores,741.5
+1991-10-01,1991,10,Department stores,858.6
+1991-11-01,1991,11,Department stores,944.7
+1991-12-01,1991,12,Department stores,1600.3
+1992-01-01,1992,1,Department stores,740.0
+1992-02-01,1992,2,Department stores,665.9
+1992-03-01,1992,3,Department stores,701.5
+1992-04-01,1992,4,Department stores,831.4
+1992-05-01,1992,5,Department stores,878.6
+1992-06-01,1992,6,Department stores,826.0
+1992-07-01,1992,7,Department stores,788.2
+1992-08-01,1992,8,Department stores,723.6
+1992-09-01,1992,9,Department stores,819.8
+1992-10-01,1992,10,Department stores,902.5
+1992-11-01,1992,11,Department stores,968.6
+1992-12-01,1992,12,Department stores,1650.9
+1993-01-01,1993,1,Department stores,762.1
+1993-02-01,1993,2,Department stores,643.0
+1993-03-01,1993,3,Department stores,754.1
+1993-04-01,1993,4,Department stores,840.7
+1993-05-01,1993,5,Department stores,906.6
+1993-06-01,1993,6,Department stores,887.1
+1993-07-01,1993,7,Department stores,771.5
+1993-08-01,1993,8,Department stores,728.7
+1993-09-01,1993,9,Department stores,844.7
+1993-10-01,1993,10,Department stores,886.9
+1993-11-01,1993,11,Department stores,970.0
+1993-12-01,1993,12,Department stores,1710.5
+1994-01-01,1994,1,Department stores,745.7
+1994-02-01,1994,2,Department stores,664.4
+1994-03-01,1994,3,Department stores,821.5
+1994-04-01,1994,4,Department stores,831.7
+1994-05-01,1994,5,Department stores,908.0
+1994-06-01,1994,6,Department stores,912.6
+1994-07-01,1994,7,Department stores,782.9
+1994-08-01,1994,8,Department stores,798.8
+1994-09-01,1994,9,Department stores,887.0
+1994-10-01,1994,10,Department stores,934.6
+1994-11-01,1994,11,Department stores,1000.4
+1994-12-01,1994,12,Department stores,1817.5
+1995-01-01,1995,1,Department stores,752.4
+1995-02-01,1995,2,Department stores,682.5
+1995-03-01,1995,3,Department stores,811.2
+1995-04-01,1995,4,Department stores,906.0
+1995-05-01,1995,5,Department stores,927.2
+1995-06-01,1995,6,Department stores,906.8
+1995-07-01,1995,7,Department stores,880.6
+1995-08-01,1995,8,Department stores,873.9
+1995-09-01,1995,9,Department stores,856.8
+1995-10-01,1995,10,Department stores,920.6
+1995-11-01,1995,11,Department stores,1067.4
+1995-12-01,1995,12,Department stores,1857.2
+1996-01-01,1996,1,Department stores,833.1
+1996-02-01,1996,2,Department stores,737.1
+1996-03-01,1996,3,Department stores,812.0
+1996-04-01,1996,4,Department stores,895.2
+1996-05-01,1996,5,Department stores,962.8
+1996-06-01,1996,6,Department stores,908.6
+1996-07-01,1996,7,Department stores,908.0
+1996-08-01,1996,8,Department stores,888.9
+1996-09-01,1996,9,Department stores,833.7
+1996-10-01,1996,10,Department stores,933.7
+1996-11-01,1996,11,Department stores,1081.6
+1996-12-01,1996,12,Department stores,1837.6
+1997-01-01,1997,1,Department stores,840.9
+1997-02-01,1997,2,Department stores,727.4
+1997-03-01,1997,3,Department stores,857.9
+1997-04-01,1997,4,Department stores,849.0
+1997-05-01,1997,5,Department stores,994.8
+1997-06-01,1997,6,Department stores,830.2
+1997-07-01,1997,7,Department stores,971.1
+1997-08-01,1997,8,Department stores,836.0
+1997-09-01,1997,9,Department stores,939.1
+1997-10-01,1997,10,Department stores,976.9
+1997-11-01,1997,11,Department stores,1111.3
+1997-12-01,1997,12,Department stores,1879.1
+1998-01-01,1998,1,Department stores,917.3
+1998-02-01,1998,2,Department stores,716.2
+1998-03-01,1998,3,Department stores,822.9
+1998-04-01,1998,4,Department stores,970.1
+1998-05-01,1998,5,Department stores,970.2
+1998-06-01,1998,6,Department stores,849.4
+1998-07-01,1998,7,Department stores,1042.3
+1998-08-01,1998,8,Department stores,869.9
+1998-09-01,1998,9,Department stores,939.4
+1998-10-01,1998,10,Department stores,1021.3
+1998-11-01,1998,11,Department stores,1137.7
+1998-12-01,1998,12,Department stores,1975.7
+1999-01-01,1999,1,Department stores,942.0
+1999-02-01,1999,2,Department stores,738.4
+1999-03-01,1999,3,Department stores,903.2
+1999-04-01,1999,4,Department stores,953.2
+1999-05-01,1999,5,Department stores,1011.2
+1999-06-01,1999,6,Department stores,894.4
+1999-07-01,1999,7,Department stores,1054.5
+1999-08-01,1999,8,Department stores,899.5
+1999-09-01,1999,9,Department stores,1002.3
+1999-10-01,1999,10,Department stores,1043.7
+1999-11-01,1999,11,Department stores,1207.2
+1999-12-01,1999,12,Department stores,2069.6
+2000-01-01,2000,1,Department stores,924.9
+2000-02-01,2000,2,Department stores,798.2
+2000-03-01,2000,3,Department stores,901.9
+2000-04-01,2000,4,Department stores,1024.7
+2000-05-01,2000,5,Department stores,1052.3
+2000-06-01,2000,6,Department stores,1165.5
+2000-07-01,2000,7,Department stores,859.3
+2000-08-01,2000,8,Department stores,1009.2
+2000-09-01,2000,9,Department stores,1054.6
+2000-10-01,2000,10,Department stores,1070.4
+2000-11-01,2000,11,Department stores,1232.5
+2000-12-01,2000,12,Department stores,2177.5
+2001-01-01,2001,1,Department stores,971.9
+2001-02-01,2001,2,Department stores,814.6
+2001-03-01,2001,3,Department stores,1017.5
+2001-04-01,2001,4,Department stores,1039.2
+2001-05-01,2001,5,Department stores,1123.5
+2001-06-01,2001,6,Department stores,1024.9
+2001-07-01,2001,7,Department stores,1100.8
+2001-08-01,2001,8,Department stores,963.0
+2001-09-01,2001,9,Department stores,1012.9
+2001-10-01,2001,10,Department stores,1132.0
+2001-11-01,2001,11,Department stores,1344.8
+2001-12-01,2001,12,Department stores,2269.5
+2002-01-01,2002,1,Department stores,1027.9
+2002-02-01,2002,2,Department stores,841.4
+2002-03-01,2002,3,Department stores,1043.9
+2002-04-01,2002,4,Department stores,1075.3
+2002-05-01,2002,5,Department stores,1190.9
+2002-06-01,2002,6,Department stores,1143.0
+2002-07-01,2002,7,Department stores,1075.7
+2002-08-01,2002,8,Department stores,1065.9
+2002-09-01,2002,9,Department stores,1060.1
+2002-10-01,2002,10,Department stores,1211.4
+2002-11-01,2002,11,Department stores,1495.1
+2002-12-01,2002,12,Department stores,2338.6
+2003-01-01,2003,1,Department stores,1099.3
+2003-02-01,2003,2,Department stores,900.5
+2003-03-01,2003,3,Department stores,1092.7
+2003-04-01,2003,4,Department stores,1222.4
+2003-05-01,2003,5,Department stores,1237.1
+2003-06-01,2003,6,Department stores,1237.9
+2003-07-01,2003,7,Department stores,1182.0
+2003-08-01,2003,8,Department stores,1101.2
+2003-09-01,2003,9,Department stores,1198.2
+2003-10-01,2003,10,Department stores,1316.1
+2003-11-01,2003,11,Department stores,1528.2
+2003-12-01,2003,12,Department stores,2424.2
+2004-01-01,2004,1,Department stores,1182.9
+2004-02-01,2004,2,Department stores,989.8
+2004-03-01,2004,3,Department stores,1131.4
+2004-04-01,2004,4,Department stores,1277.1
+2004-05-01,2004,5,Department stores,1280.3
+2004-06-01,2004,6,Department stores,1384.1
+2004-07-01,2004,7,Department stores,1305.9
+2004-08-01,2004,8,Department stores,1166.8
+2004-09-01,2004,9,Department stores,1317.9
+2004-10-01,2004,10,Department stores,1358.3
+2004-11-01,2004,11,Department stores,1536.7
+2004-12-01,2004,12,Department stores,2500.8
+2005-01-01,2005,1,Department stores,1246.3
+2005-02-01,2005,2,Department stores,1037.3
+2005-03-01,2005,3,Department stores,1300.8
+2005-04-01,2005,4,Department stores,1153.7
+2005-05-01,2005,5,Department stores,1264.2
+2005-06-01,2005,6,Department stores,1454.2
+2005-07-01,2005,7,Department stores,1290.1
+2005-08-01,2005,8,Department stores,1210.7
+2005-09-01,2005,9,Department stores,1277.8
+2005-10-01,2005,10,Department stores,1314.4
+2005-11-01,2005,11,Department stores,1540.4
+2005-12-01,2005,12,Department stores,2536.0
+2006-01-01,2006,1,Department stores,1193.7
+2006-02-01,2006,2,Department stores,1037.7
+2006-03-01,2006,3,Department stores,1204.5
+2006-04-01,2006,4,Department stores,1348.6
+2006-05-01,2006,5,Department stores,1267.6
+2006-06-01,2006,6,Department stores,1429.0
+2006-07-01,2006,7,Department stores,1412.0
+2006-08-01,2006,8,Department stores,1239.2
+2006-09-01,2006,9,Department stores,1219.1
+2006-10-01,2006,10,Department stores,1344.6
+2006-11-01,2006,11,Department stores,1623.3
+2006-12-01,2006,12,Department stores,2611.1
+2007-01-01,2007,1,Department stores,1267.3
+2007-02-01,2007,2,Department stores,1047.0
+2007-03-01,2007,3,Department stores,1331.6
+2007-04-01,2007,4,Department stores,1302.6
+2007-05-01,2007,5,Department stores,1365.1
+2007-06-01,2007,6,Department stores,1491.5
+2007-07-01,2007,7,Department stores,1462.3
+2007-08-01,2007,8,Department stores,1315.5
+2007-09-01,2007,9,Department stores,1353.3
+2007-10-01,2007,10,Department stores,1440.6
+2007-11-01,2007,11,Department stores,1687.9
+2007-12-01,2007,12,Department stores,2747.0
+2008-01-01,2008,1,Department stores,1397.8
+2008-02-01,2008,2,Department stores,1140.5
+2008-03-01,2008,3,Department stores,1351.7
+2008-04-01,2008,4,Department stores,1396.6
+2008-05-01,2008,5,Department stores,1421.1
+2008-06-01,2008,6,Department stores,1401.6
+2008-07-01,2008,7,Department stores,1582.3
+2008-08-01,2008,8,Department stores,1268.4
+2008-09-01,2008,9,Department stores,1383.3
+2008-10-01,2008,10,Department stores,1452.4
+2008-11-01,2008,11,Department stores,1675.9
+2008-12-01,2008,12,Department stores,2886.1
+2009-01-01,2009,1,Department stores,1451.0
+2009-02-01,2009,2,Department stores,1056.6
+2009-03-01,2009,3,Department stores,1386.9
+2009-04-01,2009,4,Department stores,1509.1
+2009-05-01,2009,5,Department stores,1519.4
+2009-06-01,2009,6,Department stores,1500.5
+2009-07-01,2009,7,Department stores,1570.7
+2009-08-01,2009,8,Department stores,1341.5
+2009-09-01,2009,9,Department stores,1399.9
+2009-10-01,2009,10,Department stores,1534.3
+2009-11-01,2009,11,Department stores,1736.6
+2009-12-01,2009,12,Department stores,2795.1
+2010-01-01,2010,1,Department stores,1469.1
+2010-02-01,2010,2,Department stores,1111.9
+2010-03-01,2010,3,Department stores,1379.9
+2010-04-01,2010,4,Department stores,1389.7
+2010-05-01,2010,5,Department stores,1427.2
+2010-06-01,2010,6,Department stores,1551.4
+2010-07-01,2010,7,Department stores,1581.0
+2010-08-01,2010,8,Department stores,1324.0
+2010-09-01,2010,9,Department stores,1422.0
+2010-10-01,2010,10,Department stores,1464.9
+2010-11-01,2010,11,Department stores,1705.5
+2010-12-01,2010,12,Department stores,2752.4
+2011-01-01,2011,1,Department stores,1412.6
+2011-02-01,2011,2,Department stores,1117.5
+2011-03-01,2011,3,Department stores,1321.6
+2011-04-01,2011,4,Department stores,1472.6
+2011-05-01,2011,5,Department stores,1408.9
+2011-06-01,2011,6,Department stores,1471.9
+2011-07-01,2011,7,Department stores,1532.5
+2011-08-01,2011,8,Department stores,1293.5
+2011-09-01,2011,9,Department stores,1345.7
+2011-10-01,2011,10,Department stores,1404.7
+2011-11-01,2011,11,Department stores,1660.0
+2011-12-01,2011,12,Department stores,2730.5
+2012-01-01,2012,1,Department stores,1362.4
+2012-02-01,2012,2,Department stores,1131.7
+2012-03-01,2012,3,Department stores,1349.2
+2012-04-01,2012,4,Department stores,1391.2
+2012-05-01,2012,5,Department stores,1456.9
+2012-06-01,2012,6,Department stores,1616.4
+2012-07-01,2012,7,Department stores,1423.4
+2012-08-01,2012,8,Department stores,1359.0
+2012-09-01,2012,9,Department stores,1367.8
+2012-10-01,2012,10,Department stores,1442.6
+2012-11-01,2012,11,Department stores,1672.9
+2012-12-01,2012,12,Department stores,2753.3
+2013-01-01,2013,1,Department stores,1397.4
+2013-02-01,2013,2,Department stores,1113.6
+2013-03-01,2013,3,Department stores,1397.3
+2013-04-01,2013,4,Department stores,1339.1
+2013-05-01,2013,5,Department stores,1441.9
+2013-06-01,2013,6,Department stores,1537.4
+2013-07-01,2013,7,Department stores,1390.6
+2013-08-01,2013,8,Department stores,1337.2
+2013-09-01,2013,9,Department stores,1359.4
+2013-10-01,2013,10,Department stores,1463.3
+2013-11-01,2013,11,Department stores,1668.9
+2013-12-01,2013,12,Department stores,2725.5
+2014-01-01,2014,1,Department stores,1451.0
+2014-02-01,2014,2,Department stores,1064.9
+2014-03-01,2014,3,Department stores,1293.2
+2014-04-01,2014,4,Department stores,1442.9
+2014-05-01,2014,5,Department stores,1411.8
+2014-06-01,2014,6,Department stores,1461.6
+2014-07-01,2014,7,Department stores,1501.6
+2014-08-01,2014,8,Department stores,1254.2
+2014-09-01,2014,9,Department stores,1356.4
+2014-10-01,2014,10,Department stores,1478.7
+2014-11-01,2014,11,Department stores,1687.7
+2014-12-01,2014,12,Department stores,2756.9
+2015-01-01,2015,1,Department stores,1471.2
+2015-02-01,2015,2,Department stores,1053.8
+2015-03-01,2015,3,Department stores,1367.2
+2015-04-01,2015,4,Department stores,1442.2
+2015-05-01,2015,5,Department stores,1428.7
+2015-06-01,2015,6,Department stores,1480.9
+2015-07-01,2015,7,Department stores,1540.9
+2015-08-01,2015,8,Department stores,1331.9
+2015-09-01,2015,9,Department stores,1400.1
+2015-10-01,2015,10,Department stores,1566.3
+2015-11-01,2015,11,Department stores,1730.5
+2015-12-01,2015,12,Department stores,2913.6
+2016-01-01,2016,1,Department stores,1519.2
+2016-02-01,2016,2,Department stores,1155.8
+2016-03-01,2016,3,Department stores,1451.5
+2016-04-01,2016,4,Department stores,1451.0
+2016-05-01,2016,5,Department stores,1449.7
+2016-06-01,2016,6,Department stores,1596.1
+2016-07-01,2016,7,Department stores,1468.3
+2016-08-01,2016,8,Department stores,1293.9
+2016-09-01,2016,9,Department stores,1393.5
+2016-10-01,2016,10,Department stores,1497.4
+2016-11-01,2016,11,Department stores,1684.3
+2016-12-01,2016,12,Department stores,2850.4
+2017-01-01,2017,1,Department stores,1428.5
+2017-02-01,2017,2,Department stores,1092.4
+2017-03-01,2017,3,Department stores,1370.3
+2017-04-01,2017,4,Department stores,1522.6
+2017-05-01,2017,5,Department stores,1452.4
+2017-06-01,2017,6,Department stores,1557.2
+2017-07-01,2017,7,Department stores,1445.5
+2017-08-01,2017,8,Department stores,1303.1
+2017-09-01,2017,9,Department stores,1407.2
+2017-10-01,2017,10,Department stores,1518.3
+2017-11-01,2017,11,Department stores,1730.4
+2017-12-01,2017,12,Department stores,2822.6
+2018-01-01,2018,1,Department stores,1413.1
+2018-02-01,2018,2,Department stores,1099.4
+2018-03-01,2018,3,Department stores,1416.2
+2018-04-01,2018,4,Department stores,1402.7
+2018-05-01,2018,5,Department stores,1518.0
+2018-06-01,2018,6,Department stores,1587.2
+2018-07-01,2018,7,Department stores,1426.7
+2018-08-01,2018,8,Department stores,1343.6
+2018-09-01,2018,9,Department stores,1398.8
+2018-10-01,2018,10,Department stores,1524.8
+2018-11-01,2018,11,Department stores,1745.1
+2018-12-01,2018,12,Department stores,2813.5
+2019-01-01,2019,1,Department stores,1409.6
+2019-02-01,2019,2,Department stores,1115.2
+2019-03-01,2019,3,Department stores,1355.7
+2019-04-01,2019,4,Department stores,1474.6
+2019-05-01,2019,5,Department stores,1512.0
+2019-06-01,2019,6,Department stores,1570.2
+2019-07-01,2019,7,Department stores,1439.2
+2019-08-01,2019,8,Department stores,1381.4
+2019-09-01,2019,9,Department stores,1384.2
+2019-10-01,2019,10,Department stores,1544.5
+2019-11-01,2019,11,Department stores,1826.3
+2019-12-01,2019,12,Department stores,2819.9
+2020-01-01,2020,1,Department stores,1417.3
+2020-02-01,2020,2,Department stores,1180.2
+2020-03-01,2020,3,Department stores,1241.4
+2020-04-01,2020,4,Department stores,1177.0
+2020-05-01,2020,5,Department stores,1697.2
+2020-06-01,2020,6,Department stores,1557.7
+2020-07-01,2020,7,Department stores,1528.0
+2020-08-01,2020,8,Department stores,1236.8
+2020-09-01,2020,9,Department stores,1360.2
+2020-10-01,2020,10,Department stores,1562.4
+2020-11-01,2020,11,Department stores,2070.7
+2020-12-01,2020,12,Department stores,3012.7
+2021-01-01,2021,1,Department stores,1514.0
+2021-02-01,2021,2,Department stores,1197.7
+2021-03-01,2021,3,Department stores,1600.2
+2021-04-01,2021,4,Department stores,1596.8
+2021-05-01,2021,5,Department stores,1602.1
+2021-06-01,2021,6,Department stores,1560.2
+2021-07-01,2021,7,Department stores,1313.9
+2021-08-01,2021,8,Department stores,1032.5
+2021-09-01,2021,9,Department stores,1137.6
+2021-10-01,2021,10,Department stores,1493.4
+2021-11-01,2021,11,Department stores,2106.2
+2021-12-01,2021,12,Department stores,2765.5
+2022-01-01,2022,1,Department stores,1446.9
+2022-02-01,2022,2,Department stores,1259.6
+2022-03-01,2022,3,Department stores,1599.3
+2022-04-01,2022,4,Department stores,1725.0
+2022-05-01,2022,5,Department stores,1767.6
+2022-06-01,2022,6,Department stores,1817.9
+2022-07-01,2022,7,Department stores,1760.3
+2022-08-01,2022,8,Department stores,1618.0
+2022-09-01,2022,9,Department stores,1744.1
+2022-10-01,2022,10,Department stores,1830.9
+2022-11-01,2022,11,Department stores,2292.6
+2022-12-01,2022,12,Department stores,3088.2
+2023-01-01,2023,1,Department stores,1687.8
+2023-02-01,2023,2,Department stores,1356.7
+2023-03-01,2023,3,Department stores,1674.2
+2023-04-01,2023,4,Department stores,1820.6
+2023-05-01,2023,5,Department stores,1833.5
+2023-06-01,2023,6,Department stores,1777.5
+2023-07-01,2023,7,Department stores,1740.5
+2023-08-01,2023,8,Department stores,1629.2
+2023-09-01,2023,9,Department stores,1782.4
+2023-10-01,2023,10,Department stores,1832.3
+2023-11-01,2023,11,Department stores,2363.7
+2023-12-01,2023,12,Department stores,3189.0
+2024-01-01,2024,1,Department stores,1672.6
+2024-02-01,2024,2,Department stores,1435.1
+2024-03-01,2024,3,Department stores,1729.1
+2024-04-01,2024,4,Department stores,1728.6
+2024-05-01,2024,5,Department stores,1806.4
+2024-06-01,2024,6,Department stores,1859.0
+2024-07-01,2024,7,Department stores,1746.4
+2024-08-01,2024,8,Department stores,1699.7
+2024-09-01,2024,9,Department stores,1718.4
+2024-10-01,2024,10,Department stores,1862.0
+2024-11-01,2024,11,Department stores,2380.5
+2024-12-01,2024,12,Department stores,3216.1
+2025-01-01,2025,1,Department stores,1726.0
+2025-02-01,2025,2,Department stores,1435.0
+2025-03-01,2025,3,Department stores,1732.7
+2025-04-01,2025,4,Department stores,1774.5
+2025-05-01,2025,5,Department stores,1889.6
+2025-06-01,2025,6,Department stores,1961.1
+1982-04-01,1982,4,Other retailing,479.1
+1982-05-01,1982,5,Other retailing,486.1
+1982-06-01,1982,6,Other retailing,467.5
+1982-07-01,1982,7,Other retailing,491.1
+1982-08-01,1982,8,Other retailing,485.7
+1982-09-01,1982,9,Other retailing,489.9
+1982-10-01,1982,10,Other retailing,500.9
+1982-11-01,1982,11,Other retailing,531.1
+1982-12-01,1982,12,Other retailing,725.2
+1983-01-01,1983,1,Other retailing,491.4
+1983-02-01,1983,2,Other retailing,499.1
+1983-03-01,1983,3,Other retailing,538.7
+1983-04-01,1983,4,Other retailing,493.8
+1983-05-01,1983,5,Other retailing,520.8
+1983-06-01,1983,6,Other retailing,507.3
+1983-07-01,1983,7,Other retailing,519.9
+1983-08-01,1983,8,Other retailing,554.2
+1983-09-01,1983,9,Other retailing,547.9
+1983-10-01,1983,10,Other retailing,553.5
+1983-11-01,1983,11,Other retailing,594.1
+1983-12-01,1983,12,Other retailing,795.5
+1984-01-01,1984,1,Other retailing,538.8
+1984-02-01,1984,2,Other retailing,561.6
+1984-03-01,1984,3,Other retailing,574.6
+1984-04-01,1984,4,Other retailing,529.7
+1984-05-01,1984,5,Other retailing,590.1
+1984-06-01,1984,6,Other retailing,542.2
+1984-07-01,1984,7,Other retailing,559.4
+1984-08-01,1984,8,Other retailing,591.6
+1984-09-01,1984,9,Other retailing,557.2
+1984-10-01,1984,10,Other retailing,614.5
+1984-11-01,1984,11,Other retailing,651.8
+1984-12-01,1984,12,Other retailing,820.0
+1985-01-01,1985,1,Other retailing,598.9
+1985-02-01,1985,2,Other retailing,577.9
+1985-03-01,1985,3,Other retailing,599.6
+1985-04-01,1985,4,Other retailing,574.6
+1985-05-01,1985,5,Other retailing,639.9
+1985-06-01,1985,6,Other retailing,573.5
+1985-07-01,1985,7,Other retailing,628.6
+1985-08-01,1985,8,Other retailing,649.6
+1985-09-01,1985,9,Other retailing,614.7
+1985-10-01,1985,10,Other retailing,667.0
+1985-11-01,1985,11,Other retailing,704.6
+1985-12-01,1985,12,Other retailing,908.1
+1986-01-01,1986,1,Other retailing,666.1
+1986-02-01,1986,2,Other retailing,641.5
+1986-03-01,1986,3,Other retailing,636.2
+1986-04-01,1986,4,Other retailing,662.4
+1986-05-01,1986,5,Other retailing,709.8
+1986-06-01,1986,6,Other retailing,641.8
+1986-07-01,1986,7,Other retailing,692.9
+1986-08-01,1986,8,Other retailing,700.8
+1986-09-01,1986,9,Other retailing,698.1
+1986-10-01,1986,10,Other retailing,756.7
+1986-11-01,1986,11,Other retailing,750.1
+1986-12-01,1986,12,Other retailing,1017.0
+1987-01-01,1987,1,Other retailing,726.9
+1987-02-01,1987,2,Other retailing,701.3
+1987-03-01,1987,3,Other retailing,716.8
+1987-04-01,1987,4,Other retailing,733.9
+1987-05-01,1987,5,Other retailing,764.8
+1987-06-01,1987,6,Other retailing,728.4
+1987-07-01,1987,7,Other retailing,779.7
+1987-08-01,1987,8,Other retailing,773.7
+1987-09-01,1987,9,Other retailing,783.9
+1987-10-01,1987,10,Other retailing,814.1
+1987-11-01,1987,11,Other retailing,822.0
+1987-12-01,1987,12,Other retailing,1109.6
+1988-01-01,1988,1,Other retailing,757.4
+1988-02-01,1988,2,Other retailing,773.5
+1988-03-01,1988,3,Other retailing,818.0
+1988-04-01,1988,4,Other retailing,753.7
+1988-05-01,1988,5,Other retailing,814.9
+1988-06-01,1988,6,Other retailing,800.8
+1988-07-01,1988,7,Other retailing,810.1
+1988-08-01,1988,8,Other retailing,850.9
+1988-09-01,1988,9,Other retailing,845.5
+1988-10-01,1988,10,Other retailing,872.1
+1988-11-01,1988,11,Other retailing,945.0
+1988-12-01,1988,12,Other retailing,1321.2
+1989-01-01,1989,1,Other retailing,872.7
+1989-02-01,1989,2,Other retailing,832.7
+1989-03-01,1989,3,Other retailing,905.5
+1989-04-01,1989,4,Other retailing,858.2
+1989-05-01,1989,5,Other retailing,940.9
+1989-06-01,1989,6,Other retailing,885.8
+1989-07-01,1989,7,Other retailing,897.7
+1989-08-01,1989,8,Other retailing,947.4
+1989-09-01,1989,9,Other retailing,967.7
+1989-10-01,1989,10,Other retailing,969.8
+1989-11-01,1989,11,Other retailing,1034.8
+1989-12-01,1989,12,Other retailing,1415.0
+1990-01-01,1990,1,Other retailing,965.4
+1990-02-01,1990,2,Other retailing,930.4
+1990-03-01,1990,3,Other retailing,990.1
+1990-04-01,1990,4,Other retailing,922.4
+1990-05-01,1990,5,Other retailing,1016.2
+1990-06-01,1990,6,Other retailing,940.5
+1990-07-01,1990,7,Other retailing,961.2
+1990-08-01,1990,8,Other retailing,1029.4
+1990-09-01,1990,9,Other retailing,980.6
+1990-10-01,1990,10,Other retailing,1042.9
+1990-11-01,1990,11,Other retailing,1066.6
+1990-12-01,1990,12,Other retailing,1373.0
+1991-01-01,1991,1,Other retailing,946.6
+1991-02-01,1991,2,Other retailing,921.3
+1991-03-01,1991,3,Other retailing,975.4
+1991-04-01,1991,4,Other retailing,938.5
+1991-05-01,1991,5,Other retailing,1018.0
+1991-06-01,1991,6,Other retailing,955.1
+1991-07-01,1991,7,Other retailing,1040.2
+1991-08-01,1991,8,Other retailing,1058.4
+1991-09-01,1991,9,Other retailing,1008.2
+1991-10-01,1991,10,Other retailing,1081.9
+1991-11-01,1991,11,Other retailing,1128.7
+1991-12-01,1991,12,Other retailing,1473.1
+1992-01-01,1992,1,Other retailing,1043.7
+1992-02-01,1992,2,Other retailing,1003.6
+1992-03-01,1992,3,Other retailing,1038.9
+1992-04-01,1992,4,Other retailing,1036.8
+1992-05-01,1992,5,Other retailing,1048.2
+1992-06-01,1992,6,Other retailing,981.7
+1992-07-01,1992,7,Other retailing,1044.4
+1992-08-01,1992,8,Other retailing,1021.1
+1992-09-01,1992,9,Other retailing,1077.5
+1992-10-01,1992,10,Other retailing,1121.8
+1992-11-01,1992,11,Other retailing,1169.8
+1992-12-01,1992,12,Other retailing,1584.1
+1993-01-01,1993,1,Other retailing,1030.4
+1993-02-01,1993,2,Other retailing,982.5
+1993-03-01,1993,3,Other retailing,1096.6
+1993-04-01,1993,4,Other retailing,1061.8
+1993-05-01,1993,5,Other retailing,1095.7
+1993-06-01,1993,6,Other retailing,1059.0
+1993-07-01,1993,7,Other retailing,1095.6
+1993-08-01,1993,8,Other retailing,1091.6
+1993-09-01,1993,9,Other retailing,1165.8
+1993-10-01,1993,10,Other retailing,1201.7
+1993-11-01,1993,11,Other retailing,1285.1
+1993-12-01,1993,12,Other retailing,1786.0
+1994-01-01,1994,1,Other retailing,1127.3
+1994-02-01,1994,2,Other retailing,1100.6
+1994-03-01,1994,3,Other retailing,1217.5
+1994-04-01,1994,4,Other retailing,1123.0
+1994-05-01,1994,5,Other retailing,1187.7
+1994-06-01,1994,6,Other retailing,1187.9
+1994-07-01,1994,7,Other retailing,1216.9
+1994-08-01,1994,8,Other retailing,1261.3
+1994-09-01,1994,9,Other retailing,1271.9
+1994-10-01,1994,10,Other retailing,1303.5
+1994-11-01,1994,11,Other retailing,1363.0
+1994-12-01,1994,12,Other retailing,1827.4
+1995-01-01,1995,1,Other retailing,1209.3
+1995-02-01,1995,2,Other retailing,1148.1
+1995-03-01,1995,3,Other retailing,1266.3
+1995-04-01,1995,4,Other retailing,1213.2
+1995-05-01,1995,5,Other retailing,1307.7
+1995-06-01,1995,6,Other retailing,1267.7
+1995-07-01,1995,7,Other retailing,1302.7
+1995-08-01,1995,8,Other retailing,1360.0
+1995-09-01,1995,9,Other retailing,1377.1
+1995-10-01,1995,10,Other retailing,1365.9
+1995-11-01,1995,11,Other retailing,1461.4
+1995-12-01,1995,12,Other retailing,1987.4
+1996-01-01,1996,1,Other retailing,1345.6
+1996-02-01,1996,2,Other retailing,1279.6
+1996-03-01,1996,3,Other retailing,1313.2
+1996-04-01,1996,4,Other retailing,1278.4
+1996-05-01,1996,5,Other retailing,1359.2
+1996-06-01,1996,6,Other retailing,1289.5
+1996-07-01,1996,7,Other retailing,1338.8
+1996-08-01,1996,8,Other retailing,1363.3
+1996-09-01,1996,9,Other retailing,1317.4
+1996-10-01,1996,10,Other retailing,1404.8
+1996-11-01,1996,11,Other retailing,1463.1
+1996-12-01,1996,12,Other retailing,1975.8
+1997-01-01,1997,1,Other retailing,1344.2
+1997-02-01,1997,2,Other retailing,1269.3
+1997-03-01,1997,3,Other retailing,1332.5
+1997-04-01,1997,4,Other retailing,1364.4
+1997-05-01,1997,5,Other retailing,1413.2
+1997-06-01,1997,6,Other retailing,1344.5
+1997-07-01,1997,7,Other retailing,1441.7
+1997-08-01,1997,8,Other retailing,1443.5
+1997-09-01,1997,9,Other retailing,1461.3
+1997-10-01,1997,10,Other retailing,1523.2
+1997-11-01,1997,11,Other retailing,1552.9
+1997-12-01,1997,12,Other retailing,2143.1
+1998-01-01,1998,1,Other retailing,1437.6
+1998-02-01,1998,2,Other retailing,1322.4
+1998-03-01,1998,3,Other retailing,1402.3
+1998-04-01,1998,4,Other retailing,1415.8
+1998-05-01,1998,5,Other retailing,1432.9
+1998-06-01,1998,6,Other retailing,1409.5
+1998-07-01,1998,7,Other retailing,1481.7
+1998-08-01,1998,8,Other retailing,1459.4
+1998-09-01,1998,9,Other retailing,1518.7
+1998-10-01,1998,10,Other retailing,1567.9
+1998-11-01,1998,11,Other retailing,1599.4
+1998-12-01,1998,12,Other retailing,2189.7
+1999-01-01,1999,1,Other retailing,1490.5
+1999-02-01,1999,2,Other retailing,1389.2
+1999-03-01,1999,3,Other retailing,1542.5
+1999-04-01,1999,4,Other retailing,1498.9
+1999-05-01,1999,5,Other retailing,1517.9
+1999-06-01,1999,6,Other retailing,1505.8
+1999-07-01,1999,7,Other retailing,1581.0
+1999-08-01,1999,8,Other retailing,1585.1
+1999-09-01,1999,9,Other retailing,1627.4
+1999-10-01,1999,10,Other retailing,1622.2
+1999-11-01,1999,11,Other retailing,1726.2
+1999-12-01,1999,12,Other retailing,2352.7
+2000-01-01,2000,1,Other retailing,1496.6
+2000-02-01,2000,2,Other retailing,1462.1
+2000-03-01,2000,3,Other retailing,1553.0
+2000-04-01,2000,4,Other retailing,1482.8
+2000-05-01,2000,5,Other retailing,1575.8
+2000-06-01,2000,6,Other retailing,1609.6
+2000-07-01,2000,7,Other retailing,1522.5
+2000-08-01,2000,8,Other retailing,1623.6
+2000-09-01,2000,9,Other retailing,1642.7
+2000-10-01,2000,10,Other retailing,1692.6
+2000-11-01,2000,11,Other retailing,1792.5
+2000-12-01,2000,12,Other retailing,2381.5
+2001-01-01,2001,1,Other retailing,1641.7
+2001-02-01,2001,2,Other retailing,1563.5
+2001-03-01,2001,3,Other retailing,1694.1
+2001-04-01,2001,4,Other retailing,1626.9
+2001-05-01,2001,5,Other retailing,1728.6
+2001-06-01,2001,6,Other retailing,1674.2
+2001-07-01,2001,7,Other retailing,1733.8
+2001-08-01,2001,8,Other retailing,1792.2
+2001-09-01,2001,9,Other retailing,1718.8
+2001-10-01,2001,10,Other retailing,1829.9
+2001-11-01,2001,11,Other retailing,1944.2
+2001-12-01,2001,12,Other retailing,2589.6
+2002-01-01,2002,1,Other retailing,1769.9
+2002-02-01,2002,2,Other retailing,1642.5
+2002-03-01,2002,3,Other retailing,1795.0
+2002-04-01,2002,4,Other retailing,1778.3
+2002-05-01,2002,5,Other retailing,1898.8
+2002-06-01,2002,6,Other retailing,1762.1
+2002-07-01,2002,7,Other retailing,1870.2
+2002-08-01,2002,8,Other retailing,1946.9
+2002-09-01,2002,9,Other retailing,1880.9
+2002-10-01,2002,10,Other retailing,1942.0
+2002-11-01,2002,11,Other retailing,2047.7
+2002-12-01,2002,12,Other retailing,2769.7
+2003-01-01,2003,1,Other retailing,1876.5
+2003-02-01,2003,2,Other retailing,1727.3
+2003-03-01,2003,3,Other retailing,1839.2
+2003-04-01,2003,4,Other retailing,1851.6
+2003-05-01,2003,5,Other retailing,1958.4
+2003-06-01,2003,6,Other retailing,1870.4
+2003-07-01,2003,7,Other retailing,2021.9
+2003-08-01,2003,8,Other retailing,2045.1
+2003-09-01,2003,9,Other retailing,2063.2
+2003-10-01,2003,10,Other retailing,2236.2
+2003-11-01,2003,11,Other retailing,2322.0
+2003-12-01,2003,12,Other retailing,3137.1
+2004-01-01,2004,1,Other retailing,2039.8
+2004-02-01,2004,2,Other retailing,1942.6
+2004-03-01,2004,3,Other retailing,2117.1
+2004-04-01,2004,4,Other retailing,2013.5
+2004-05-01,2004,5,Other retailing,2075.5
+2004-06-01,2004,6,Other retailing,2075.0
+2004-07-01,2004,7,Other retailing,2171.6
+2004-08-01,2004,8,Other retailing,2162.3
+2004-09-01,2004,9,Other retailing,2221.4
+2004-10-01,2004,10,Other retailing,2273.3
+2004-11-01,2004,11,Other retailing,2352.9
+2004-12-01,2004,12,Other retailing,3209.8
+2005-01-01,2005,1,Other retailing,2074.7
+2005-02-01,2005,2,Other retailing,1979.9
+2005-03-01,2005,3,Other retailing,2117.9
+2005-04-01,2005,4,Other retailing,2060.3
+2005-05-01,2005,5,Other retailing,2098.2
+2005-06-01,2005,6,Other retailing,2074.5
+2005-07-01,2005,7,Other retailing,2090.0
+2005-08-01,2005,8,Other retailing,2125.1
+2005-09-01,2005,9,Other retailing,2094.3
+2005-10-01,2005,10,Other retailing,2142.3
+2005-11-01,2005,11,Other retailing,2290.4
+2005-12-01,2005,12,Other retailing,3136.2
+2006-01-01,2006,1,Other retailing,2068.4
+2006-02-01,2006,2,Other retailing,1962.4
+2006-03-01,2006,3,Other retailing,2149.1
+2006-04-01,2006,4,Other retailing,2070.2
+2006-05-01,2006,5,Other retailing,2177.8
+2006-06-01,2006,6,Other retailing,2167.3
+2006-07-01,2006,7,Other retailing,2161.5
+2006-08-01,2006,8,Other retailing,2275.9
+2006-09-01,2006,9,Other retailing,2213.6
+2006-10-01,2006,10,Other retailing,2319.4
+2006-11-01,2006,11,Other retailing,2473.4
+2006-12-01,2006,12,Other retailing,3306.8
+2007-01-01,2007,1,Other retailing,2165.5
+2007-02-01,2007,2,Other retailing,2044.0
+2007-03-01,2007,3,Other retailing,2279.5
+2007-04-01,2007,4,Other retailing,2108.5
+2007-05-01,2007,5,Other retailing,2228.1
+2007-06-01,2007,6,Other retailing,2180.3
+2007-07-01,2007,7,Other retailing,2284.2
+2007-08-01,2007,8,Other retailing,2386.6
+2007-09-01,2007,9,Other retailing,2321.0
+2007-10-01,2007,10,Other retailing,2535.3
+2007-11-01,2007,11,Other retailing,2692.3
+2007-12-01,2007,12,Other retailing,3582.4
+2008-01-01,2008,1,Other retailing,2437.1
+2008-02-01,2008,2,Other retailing,2355.5
+2008-03-01,2008,3,Other retailing,2414.5
+2008-04-01,2008,4,Other retailing,2390.5
+2008-05-01,2008,5,Other retailing,2530.9
+2008-06-01,2008,6,Other retailing,2378.4
+2008-07-01,2008,7,Other retailing,2521.7
+2008-08-01,2008,8,Other retailing,2540.0
+2008-09-01,2008,9,Other retailing,2485.9
+2008-10-01,2008,10,Other retailing,2668.9
+2008-11-01,2008,11,Other retailing,2740.0
+2008-12-01,2008,12,Other retailing,3816.6
+2009-01-01,2009,1,Other retailing,2525.9
+2009-02-01,2009,2,Other retailing,2349.1
+2009-03-01,2009,3,Other retailing,2585.3
+2009-04-01,2009,4,Other retailing,2519.0
+2009-05-01,2009,5,Other retailing,2624.2
+2009-06-01,2009,6,Other retailing,2551.6
+2009-07-01,2009,7,Other retailing,2682.3
+2009-08-01,2009,8,Other retailing,2595.8
+2009-09-01,2009,9,Other retailing,2620.5
+2009-10-01,2009,10,Other retailing,2775.7
+2009-11-01,2009,11,Other retailing,2849.8
+2009-12-01,2009,12,Other retailing,3817.7
+2010-01-01,2010,1,Other retailing,2601.3
+2010-02-01,2010,2,Other retailing,2426.4
+2010-03-01,2010,3,Other retailing,2709.9
+2010-04-01,2010,4,Other retailing,2549.6
+2010-05-01,2010,5,Other retailing,2633.7
+2010-06-01,2010,6,Other retailing,2604.6
+2010-07-01,2010,7,Other retailing,2765.1
+2010-08-01,2010,8,Other retailing,2803.4
+2010-09-01,2010,9,Other retailing,2809.9
+2010-10-01,2010,10,Other retailing,2854.1
+2010-11-01,2010,11,Other retailing,2998.3
+2010-12-01,2010,12,Other retailing,3947.6
+2011-01-01,2011,1,Other retailing,2692.0
+2011-02-01,2011,2,Other retailing,2563.6
+2011-03-01,2011,3,Other retailing,2835.0
+2011-04-01,2011,4,Other retailing,2747.2
+2011-05-01,2011,5,Other retailing,2798.4
+2011-06-01,2011,6,Other retailing,2791.4
+2011-07-01,2011,7,Other retailing,2950.6
+2011-08-01,2011,8,Other retailing,2995.6
+2011-09-01,2011,9,Other retailing,2997.8
+2011-10-01,2011,10,Other retailing,3022.4
+2011-11-01,2011,11,Other retailing,3317.5
+2011-12-01,2011,12,Other retailing,4267.6
+2012-01-01,2012,1,Other retailing,2826.0
+2012-02-01,2012,2,Other retailing,2810.8
+2012-03-01,2012,3,Other retailing,3035.1
+2012-04-01,2012,4,Other retailing,2803.0
+2012-05-01,2012,5,Other retailing,2997.2
+2012-06-01,2012,6,Other retailing,2980.1
+2012-07-01,2012,7,Other retailing,2960.6
+2012-08-01,2012,8,Other retailing,3083.9
+2012-09-01,2012,9,Other retailing,2999.1
+2012-10-01,2012,10,Other retailing,3113.9
+2012-11-01,2012,11,Other retailing,3451.5
+2012-12-01,2012,12,Other retailing,4107.5
+2013-01-01,2013,1,Other retailing,2913.7
+2013-02-01,2013,2,Other retailing,2764.4
+2013-03-01,2013,3,Other retailing,2975.3
+2013-04-01,2013,4,Other retailing,2895.3
+2013-05-01,2013,5,Other retailing,3086.8
+2013-06-01,2013,6,Other retailing,2873.9
+2013-07-01,2013,7,Other retailing,3024.2
+2013-08-01,2013,8,Other retailing,3089.2
+2013-09-01,2013,9,Other retailing,3063.1
+2013-10-01,2013,10,Other retailing,3240.5
+2013-11-01,2013,11,Other retailing,3668.3
+2013-12-01,2013,12,Other retailing,4293.3
+2014-01-01,2014,1,Other retailing,3070.1
+2014-02-01,2014,2,Other retailing,2903.6
+2014-03-01,2014,3,Other retailing,3099.9
+2014-04-01,2014,4,Other retailing,3009.6
+2014-05-01,2014,5,Other retailing,3160.5
+2014-06-01,2014,6,Other retailing,3029.7
+2014-07-01,2014,7,Other retailing,3179.3
+2014-08-01,2014,8,Other retailing,3260.7
+2014-09-01,2014,9,Other retailing,3262.1
+2014-10-01,2014,10,Other retailing,3417.8
+2014-11-01,2014,11,Other retailing,3577.5
+2014-12-01,2014,12,Other retailing,4440.3
+2015-01-01,2015,1,Other retailing,3152.6
+2015-02-01,2015,2,Other retailing,2999.9
+2015-03-01,2015,3,Other retailing,3243.1
+2015-04-01,2015,4,Other retailing,3058.8
+2015-05-01,2015,5,Other retailing,3214.7
+2015-06-01,2015,6,Other retailing,3243.5
+2015-07-01,2015,7,Other retailing,3337.2
+2015-08-01,2015,8,Other retailing,3379.5
+2015-09-01,2015,9,Other retailing,3454.5
+2015-10-01,2015,10,Other retailing,3579.5
+2015-11-01,2015,11,Other retailing,3824.9
+2015-12-01,2015,12,Other retailing,4642.5
+2016-01-01,2016,1,Other retailing,3304.9
+2016-02-01,2016,2,Other retailing,3257.0
+2016-03-01,2016,3,Other retailing,3398.6
+2016-04-01,2016,4,Other retailing,3355.8
+2016-05-01,2016,5,Other retailing,3428.5
+2016-06-01,2016,6,Other retailing,3414.4
+2016-07-01,2016,7,Other retailing,3492.7
+2016-08-01,2016,8,Other retailing,3562.3
+2016-09-01,2016,9,Other retailing,3602.3
+2016-10-01,2016,10,Other retailing,3643.2
+2016-11-01,2016,11,Other retailing,4051.1
+2016-12-01,2016,12,Other retailing,4859.6
+2017-01-01,2017,1,Other retailing,3421.5
+2017-02-01,2017,2,Other retailing,3230.8
+2017-03-01,2017,3,Other retailing,3590.4
+2017-04-01,2017,4,Other retailing,3338.8
+2017-05-01,2017,5,Other retailing,3577.3
+2017-06-01,2017,6,Other retailing,3560.8
+2017-07-01,2017,7,Other retailing,3600.7
+2017-08-01,2017,8,Other retailing,3710.9
+2017-09-01,2017,9,Other retailing,3627.8
+2017-10-01,2017,10,Other retailing,3709.6
+2017-11-01,2017,11,Other retailing,4203.7
+2017-12-01,2017,12,Other retailing,4890.3
+2018-01-01,2018,1,Other retailing,3587.3
+2018-02-01,2018,2,Other retailing,3334.5
+2018-03-01,2018,3,Other retailing,3651.9
+2018-04-01,2018,4,Other retailing,3402.6
+2018-05-01,2018,5,Other retailing,3629.7
+2018-06-01,2018,6,Other retailing,3611.7
+2018-07-01,2018,7,Other retailing,3721.4
+2018-08-01,2018,8,Other retailing,3882.2
+2018-09-01,2018,9,Other retailing,3704.7
+2018-10-01,2018,10,Other retailing,3965.3
+2018-11-01,2018,11,Other retailing,4346.5
+2018-12-01,2018,12,Other retailing,5053.1
+2019-01-01,2019,1,Other retailing,3711.7
+2019-02-01,2019,2,Other retailing,3458.1
+2019-03-01,2019,3,Other retailing,3706.7
+2019-04-01,2019,4,Other retailing,3606.5
+2019-05-01,2019,5,Other retailing,3829.4
+2019-06-01,2019,6,Other retailing,3722.7
+2019-07-01,2019,7,Other retailing,3873.3
+2019-08-01,2019,8,Other retailing,3969.8
+2019-09-01,2019,9,Other retailing,3853.6
+2019-10-01,2019,10,Other retailing,4069.3
+2019-11-01,2019,11,Other retailing,4408.9
+2019-12-01,2019,12,Other retailing,5191.2
+2020-01-01,2020,1,Other retailing,3789.7
+2020-02-01,2020,2,Other retailing,3629.8
+2020-03-01,2020,3,Other retailing,4395.4
+2020-04-01,2020,4,Other retailing,3645.2
+2020-05-01,2020,5,Other retailing,4131.3
+2020-06-01,2020,6,Other retailing,4142.6
+2020-07-01,2020,7,Other retailing,4467.8
+2020-08-01,2020,8,Other retailing,4204.6
+2020-09-01,2020,9,Other retailing,4170.9
+2020-10-01,2020,10,Other retailing,4462.9
+2020-11-01,2020,11,Other retailing,5172.7
+2020-12-01,2020,12,Other retailing,5939.5
+2021-01-01,2021,1,Other retailing,4300.6
+2021-02-01,2021,2,Other retailing,4008.5
+2021-03-01,2021,3,Other retailing,4491.2
+2021-04-01,2021,4,Other retailing,4252.1
+2021-05-01,2021,5,Other retailing,4468.0
+2021-06-01,2021,6,Other retailing,4410.4
+2021-07-01,2021,7,Other retailing,4558.3
+2021-08-01,2021,8,Other retailing,4593.1
+2021-09-01,2021,9,Other retailing,4678.1
+2021-10-01,2021,10,Other retailing,4959.2
+2021-11-01,2021,11,Other retailing,5860.2
+2021-12-01,2021,12,Other retailing,6683.3
+2022-01-01,2022,1,Other retailing,4952.1
+2022-02-01,2022,2,Other retailing,4583.2
+2022-03-01,2022,3,Other retailing,5103.4
+2022-04-01,2022,4,Other retailing,4898.5
+2022-05-01,2022,5,Other retailing,5195.9
+2022-06-01,2022,6,Other retailing,5166.2
+2022-07-01,2022,7,Other retailing,5295.1
+2022-08-01,2022,8,Other retailing,5282.3
+2022-09-01,2022,9,Other retailing,5256.2
+2022-10-01,2022,10,Other retailing,5413.9
+2022-11-01,2022,11,Other retailing,6113.2
+2022-12-01,2022,12,Other retailing,6899.8
+2023-01-01,2023,1,Other retailing,5112.4
+2023-02-01,2023,2,Other retailing,4728.3
+2023-03-01,2023,3,Other retailing,5193.6
+2023-04-01,2023,4,Other retailing,4850.1
+2023-05-01,2023,5,Other retailing,5350.0
+2023-06-01,2023,6,Other retailing,5145.1
+2023-07-01,2023,7,Other retailing,5165.8
+2023-08-01,2023,8,Other retailing,5307.7
+2023-09-01,2023,9,Other retailing,5298.0
+2023-10-01,2023,10,Other retailing,5471.7
+2023-11-01,2023,11,Other retailing,6184.4
+2023-12-01,2023,12,Other retailing,6951.0
+2024-01-01,2024,1,Other retailing,5285.4
+2024-02-01,2024,2,Other retailing,5049.2
+2024-03-01,2024,3,Other retailing,5228.6
+2024-04-01,2024,4,Other retailing,5213.8
+2024-05-01,2024,5,Other retailing,5535.7
+2024-06-01,2024,6,Other retailing,5333.5
+2024-07-01,2024,7,Other retailing,5539.6
+2024-08-01,2024,8,Other retailing,5673.8
+2024-09-01,2024,9,Other retailing,5527.0
+2024-10-01,2024,10,Other retailing,5977.0
+2024-11-01,2024,11,Other retailing,6617.6
+2024-12-01,2024,12,Other retailing,7345.0
+2025-01-01,2025,1,Other retailing,5670.4
+2025-02-01,2025,2,Other retailing,5122.6
+2025-03-01,2025,3,Other retailing,5567.2
+2025-04-01,2025,4,Other retailing,5476.2
+2025-05-01,2025,5,Other retailing,5797.0
+2025-06-01,2025,6,Other retailing,5750.7
+1982-04-01,1982,4,"Cafes, restaurants and takeaway food services",342.4
+1982-05-01,1982,5,"Cafes, restaurants and takeaway food services",342.1
+1982-06-01,1982,6,"Cafes, restaurants and takeaway food services",328.7
+1982-07-01,1982,7,"Cafes, restaurants and takeaway food services",338.5
+1982-08-01,1982,8,"Cafes, restaurants and takeaway food services",331.5
+1982-09-01,1982,9,"Cafes, restaurants and takeaway food services",341.9
+1982-10-01,1982,10,"Cafes, restaurants and takeaway food services",358.4
+1982-11-01,1982,11,"Cafes, restaurants and takeaway food services",374.7
+1982-12-01,1982,12,"Cafes, restaurants and takeaway food services",433.1
+1983-01-01,1983,1,"Cafes, restaurants and takeaway food services",368.6
+1983-02-01,1983,2,"Cafes, restaurants and takeaway food services",348.1
+1983-03-01,1983,3,"Cafes, restaurants and takeaway food services",365.8
+1983-04-01,1983,4,"Cafes, restaurants and takeaway food services",351.1
+1983-05-01,1983,5,"Cafes, restaurants and takeaway food services",360.5
+1983-06-01,1983,6,"Cafes, restaurants and takeaway food services",347.1
+1983-07-01,1983,7,"Cafes, restaurants and takeaway food services",364.5
+1983-08-01,1983,8,"Cafes, restaurants and takeaway food services",376.0
+1983-09-01,1983,9,"Cafes, restaurants and takeaway food services",377.6
+1983-10-01,1983,10,"Cafes, restaurants and takeaway food services",374.1
+1983-11-01,1983,11,"Cafes, restaurants and takeaway food services",390.6
+1983-12-01,1983,12,"Cafes, restaurants and takeaway food services",459.0
+1984-01-01,1984,1,"Cafes, restaurants and takeaway food services",388.8
+1984-02-01,1984,2,"Cafes, restaurants and takeaway food services",377.1
+1984-03-01,1984,3,"Cafes, restaurants and takeaway food services",397.8
+1984-04-01,1984,4,"Cafes, restaurants and takeaway food services",383.3
+1984-05-01,1984,5,"Cafes, restaurants and takeaway food services",414.0
+1984-06-01,1984,6,"Cafes, restaurants and takeaway food services",381.5
+1984-07-01,1984,7,"Cafes, restaurants and takeaway food services",393.0
+1984-08-01,1984,8,"Cafes, restaurants and takeaway food services",409.0
+1984-09-01,1984,9,"Cafes, restaurants and takeaway food services",394.7
+1984-10-01,1984,10,"Cafes, restaurants and takeaway food services",424.5
+1984-11-01,1984,11,"Cafes, restaurants and takeaway food services",436.5
+1984-12-01,1984,12,"Cafes, restaurants and takeaway food services",488.1
+1985-01-01,1985,1,"Cafes, restaurants and takeaway food services",425.6
+1985-02-01,1985,2,"Cafes, restaurants and takeaway food services",391.8
+1985-03-01,1985,3,"Cafes, restaurants and takeaway food services",416.1
+1985-04-01,1985,4,"Cafes, restaurants and takeaway food services",419.8
+1985-05-01,1985,5,"Cafes, restaurants and takeaway food services",446.2
+1985-06-01,1985,6,"Cafes, restaurants and takeaway food services",406.8
+1985-07-01,1985,7,"Cafes, restaurants and takeaway food services",448.5
+1985-08-01,1985,8,"Cafes, restaurants and takeaway food services",466.0
+1985-09-01,1985,9,"Cafes, restaurants and takeaway food services",455.2
+1985-10-01,1985,10,"Cafes, restaurants and takeaway food services",493.6
+1985-11-01,1985,11,"Cafes, restaurants and takeaway food services",505.6
+1985-12-01,1985,12,"Cafes, restaurants and takeaway food services",563.9
+1986-01-01,1986,1,"Cafes, restaurants and takeaway food services",504.3
+1986-02-01,1986,2,"Cafes, restaurants and takeaway food services",452.9
+1986-03-01,1986,3,"Cafes, restaurants and takeaway food services",480.3
+1986-04-01,1986,4,"Cafes, restaurants and takeaway food services",497.2
+1986-05-01,1986,5,"Cafes, restaurants and takeaway food services",530.8
+1986-06-01,1986,6,"Cafes, restaurants and takeaway food services",484.8
+1986-07-01,1986,7,"Cafes, restaurants and takeaway food services",526.3
+1986-08-01,1986,8,"Cafes, restaurants and takeaway food services",538.4
+1986-09-01,1986,9,"Cafes, restaurants and takeaway food services",537.4
+1986-10-01,1986,10,"Cafes, restaurants and takeaway food services",570.4
+1986-11-01,1986,11,"Cafes, restaurants and takeaway food services",563.8
+1986-12-01,1986,12,"Cafes, restaurants and takeaway food services",663.2
+1987-01-01,1987,1,"Cafes, restaurants and takeaway food services",571.6
+1987-02-01,1987,2,"Cafes, restaurants and takeaway food services",525.1
+1987-03-01,1987,3,"Cafes, restaurants and takeaway food services",543.6
+1987-04-01,1987,4,"Cafes, restaurants and takeaway food services",558.1
+1987-05-01,1987,5,"Cafes, restaurants and takeaway food services",565.1
+1987-06-01,1987,6,"Cafes, restaurants and takeaway food services",542.3
+1987-07-01,1987,7,"Cafes, restaurants and takeaway food services",598.6
+1987-08-01,1987,8,"Cafes, restaurants and takeaway food services",583.7
+1987-09-01,1987,9,"Cafes, restaurants and takeaway food services",592.7
+1987-10-01,1987,10,"Cafes, restaurants and takeaway food services",623.3
+1987-11-01,1987,11,"Cafes, restaurants and takeaway food services",621.9
+1987-12-01,1987,12,"Cafes, restaurants and takeaway food services",739.8
+1988-01-01,1988,1,"Cafes, restaurants and takeaway food services",605.0
+1988-02-01,1988,2,"Cafes, restaurants and takeaway food services",586.1
+1988-03-01,1988,3,"Cafes, restaurants and takeaway food services",625.3
+1988-04-01,1988,4,"Cafes, restaurants and takeaway food services",611.9
+1988-05-01,1988,5,"Cafes, restaurants and takeaway food services",630.5
+1988-06-01,1988,6,"Cafes, restaurants and takeaway food services",635.5
+1988-07-01,1988,7,"Cafes, restaurants and takeaway food services",658.7
+1988-08-01,1988,8,"Cafes, restaurants and takeaway food services",656.4
+1988-09-01,1988,9,"Cafes, restaurants and takeaway food services",660.0
+1988-10-01,1988,10,"Cafes, restaurants and takeaway food services",670.2
+1988-11-01,1988,11,"Cafes, restaurants and takeaway food services",670.8
+1988-12-01,1988,12,"Cafes, restaurants and takeaway food services",773.9
+1989-01-01,1989,1,"Cafes, restaurants and takeaway food services",732.8
+1989-02-01,1989,2,"Cafes, restaurants and takeaway food services",660.7
+1989-03-01,1989,3,"Cafes, restaurants and takeaway food services",713.2
+1989-04-01,1989,4,"Cafes, restaurants and takeaway food services",693.9
+1989-05-01,1989,5,"Cafes, restaurants and takeaway food services",710.0
+1989-06-01,1989,6,"Cafes, restaurants and takeaway food services",721.7
+1989-07-01,1989,7,"Cafes, restaurants and takeaway food services",741.3
+1989-08-01,1989,8,"Cafes, restaurants and takeaway food services",745.5
+1989-09-01,1989,9,"Cafes, restaurants and takeaway food services",766.9
+1989-10-01,1989,10,"Cafes, restaurants and takeaway food services",793.7
+1989-11-01,1989,11,"Cafes, restaurants and takeaway food services",807.5
+1989-12-01,1989,12,"Cafes, restaurants and takeaway food services",942.7
+1990-01-01,1990,1,"Cafes, restaurants and takeaway food services",857.5
+1990-02-01,1990,2,"Cafes, restaurants and takeaway food services",764.4
+1990-03-01,1990,3,"Cafes, restaurants and takeaway food services",840.3
+1990-04-01,1990,4,"Cafes, restaurants and takeaway food services",804.6
+1990-05-01,1990,5,"Cafes, restaurants and takeaway food services",808.9
+1990-06-01,1990,6,"Cafes, restaurants and takeaway food services",799.0
+1990-07-01,1990,7,"Cafes, restaurants and takeaway food services",815.0
+1990-08-01,1990,8,"Cafes, restaurants and takeaway food services",828.0
+1990-09-01,1990,9,"Cafes, restaurants and takeaway food services",812.4
+1990-10-01,1990,10,"Cafes, restaurants and takeaway food services",833.0
+1990-11-01,1990,11,"Cafes, restaurants and takeaway food services",851.5
+1990-12-01,1990,12,"Cafes, restaurants and takeaway food services",945.7
+1991-01-01,1991,1,"Cafes, restaurants and takeaway food services",861.7
+1991-02-01,1991,2,"Cafes, restaurants and takeaway food services",771.1
+1991-03-01,1991,3,"Cafes, restaurants and takeaway food services",813.3
+1991-04-01,1991,4,"Cafes, restaurants and takeaway food services",797.4
+1991-05-01,1991,5,"Cafes, restaurants and takeaway food services",820.6
+1991-06-01,1991,6,"Cafes, restaurants and takeaway food services",801.3
+1991-07-01,1991,7,"Cafes, restaurants and takeaway food services",829.4
+1991-08-01,1991,8,"Cafes, restaurants and takeaway food services",853.5
+1991-09-01,1991,9,"Cafes, restaurants and takeaway food services",882.0
+1991-10-01,1991,10,"Cafes, restaurants and takeaway food services",938.9
+1991-11-01,1991,11,"Cafes, restaurants and takeaway food services",953.8
+1991-12-01,1991,12,"Cafes, restaurants and takeaway food services",1048.3
+1992-01-01,1992,1,"Cafes, restaurants and takeaway food services",938.3
+1992-02-01,1992,2,"Cafes, restaurants and takeaway food services",861.5
+1992-03-01,1992,3,"Cafes, restaurants and takeaway food services",936.1
+1992-04-01,1992,4,"Cafes, restaurants and takeaway food services",932.0
+1992-05-01,1992,5,"Cafes, restaurants and takeaway food services",929.4
+1992-06-01,1992,6,"Cafes, restaurants and takeaway food services",868.5
+1992-07-01,1992,7,"Cafes, restaurants and takeaway food services",891.3
+1992-08-01,1992,8,"Cafes, restaurants and takeaway food services",875.5
+1992-09-01,1992,9,"Cafes, restaurants and takeaway food services",914.1
+1992-10-01,1992,10,"Cafes, restaurants and takeaway food services",935.7
+1992-11-01,1992,11,"Cafes, restaurants and takeaway food services",931.8
+1992-12-01,1992,12,"Cafes, restaurants and takeaway food services",1045.8
+1993-01-01,1993,1,"Cafes, restaurants and takeaway food services",917.8
+1993-02-01,1993,2,"Cafes, restaurants and takeaway food services",838.1
+1993-03-01,1993,3,"Cafes, restaurants and takeaway food services",869.8
+1993-04-01,1993,4,"Cafes, restaurants and takeaway food services",862.1
+1993-05-01,1993,5,"Cafes, restaurants and takeaway food services",852.1
+1993-06-01,1993,6,"Cafes, restaurants and takeaway food services",827.6
+1993-07-01,1993,7,"Cafes, restaurants and takeaway food services",882.3
+1993-08-01,1993,8,"Cafes, restaurants and takeaway food services",866.9
+1993-09-01,1993,9,"Cafes, restaurants and takeaway food services",904.9
+1993-10-01,1993,10,"Cafes, restaurants and takeaway food services",931.2
+1993-11-01,1993,11,"Cafes, restaurants and takeaway food services",963.0
+1993-12-01,1993,12,"Cafes, restaurants and takeaway food services",1099.5
+1994-01-01,1994,1,"Cafes, restaurants and takeaway food services",984.5
+1994-02-01,1994,2,"Cafes, restaurants and takeaway food services",901.6
+1994-03-01,1994,3,"Cafes, restaurants and takeaway food services",1015.2
+1994-04-01,1994,4,"Cafes, restaurants and takeaway food services",939.1
+1994-05-01,1994,5,"Cafes, restaurants and takeaway food services",941.4
+1994-06-01,1994,6,"Cafes, restaurants and takeaway food services",934.8
+1994-07-01,1994,7,"Cafes, restaurants and takeaway food services",1013.3
+1994-08-01,1994,8,"Cafes, restaurants and takeaway food services",1017.5
+1994-09-01,1994,9,"Cafes, restaurants and takeaway food services",1040.7
+1994-10-01,1994,10,"Cafes, restaurants and takeaway food services",1061.8
+1994-11-01,1994,11,"Cafes, restaurants and takeaway food services",1070.2
+1994-12-01,1994,12,"Cafes, restaurants and takeaway food services",1188.3
+1995-01-01,1995,1,"Cafes, restaurants and takeaway food services",1076.3
+1995-02-01,1995,2,"Cafes, restaurants and takeaway food services",981.6
+1995-03-01,1995,3,"Cafes, restaurants and takeaway food services",1098.9
+1995-04-01,1995,4,"Cafes, restaurants and takeaway food services",1067.8
+1995-05-01,1995,5,"Cafes, restaurants and takeaway food services",1083.3
+1995-06-01,1995,6,"Cafes, restaurants and takeaway food services",1045.0
+1995-07-01,1995,7,"Cafes, restaurants and takeaway food services",1094.4
+1995-08-01,1995,8,"Cafes, restaurants and takeaway food services",1109.7
+1995-09-01,1995,9,"Cafes, restaurants and takeaway food services",1126.1
+1995-10-01,1995,10,"Cafes, restaurants and takeaway food services",1166.5
+1995-11-01,1995,11,"Cafes, restaurants and takeaway food services",1194.3
+1995-12-01,1995,12,"Cafes, restaurants and takeaway food services",1314.7
+1996-01-01,1996,1,"Cafes, restaurants and takeaway food services",1213.1
+1996-02-01,1996,2,"Cafes, restaurants and takeaway food services",1128.0
+1996-03-01,1996,3,"Cafes, restaurants and takeaway food services",1180.0
+1996-04-01,1996,4,"Cafes, restaurants and takeaway food services",1169.3
+1996-05-01,1996,5,"Cafes, restaurants and takeaway food services",1145.7
+1996-06-01,1996,6,"Cafes, restaurants and takeaway food services",1109.0
+1996-07-01,1996,7,"Cafes, restaurants and takeaway food services",1138.1
+1996-08-01,1996,8,"Cafes, restaurants and takeaway food services",1145.7
+1996-09-01,1996,9,"Cafes, restaurants and takeaway food services",1104.9
+1996-10-01,1996,10,"Cafes, restaurants and takeaway food services",1142.2
+1996-11-01,1996,11,"Cafes, restaurants and takeaway food services",1129.4
+1996-12-01,1996,12,"Cafes, restaurants and takeaway food services",1230.8
+1997-01-01,1997,1,"Cafes, restaurants and takeaway food services",1180.1
+1997-02-01,1997,2,"Cafes, restaurants and takeaway food services",1059.5
+1997-03-01,1997,3,"Cafes, restaurants and takeaway food services",1148.0
+1997-04-01,1997,4,"Cafes, restaurants and takeaway food services",1141.3
+1997-05-01,1997,5,"Cafes, restaurants and takeaway food services",1170.3
+1997-06-01,1997,6,"Cafes, restaurants and takeaway food services",1113.5
+1997-07-01,1997,7,"Cafes, restaurants and takeaway food services",1164.6
+1997-08-01,1997,8,"Cafes, restaurants and takeaway food services",1173.3
+1997-09-01,1997,9,"Cafes, restaurants and takeaway food services",1154.1
+1997-10-01,1997,10,"Cafes, restaurants and takeaway food services",1204.8
+1997-11-01,1997,11,"Cafes, restaurants and takeaway food services",1183.7
+1997-12-01,1997,12,"Cafes, restaurants and takeaway food services",1306.7
+1998-01-01,1998,1,"Cafes, restaurants and takeaway food services",1185.9
+1998-02-01,1998,2,"Cafes, restaurants and takeaway food services",1050.0
+1998-03-01,1998,3,"Cafes, restaurants and takeaway food services",1141.1
+1998-04-01,1998,4,"Cafes, restaurants and takeaway food services",1106.7
+1998-05-01,1998,5,"Cafes, restaurants and takeaway food services",1144.2
+1998-06-01,1998,6,"Cafes, restaurants and takeaway food services",1088.2
+1998-07-01,1998,7,"Cafes, restaurants and takeaway food services",1162.2
+1998-08-01,1998,8,"Cafes, restaurants and takeaway food services",1144.8
+1998-09-01,1998,9,"Cafes, restaurants and takeaway food services",1149.5
+1998-10-01,1998,10,"Cafes, restaurants and takeaway food services",1258.6
+1998-11-01,1998,11,"Cafes, restaurants and takeaway food services",1200.8
+1998-12-01,1998,12,"Cafes, restaurants and takeaway food services",1310.2
+1999-01-01,1999,1,"Cafes, restaurants and takeaway food services",1244.0
+1999-02-01,1999,2,"Cafes, restaurants and takeaway food services",1124.4
+1999-03-01,1999,3,"Cafes, restaurants and takeaway food services",1245.4
+1999-04-01,1999,4,"Cafes, restaurants and takeaway food services",1236.0
+1999-05-01,1999,5,"Cafes, restaurants and takeaway food services",1271.4
+1999-06-01,1999,6,"Cafes, restaurants and takeaway food services",1208.0
+1999-07-01,1999,7,"Cafes, restaurants and takeaway food services",1219.2
+1999-08-01,1999,8,"Cafes, restaurants and takeaway food services",1233.6
+1999-09-01,1999,9,"Cafes, restaurants and takeaway food services",1261.3
+1999-10-01,1999,10,"Cafes, restaurants and takeaway food services",1314.4
+1999-11-01,1999,11,"Cafes, restaurants and takeaway food services",1318.3
+1999-12-01,1999,12,"Cafes, restaurants and takeaway food services",1455.3
+2000-01-01,2000,1,"Cafes, restaurants and takeaway food services",1297.4
+2000-02-01,2000,2,"Cafes, restaurants and takeaway food services",1206.7
+2000-03-01,2000,3,"Cafes, restaurants and takeaway food services",1324.6
+2000-04-01,2000,4,"Cafes, restaurants and takeaway food services",1252.5
+2000-05-01,2000,5,"Cafes, restaurants and takeaway food services",1282.1
+2000-06-01,2000,6,"Cafes, restaurants and takeaway food services",1274.7
+2000-07-01,2000,7,"Cafes, restaurants and takeaway food services",1317.9
+2000-08-01,2000,8,"Cafes, restaurants and takeaway food services",1328.8
+2000-09-01,2000,9,"Cafes, restaurants and takeaway food services",1432.4
+2000-10-01,2000,10,"Cafes, restaurants and takeaway food services",1460.8
+2000-11-01,2000,11,"Cafes, restaurants and takeaway food services",1416.3
+2000-12-01,2000,12,"Cafes, restaurants and takeaway food services",1538.6
+2001-01-01,2001,1,"Cafes, restaurants and takeaway food services",1470.8
+2001-02-01,2001,2,"Cafes, restaurants and takeaway food services",1338.0
+2001-03-01,2001,3,"Cafes, restaurants and takeaway food services",1521.2
+2001-04-01,2001,4,"Cafes, restaurants and takeaway food services",1441.3
+2001-05-01,2001,5,"Cafes, restaurants and takeaway food services",1446.1
+2001-06-01,2001,6,"Cafes, restaurants and takeaway food services",1397.6
+2001-07-01,2001,7,"Cafes, restaurants and takeaway food services",1477.4
+2001-08-01,2001,8,"Cafes, restaurants and takeaway food services",1504.6
+2001-09-01,2001,9,"Cafes, restaurants and takeaway food services",1437.2
+2001-10-01,2001,10,"Cafes, restaurants and takeaway food services",1488.5
+2001-11-01,2001,11,"Cafes, restaurants and takeaway food services",1482.9
+2001-12-01,2001,12,"Cafes, restaurants and takeaway food services",1611.4
+2002-01-01,2002,1,"Cafes, restaurants and takeaway food services",1482.1
+2002-02-01,2002,2,"Cafes, restaurants and takeaway food services",1329.8
+2002-03-01,2002,3,"Cafes, restaurants and takeaway food services",1478.9
+2002-04-01,2002,4,"Cafes, restaurants and takeaway food services",1460.4
+2002-05-01,2002,5,"Cafes, restaurants and takeaway food services",1481.9
+2002-06-01,2002,6,"Cafes, restaurants and takeaway food services",1424.9
+2002-07-01,2002,7,"Cafes, restaurants and takeaway food services",1527.3
+2002-08-01,2002,8,"Cafes, restaurants and takeaway food services",1551.6
+2002-09-01,2002,9,"Cafes, restaurants and takeaway food services",1495.1
+2002-10-01,2002,10,"Cafes, restaurants and takeaway food services",1556.6
+2002-11-01,2002,11,"Cafes, restaurants and takeaway food services",1571.9
+2002-12-01,2002,12,"Cafes, restaurants and takeaway food services",1734.0
+2003-01-01,2003,1,"Cafes, restaurants and takeaway food services",1620.4
+2003-02-01,2003,2,"Cafes, restaurants and takeaway food services",1421.8
+2003-03-01,2003,3,"Cafes, restaurants and takeaway food services",1574.2
+2003-04-01,2003,4,"Cafes, restaurants and takeaway food services",1589.1
+2003-05-01,2003,5,"Cafes, restaurants and takeaway food services",1657.4
+2003-06-01,2003,6,"Cafes, restaurants and takeaway food services",1554.2
+2003-07-01,2003,7,"Cafes, restaurants and takeaway food services",1699.4
+2003-08-01,2003,8,"Cafes, restaurants and takeaway food services",1737.8
+2003-09-01,2003,9,"Cafes, restaurants and takeaway food services",1709.4
+2003-10-01,2003,10,"Cafes, restaurants and takeaway food services",1878.4
+2003-11-01,2003,11,"Cafes, restaurants and takeaway food services",1838.4
+2003-12-01,2003,12,"Cafes, restaurants and takeaway food services",2048.3
+2004-01-01,2004,1,"Cafes, restaurants and takeaway food services",1895.2
+2004-02-01,2004,2,"Cafes, restaurants and takeaway food services",1765.8
+2004-03-01,2004,3,"Cafes, restaurants and takeaway food services",1872.8
+2004-04-01,2004,4,"Cafes, restaurants and takeaway food services",1873.7
+2004-05-01,2004,5,"Cafes, restaurants and takeaway food services",1846.2
+2004-06-01,2004,6,"Cafes, restaurants and takeaway food services",1758.5
+2004-07-01,2004,7,"Cafes, restaurants and takeaway food services",1878.2
+2004-08-01,2004,8,"Cafes, restaurants and takeaway food services",1850.1
+2004-09-01,2004,9,"Cafes, restaurants and takeaway food services",1921.5
+2004-10-01,2004,10,"Cafes, restaurants and takeaway food services",1914.5
+2004-11-01,2004,11,"Cafes, restaurants and takeaway food services",1839.9
+2004-12-01,2004,12,"Cafes, restaurants and takeaway food services",2041.9
+2005-01-01,2005,1,"Cafes, restaurants and takeaway food services",1798.7
+2005-02-01,2005,2,"Cafes, restaurants and takeaway food services",1661.2
+2005-03-01,2005,3,"Cafes, restaurants and takeaway food services",1780.3
+2005-04-01,2005,4,"Cafes, restaurants and takeaway food services",1809.0
+2005-05-01,2005,5,"Cafes, restaurants and takeaway food services",1788.9
+2005-06-01,2005,6,"Cafes, restaurants and takeaway food services",1768.9
+2005-07-01,2005,7,"Cafes, restaurants and takeaway food services",1869.0
+2005-08-01,2005,8,"Cafes, restaurants and takeaway food services",1813.4
+2005-09-01,2005,9,"Cafes, restaurants and takeaway food services",1845.8
+2005-10-01,2005,10,"Cafes, restaurants and takeaway food services",1978.1
+2005-11-01,2005,11,"Cafes, restaurants and takeaway food services",1965.0
+2005-12-01,2005,12,"Cafes, restaurants and takeaway food services",2152.8
+2006-01-01,2006,1,"Cafes, restaurants and takeaway food services",1913.8
+2006-02-01,2006,2,"Cafes, restaurants and takeaway food services",1750.1
+2006-03-01,2006,3,"Cafes, restaurants and takeaway food services",1983.8
+2006-04-01,2006,4,"Cafes, restaurants and takeaway food services",1966.5
+2006-05-01,2006,5,"Cafes, restaurants and takeaway food services",2005.1
+2006-06-01,2006,6,"Cafes, restaurants and takeaway food services",1943.6
+2006-07-01,2006,7,"Cafes, restaurants and takeaway food services",2019.2
+2006-08-01,2006,8,"Cafes, restaurants and takeaway food services",2043.2
+2006-09-01,2006,9,"Cafes, restaurants and takeaway food services",2038.7
+2006-10-01,2006,10,"Cafes, restaurants and takeaway food services",2113.3
+2006-11-01,2006,11,"Cafes, restaurants and takeaway food services",2109.4
+2006-12-01,2006,12,"Cafes, restaurants and takeaway food services",2297.3
+2007-01-01,2007,1,"Cafes, restaurants and takeaway food services",2097.1
+2007-02-01,2007,2,"Cafes, restaurants and takeaway food services",1939.0
+2007-03-01,2007,3,"Cafes, restaurants and takeaway food services",2191.9
+2007-04-01,2007,4,"Cafes, restaurants and takeaway food services",2134.0
+2007-05-01,2007,5,"Cafes, restaurants and takeaway food services",2145.5
+2007-06-01,2007,6,"Cafes, restaurants and takeaway food services",2133.8
+2007-07-01,2007,7,"Cafes, restaurants and takeaway food services",2178.4
+2007-08-01,2007,8,"Cafes, restaurants and takeaway food services",2257.9
+2007-09-01,2007,9,"Cafes, restaurants and takeaway food services",2179.5
+2007-10-01,2007,10,"Cafes, restaurants and takeaway food services",2257.3
+2007-11-01,2007,11,"Cafes, restaurants and takeaway food services",2284.6
+2007-12-01,2007,12,"Cafes, restaurants and takeaway food services",2461.1
+2008-01-01,2008,1,"Cafes, restaurants and takeaway food services",2163.5
+2008-02-01,2008,2,"Cafes, restaurants and takeaway food services",2086.7
+2008-03-01,2008,3,"Cafes, restaurants and takeaway food services",2159.4
+2008-04-01,2008,4,"Cafes, restaurants and takeaway food services",2148.2
+2008-05-01,2008,5,"Cafes, restaurants and takeaway food services",2176.7
+2008-06-01,2008,6,"Cafes, restaurants and takeaway food services",2089.9
+2008-07-01,2008,7,"Cafes, restaurants and takeaway food services",2172.6
+2008-08-01,2008,8,"Cafes, restaurants and takeaway food services",2204.0
+2008-09-01,2008,9,"Cafes, restaurants and takeaway food services",2124.2
+2008-10-01,2008,10,"Cafes, restaurants and takeaway food services",2302.4
+2008-11-01,2008,11,"Cafes, restaurants and takeaway food services",2242.8
+2008-12-01,2008,12,"Cafes, restaurants and takeaway food services",2479.4
+2009-01-01,2009,1,"Cafes, restaurants and takeaway food services",2318.3
+2009-02-01,2009,2,"Cafes, restaurants and takeaway food services",2069.5
+2009-03-01,2009,3,"Cafes, restaurants and takeaway food services",2303.2
+2009-04-01,2009,4,"Cafes, restaurants and takeaway food services",2326.9
+2009-05-01,2009,5,"Cafes, restaurants and takeaway food services",2401.7
+2009-06-01,2009,6,"Cafes, restaurants and takeaway food services",2263.0
+2009-07-01,2009,7,"Cafes, restaurants and takeaway food services",2415.1
+2009-08-01,2009,8,"Cafes, restaurants and takeaway food services",2446.1
+2009-09-01,2009,9,"Cafes, restaurants and takeaway food services",2430.7
+2009-10-01,2009,10,"Cafes, restaurants and takeaway food services",2602.0
+2009-11-01,2009,11,"Cafes, restaurants and takeaway food services",2569.9
+2009-12-01,2009,12,"Cafes, restaurants and takeaway food services",2897.1
+2010-01-01,2010,1,"Cafes, restaurants and takeaway food services",2521.3
+2010-02-01,2010,2,"Cafes, restaurants and takeaway food services",2323.9
+2010-03-01,2010,3,"Cafes, restaurants and takeaway food services",2607.5
+2010-04-01,2010,4,"Cafes, restaurants and takeaway food services",2535.8
+2010-05-01,2010,5,"Cafes, restaurants and takeaway food services",2571.4
+2010-06-01,2010,6,"Cafes, restaurants and takeaway food services",2504.9
+2010-07-01,2010,7,"Cafes, restaurants and takeaway food services",2781.3
+2010-08-01,2010,8,"Cafes, restaurants and takeaway food services",2800.0
+2010-09-01,2010,9,"Cafes, restaurants and takeaway food services",2742.8
+2010-10-01,2010,10,"Cafes, restaurants and takeaway food services",2730.2
+2010-11-01,2010,11,"Cafes, restaurants and takeaway food services",2684.4
+2010-12-01,2010,12,"Cafes, restaurants and takeaway food services",3021.1
+2011-01-01,2011,1,"Cafes, restaurants and takeaway food services",2598.2
+2011-02-01,2011,2,"Cafes, restaurants and takeaway food services",2391.3
+2011-03-01,2011,3,"Cafes, restaurants and takeaway food services",2648.9
+2011-04-01,2011,4,"Cafes, restaurants and takeaway food services",2598.9
+2011-05-01,2011,5,"Cafes, restaurants and takeaway food services",2604.1
+2011-06-01,2011,6,"Cafes, restaurants and takeaway food services",2519.5
+2011-07-01,2011,7,"Cafes, restaurants and takeaway food services",2701.9
+2011-08-01,2011,8,"Cafes, restaurants and takeaway food services",2739.6
+2011-09-01,2011,9,"Cafes, restaurants and takeaway food services",2744.3
+2011-10-01,2011,10,"Cafes, restaurants and takeaway food services",2814.4
+2011-11-01,2011,11,"Cafes, restaurants and takeaway food services",2784.2
+2011-12-01,2011,12,"Cafes, restaurants and takeaway food services",3046.6
+2012-01-01,2012,1,"Cafes, restaurants and takeaway food services",2729.5
+2012-02-01,2012,2,"Cafes, restaurants and takeaway food services",2556.0
+2012-03-01,2012,3,"Cafes, restaurants and takeaway food services",2839.3
+2012-04-01,2012,4,"Cafes, restaurants and takeaway food services",2737.4
+2012-05-01,2012,5,"Cafes, restaurants and takeaway food services",2836.7
+2012-06-01,2012,6,"Cafes, restaurants and takeaway food services",2784.8
+2012-07-01,2012,7,"Cafes, restaurants and takeaway food services",2932.2
+2012-08-01,2012,8,"Cafes, restaurants and takeaway food services",2962.7
+2012-09-01,2012,9,"Cafes, restaurants and takeaway food services",2885.9
+2012-10-01,2012,10,"Cafes, restaurants and takeaway food services",2966.7
+2012-11-01,2012,11,"Cafes, restaurants and takeaway food services",2973.1
+2012-12-01,2012,12,"Cafes, restaurants and takeaway food services",3177.5
+2013-01-01,2013,1,"Cafes, restaurants and takeaway food services",2849.6
+2013-02-01,2013,2,"Cafes, restaurants and takeaway food services",2607.7
+2013-03-01,2013,3,"Cafes, restaurants and takeaway food services",2924.0
+2013-04-01,2013,4,"Cafes, restaurants and takeaway food services",2853.5
+2013-05-01,2013,5,"Cafes, restaurants and takeaway food services",2901.5
+2013-06-01,2013,6,"Cafes, restaurants and takeaway food services",2813.0
+2013-07-01,2013,7,"Cafes, restaurants and takeaway food services",2968.4
+2013-08-01,2013,8,"Cafes, restaurants and takeaway food services",3065.1
+2013-09-01,2013,9,"Cafes, restaurants and takeaway food services",2988.7
+2013-10-01,2013,10,"Cafes, restaurants and takeaway food services",3175.4
+2013-11-01,2013,11,"Cafes, restaurants and takeaway food services",3210.8
+2013-12-01,2013,12,"Cafes, restaurants and takeaway food services",3536.8
+2014-01-01,2014,1,"Cafes, restaurants and takeaway food services",3209.1
+2014-02-01,2014,2,"Cafes, restaurants and takeaway food services",2879.9
+2014-03-01,2014,3,"Cafes, restaurants and takeaway food services",3232.0
+2014-04-01,2014,4,"Cafes, restaurants and takeaway food services",3182.1
+2014-05-01,2014,5,"Cafes, restaurants and takeaway food services",3228.3
+2014-06-01,2014,6,"Cafes, restaurants and takeaway food services",3067.5
+2014-07-01,2014,7,"Cafes, restaurants and takeaway food services",3315.8
+2014-08-01,2014,8,"Cafes, restaurants and takeaway food services",3350.7
+2014-09-01,2014,9,"Cafes, restaurants and takeaway food services",3360.4
+2014-10-01,2014,10,"Cafes, restaurants and takeaway food services",3401.6
+2014-11-01,2014,11,"Cafes, restaurants and takeaway food services",3374.9
+2014-12-01,2014,12,"Cafes, restaurants and takeaway food services",3692.7
+2015-01-01,2015,1,"Cafes, restaurants and takeaway food services",3391.3
+2015-02-01,2015,2,"Cafes, restaurants and takeaway food services",3027.5
+2015-03-01,2015,3,"Cafes, restaurants and takeaway food services",3361.9
+2015-04-01,2015,4,"Cafes, restaurants and takeaway food services",3266.5
+2015-05-01,2015,5,"Cafes, restaurants and takeaway food services",3314.0
+2015-06-01,2015,6,"Cafes, restaurants and takeaway food services",3257.5
+2015-07-01,2015,7,"Cafes, restaurants and takeaway food services",3445.3
+2015-08-01,2015,8,"Cafes, restaurants and takeaway food services",3421.1
+2015-09-01,2015,9,"Cafes, restaurants and takeaway food services",3444.4
+2015-10-01,2015,10,"Cafes, restaurants and takeaway food services",3525.8
+2015-11-01,2015,11,"Cafes, restaurants and takeaway food services",3491.3
+2015-12-01,2015,12,"Cafes, restaurants and takeaway food services",3819.9
+2016-01-01,2016,1,"Cafes, restaurants and takeaway food services",3431.8
+2016-02-01,2016,2,"Cafes, restaurants and takeaway food services",3186.9
+2016-03-01,2016,3,"Cafes, restaurants and takeaway food services",3435.2
+2016-04-01,2016,4,"Cafes, restaurants and takeaway food services",3451.7
+2016-05-01,2016,5,"Cafes, restaurants and takeaway food services",3431.0
+2016-06-01,2016,6,"Cafes, restaurants and takeaway food services",3313.9
+2016-07-01,2016,7,"Cafes, restaurants and takeaway food services",3573.0
+2016-08-01,2016,8,"Cafes, restaurants and takeaway food services",3647.5
+2016-09-01,2016,9,"Cafes, restaurants and takeaway food services",3696.3
+2016-10-01,2016,10,"Cafes, restaurants and takeaway food services",3716.6
+2016-11-01,2016,11,"Cafes, restaurants and takeaway food services",3678.5
+2016-12-01,2016,12,"Cafes, restaurants and takeaway food services",4047.3
+2017-01-01,2017,1,"Cafes, restaurants and takeaway food services",3621.4
+2017-02-01,2017,2,"Cafes, restaurants and takeaway food services",3260.6
+2017-03-01,2017,3,"Cafes, restaurants and takeaway food services",3619.0
+2017-04-01,2017,4,"Cafes, restaurants and takeaway food services",3567.0
+2017-05-01,2017,5,"Cafes, restaurants and takeaway food services",3598.6
+2017-06-01,2017,6,"Cafes, restaurants and takeaway food services",3544.2
+2017-07-01,2017,7,"Cafes, restaurants and takeaway food services",3698.1
+2017-08-01,2017,8,"Cafes, restaurants and takeaway food services",3711.2
+2017-09-01,2017,9,"Cafes, restaurants and takeaway food services",3729.7
+2017-10-01,2017,10,"Cafes, restaurants and takeaway food services",3871.1
+2017-11-01,2017,11,"Cafes, restaurants and takeaway food services",3828.1
+2017-12-01,2017,12,"Cafes, restaurants and takeaway food services",4174.9
+2018-01-01,2018,1,"Cafes, restaurants and takeaway food services",3698.8
+2018-02-01,2018,2,"Cafes, restaurants and takeaway food services",3377.8
+2018-03-01,2018,3,"Cafes, restaurants and takeaway food services",3749.1
+2018-04-01,2018,4,"Cafes, restaurants and takeaway food services",3679.3
+2018-05-01,2018,5,"Cafes, restaurants and takeaway food services",3666.6
+2018-06-01,2018,6,"Cafes, restaurants and takeaway food services",3601.3
+2018-07-01,2018,7,"Cafes, restaurants and takeaway food services",3844.0
+2018-08-01,2018,8,"Cafes, restaurants and takeaway food services",3908.3
+2018-09-01,2018,9,"Cafes, restaurants and takeaway food services",3863.4
+2018-10-01,2018,10,"Cafes, restaurants and takeaway food services",3929.1
+2018-11-01,2018,11,"Cafes, restaurants and takeaway food services",3934.2
+2018-12-01,2018,12,"Cafes, restaurants and takeaway food services",4278.9
+2019-01-01,2019,1,"Cafes, restaurants and takeaway food services",3826.7
+2019-02-01,2019,2,"Cafes, restaurants and takeaway food services",3456.0
+2019-03-01,2019,3,"Cafes, restaurants and takeaway food services",3897.1
+2019-04-01,2019,4,"Cafes, restaurants and takeaway food services",3808.2
+2019-05-01,2019,5,"Cafes, restaurants and takeaway food services",3829.0
+2019-06-01,2019,6,"Cafes, restaurants and takeaway food services",3706.0
+2019-07-01,2019,7,"Cafes, restaurants and takeaway food services",3903.5
+2019-08-01,2019,8,"Cafes, restaurants and takeaway food services",3948.4
+2019-09-01,2019,9,"Cafes, restaurants and takeaway food services",3926.6
+2019-10-01,2019,10,"Cafes, restaurants and takeaway food services",4043.2
+2019-11-01,2019,11,"Cafes, restaurants and takeaway food services",4067.3
+2019-12-01,2019,12,"Cafes, restaurants and takeaway food services",4389.3
+2020-01-01,2020,1,"Cafes, restaurants and takeaway food services",3890.1
+2020-02-01,2020,2,"Cafes, restaurants and takeaway food services",3621.3
+2020-03-01,2020,3,"Cafes, restaurants and takeaway food services",3007.1
+2020-04-01,2020,4,"Cafes, restaurants and takeaway food services",1907.9
+2020-05-01,2020,5,"Cafes, restaurants and takeaway food services",2499.1
+2020-06-01,2020,6,"Cafes, restaurants and takeaway food services",3111.8
+2020-07-01,2020,7,"Cafes, restaurants and takeaway food services",3458.0
+2020-08-01,2020,8,"Cafes, restaurants and takeaway food services",3229.6
+2020-09-01,2020,9,"Cafes, restaurants and takeaway food services",3342.5
+2020-10-01,2020,10,"Cafes, restaurants and takeaway food services",3615.8
+2020-11-01,2020,11,"Cafes, restaurants and takeaway food services",3805.6
+2020-12-01,2020,12,"Cafes, restaurants and takeaway food services",4260.1
+2021-01-01,2021,1,"Cafes, restaurants and takeaway food services",3783.9
+2021-02-01,2021,2,"Cafes, restaurants and takeaway food services",3440.4
+2021-03-01,2021,3,"Cafes, restaurants and takeaway food services",4044.9
+2021-04-01,2021,4,"Cafes, restaurants and takeaway food services",4017.5
+2021-05-01,2021,5,"Cafes, restaurants and takeaway food services",4043.1
+2021-06-01,2021,6,"Cafes, restaurants and takeaway food services",3696.9
+2021-07-01,2021,7,"Cafes, restaurants and takeaway food services",3447.7
+2021-08-01,2021,8,"Cafes, restaurants and takeaway food services",3219.9
+2021-09-01,2021,9,"Cafes, restaurants and takeaway food services",3369.8
+2021-10-01,2021,10,"Cafes, restaurants and takeaway food services",3916.1
+2021-11-01,2021,11,"Cafes, restaurants and takeaway food services",4222.7
+2021-12-01,2021,12,"Cafes, restaurants and takeaway food services",4580.5
+2022-01-01,2022,1,"Cafes, restaurants and takeaway food services",3997.3
+2022-02-01,2022,2,"Cafes, restaurants and takeaway food services",3995.3
+2022-03-01,2022,3,"Cafes, restaurants and takeaway food services",4554.2
+2022-04-01,2022,4,"Cafes, restaurants and takeaway food services",4610.4
+2022-05-01,2022,5,"Cafes, restaurants and takeaway food services",4748.9
+2022-06-01,2022,6,"Cafes, restaurants and takeaway food services",4672.5
+2022-07-01,2022,7,"Cafes, restaurants and takeaway food services",5013.0
+2022-08-01,2022,8,"Cafes, restaurants and takeaway food services",5079.0
+2022-09-01,2022,9,"Cafes, restaurants and takeaway food services",5205.9
+2022-10-01,2022,10,"Cafes, restaurants and takeaway food services",5268.4
+2022-11-01,2022,11,"Cafes, restaurants and takeaway food services",5261.5
+2022-12-01,2022,12,"Cafes, restaurants and takeaway food services",5747.8
+2023-01-01,2023,1,"Cafes, restaurants and takeaway food services",5100.2
+2023-02-01,2023,2,"Cafes, restaurants and takeaway food services",4680.6
+2023-03-01,2023,3,"Cafes, restaurants and takeaway food services",5343.9
+2023-04-01,2023,4,"Cafes, restaurants and takeaway food services",5157.9
+2023-05-01,2023,5,"Cafes, restaurants and takeaway food services",5325.2
+2023-06-01,2023,6,"Cafes, restaurants and takeaway food services",5152.1
+2023-07-01,2023,7,"Cafes, restaurants and takeaway food services",5398.0
+2023-08-01,2023,8,"Cafes, restaurants and takeaway food services",5494.3
+2023-09-01,2023,9,"Cafes, restaurants and takeaway food services",5481.3
+2023-10-01,2023,10,"Cafes, restaurants and takeaway food services",5551.1
+2023-11-01,2023,11,"Cafes, restaurants and takeaway food services",5463.5
+2023-12-01,2023,12,"Cafes, restaurants and takeaway food services",5837.4
+2024-01-01,2024,1,"Cafes, restaurants and takeaway food services",5219.1
+2024-02-01,2024,2,"Cafes, restaurants and takeaway food services",4981.1
+2024-03-01,2024,3,"Cafes, restaurants and takeaway food services",5378.4
+2024-04-01,2024,4,"Cafes, restaurants and takeaway food services",5325.3
+2024-05-01,2024,5,"Cafes, restaurants and takeaway food services",5391.6
+2024-06-01,2024,6,"Cafes, restaurants and takeaway food services",5115.3
+2024-07-01,2024,7,"Cafes, restaurants and takeaway food services",5431.5
+2024-08-01,2024,8,"Cafes, restaurants and takeaway food services",5554.8
+2024-09-01,2024,9,"Cafes, restaurants and takeaway food services",5524.5
+2024-10-01,2024,10,"Cafes, restaurants and takeaway food services",5666.1
+2024-11-01,2024,11,"Cafes, restaurants and takeaway food services",5710.4
+2024-12-01,2024,12,"Cafes, restaurants and takeaway food services",6113.6
+2025-01-01,2025,1,"Cafes, restaurants and takeaway food services",5437.6
+2025-02-01,2025,2,"Cafes, restaurants and takeaway food services",4966.0
+2025-03-01,2025,3,"Cafes, restaurants and takeaway food services",5483.1
+2025-04-01,2025,4,"Cafes, restaurants and takeaway food services",5490.6
+2025-05-01,2025,5,"Cafes, restaurants and takeaway food services",5602.6
+2025-06-01,2025,6,"Cafes, restaurants and takeaway food services",5292.4
+1982-04-01,1982,4,Total (Industry),3396.4
+1982-05-01,1982,5,Total (Industry),3497.9
+1982-06-01,1982,6,Total (Industry),3357.8
+1982-07-01,1982,7,Total (Industry),3486.8
+1982-08-01,1982,8,Total (Industry),3355.9
+1982-09-01,1982,9,Total (Industry),3454.3
+1982-10-01,1982,10,Total (Industry),3551.5
+1982-11-01,1982,11,Total (Industry),3830.5
+1982-12-01,1982,12,Total (Industry),5179.7
+1983-01-01,1983,1,Total (Industry),3384.5
+1983-02-01,1983,2,Total (Industry),3369.8
+1983-03-01,1983,3,Total (Industry),3805.3
+1983-04-01,1983,4,Total (Industry),3665.1
+1983-05-01,1983,5,Total (Industry),3760.0
+1983-06-01,1983,6,Total (Industry),3630.8
+1983-07-01,1983,7,Total (Industry),3686.5
+1983-08-01,1983,8,Total (Industry),3816.3
+1983-09-01,1983,9,Total (Industry),3823.4
+1983-10-01,1983,10,Total (Industry),3878.7
+1983-11-01,1983,11,Total (Industry),4211.5
+1983-12-01,1983,12,Total (Industry),5684.3
+1984-01-01,1984,1,Total (Industry),3698.5
+1984-02-01,1984,2,Total (Industry),3733.2
+1984-03-01,1984,3,Total (Industry),4010.9
+1984-04-01,1984,4,Total (Industry),3788.4
+1984-05-01,1984,5,Total (Industry),4242.3
+1984-06-01,1984,6,Total (Industry),3872.1
+1984-07-01,1984,7,Total (Industry),3978.0
+1984-08-01,1984,8,Total (Industry),4096.1
+1984-09-01,1984,9,Total (Industry),3901.4
+1984-10-01,1984,10,Total (Industry),4274.0
+1984-11-01,1984,11,Total (Industry),4557.1
+1984-12-01,1984,12,Total (Industry),5847.5
+1985-01-01,1985,1,Total (Industry),4130.0
+1985-02-01,1985,2,Total (Industry),3856.8
+1985-03-01,1985,3,Total (Industry),4196.9
+1985-04-01,1985,4,Total (Industry),4228.9
+1985-05-01,1985,5,Total (Industry),4739.1
+1985-06-01,1985,6,Total (Industry),4190.3
+1985-07-01,1985,7,Total (Industry),4514.6
+1985-08-01,1985,8,Total (Industry),4566.3
+1985-09-01,1985,9,Total (Industry),4380.3
+1985-10-01,1985,10,Total (Industry),4857.7
+1985-11-01,1985,11,Total (Industry),5105.0
+1985-12-01,1985,12,Total (Industry),6628.2
+1986-01-01,1986,1,Total (Industry),4674.9
+1986-02-01,1986,2,Total (Industry),4294.1
+1986-03-01,1986,3,Total (Industry),4528.0
+1986-04-01,1986,4,Total (Industry),4729.0
+1986-05-01,1986,5,Total (Industry),5261.9
+1986-06-01,1986,6,Total (Industry),4637.8
+1986-07-01,1986,7,Total (Industry),4989.5
+1986-08-01,1986,8,Total (Industry),4923.8
+1986-09-01,1986,9,Total (Industry),4962.2
+1986-10-01,1986,10,Total (Industry),5305.1
+1986-11-01,1986,11,Total (Industry),5303.5
+1986-12-01,1986,12,Total (Industry),7340.0
+1987-01-01,1987,1,Total (Industry),5065.3
+1987-02-01,1987,2,Total (Industry),4679.8
+1987-03-01,1987,3,Total (Industry),4993.0
+1987-04-01,1987,4,Total (Industry),5166.0
+1987-05-01,1987,5,Total (Industry),5386.3
+1987-06-01,1987,6,Total (Industry),5118.9
+1987-07-01,1987,7,Total (Industry),5494.6
+1987-08-01,1987,8,Total (Industry),5236.7
+1987-09-01,1987,9,Total (Industry),5395.1
+1987-10-01,1987,10,Total (Industry),5744.4
+1987-11-01,1987,11,Total (Industry),5745.0
+1987-12-01,1987,12,Total (Industry),8022.4
+1988-01-01,1988,1,Total (Industry),5304.4
+1988-02-01,1988,2,Total (Industry),5226.8
+1988-03-01,1988,3,Total (Industry),5729.7
+1988-04-01,1988,4,Total (Industry),5527.3
+1988-05-01,1988,5,Total (Industry),5787.8
+1988-06-01,1988,6,Total (Industry),5739.2
+1988-07-01,1988,7,Total (Industry),5722.7
+1988-08-01,1988,8,Total (Industry),5787.3
+1988-09-01,1988,9,Total (Industry),5946.3
+1988-10-01,1988,10,Total (Industry),6065.8
+1988-11-01,1988,11,Total (Industry),6470.9
+1988-12-01,1988,12,Total (Industry),8885.8
+1989-01-01,1989,1,Total (Industry),5980.3
+1989-02-01,1989,2,Total (Industry),5574.1
+1989-03-01,1989,3,Total (Industry),6299.0
+1989-04-01,1989,4,Total (Industry),6075.7
+1989-05-01,1989,5,Total (Industry),6437.8
+1989-06-01,1989,6,Total (Industry),6377.4
+1989-07-01,1989,7,Total (Industry),6287.5
+1989-08-01,1989,8,Total (Industry),6436.4
+1989-09-01,1989,9,Total (Industry),6565.5
+1989-10-01,1989,10,Total (Industry),6605.4
+1989-11-01,1989,11,Total (Industry),7154.3
+1989-12-01,1989,12,Total (Industry),9394.4
+1990-01-01,1990,1,Total (Industry),6511.6
+1990-02-01,1990,2,Total (Industry),6031.0
+1990-03-01,1990,3,Total (Industry),6749.3
+1990-04-01,1990,4,Total (Industry),6476.1
+1990-05-01,1990,5,Total (Industry),6947.9
+1990-06-01,1990,6,Total (Industry),6758.9
+1990-07-01,1990,7,Total (Industry),6573.5
+1990-08-01,1990,8,Total (Industry),6911.2
+1990-09-01,1990,9,Total (Industry),6589.3
+1990-10-01,1990,10,Total (Industry),7002.9
+1990-11-01,1990,11,Total (Industry),7402.3
+1990-12-01,1990,12,Total (Industry),9414.4
+1991-01-01,1991,1,Total (Industry),6837.2
+1991-02-01,1991,2,Total (Industry),6284.6
+1991-03-01,1991,3,Total (Industry),6837.9
+1991-04-01,1991,4,Total (Industry),6709.5
+1991-05-01,1991,5,Total (Industry),7191.7
+1991-06-01,1991,6,Total (Industry),6674.9
+1991-07-01,1991,7,Total (Industry),7147.0
+1991-08-01,1991,8,Total (Industry),7262.7
+1991-09-01,1991,9,Total (Industry),6898.1
+1991-10-01,1991,10,Total (Industry),7624.4
+1991-11-01,1991,11,Total (Industry),7804.4
+1991-12-01,1991,12,Total (Industry),9813.7
+1992-01-01,1992,1,Total (Industry),7305.3
+1992-02-01,1992,2,Total (Industry),6848.2
+1992-03-01,1992,3,Total (Industry),7164.6
+1992-04-01,1992,4,Total (Industry),7435.5
+1992-05-01,1992,5,Total (Industry),7551.4
+1992-06-01,1992,6,Total (Industry),7180.7
+1992-07-01,1992,7,Total (Industry),7487.0
+1992-08-01,1992,8,Total (Industry),7119.3
+1992-09-01,1992,9,Total (Industry),7406.0
+1992-10-01,1992,10,Total (Industry),7946.1
+1992-11-01,1992,11,Total (Industry),7887.0
+1992-12-01,1992,12,Total (Industry),10379.6
+1993-01-01,1993,1,Total (Industry),7455.9
+1993-02-01,1993,2,Total (Industry),6833.0
+1993-03-01,1993,3,Total (Industry),7497.4
+1993-04-01,1993,4,Total (Industry),7539.8
+1993-05-01,1993,5,Total (Industry),7675.2
+1993-06-01,1993,6,Total (Industry),7507.9
+1993-07-01,1993,7,Total (Industry),7674.2
+1993-08-01,1993,8,Total (Industry),7361.4
+1993-09-01,1993,9,Total (Industry),7765.5
+1993-10-01,1993,10,Total (Industry),8063.3
+1993-11-01,1993,11,Total (Industry),8369.3
+1993-12-01,1993,12,Total (Industry),11130.8
+1994-01-01,1994,1,Total (Industry),7730.6
+1994-02-01,1994,2,Total (Industry),7295.2
+1994-03-01,1994,3,Total (Industry),8240.1
+1994-04-01,1994,4,Total (Industry),7775.5
+1994-05-01,1994,5,Total (Industry),8061.2
+1994-06-01,1994,6,Total (Industry),8057.1
+1994-07-01,1994,7,Total (Industry),8076.6
+1994-08-01,1994,8,Total (Industry),8222.7
+1994-09-01,1994,9,Total (Industry),8410.6
+1994-10-01,1994,10,Total (Industry),8638.4
+1994-11-01,1994,11,Total (Industry),8906.7
+1994-12-01,1994,12,Total (Industry),11684.1
+1995-01-01,1995,1,Total (Industry),8268.3
+1995-02-01,1995,2,Total (Industry),7750.3
+1995-03-01,1995,3,Total (Industry),8656.9
+1995-04-01,1995,4,Total (Industry),8514.5
+1995-05-01,1995,5,Total (Industry),8860.4
+1995-06-01,1995,6,Total (Industry),8767.9
+1995-07-01,1995,7,Total (Industry),8762.1
+1995-08-01,1995,8,Total (Industry),8964.4
+1995-09-01,1995,9,Total (Industry),8996.2
+1995-10-01,1995,10,Total (Industry),9214.9
+1995-11-01,1995,11,Total (Industry),9727.5
+1995-12-01,1995,12,Total (Industry),12525.0
+1996-01-01,1996,1,Total (Industry),9084.7
+1996-02-01,1996,2,Total (Industry),8632.1
+1996-03-01,1996,3,Total (Industry),9074.2
+1996-04-01,1996,4,Total (Industry),8946.5
+1996-05-01,1996,5,Total (Industry),9435.2
+1996-06-01,1996,6,Total (Industry),9003.1
+1996-07-01,1996,7,Total (Industry),9291.1
+1996-08-01,1996,8,Total (Industry),9386.1
+1996-09-01,1996,9,Total (Industry),8956.8
+1996-10-01,1996,10,Total (Industry),9675.6
+1996-11-01,1996,11,Total (Industry),9930.1
+1996-12-01,1996,12,Total (Industry),12523.5
+1997-01-01,1997,1,Total (Industry),9516.5
+1997-02-01,1997,2,Total (Industry),8636.0
+1997-03-01,1997,3,Total (Industry),9325.0
+1997-04-01,1997,4,Total (Industry),9221.1
+1997-05-01,1997,5,Total (Industry),9819.1
+1997-06-01,1997,6,Total (Industry),9116.7
+1997-07-01,1997,7,Total (Industry),9719.3
+1997-08-01,1997,8,Total (Industry),9524.8
+1997-09-01,1997,9,Total (Industry),9596.6
+1997-10-01,1997,10,Total (Industry),10237.0
+1997-11-01,1997,11,Total (Industry),10340.9
+1997-12-01,1997,12,Total (Industry),13318.2
+1998-01-01,1998,1,Total (Industry),10042.7
+1998-02-01,1998,2,Total (Industry),8872.4
+1998-03-01,1998,3,Total (Industry),9575.7
+1998-04-01,1998,4,Total (Industry),9756.6
+1998-05-01,1998,5,Total (Industry),10000.6
+1998-06-01,1998,6,Total (Industry),9556.1
+1998-07-01,1998,7,Total (Industry),10225.4
+1998-08-01,1998,8,Total (Industry),9835.4
+1998-09-01,1998,9,Total (Industry),10059.8
+1998-10-01,1998,10,Total (Industry),10773.4
+1998-11-01,1998,11,Total (Industry),10642.7
+1998-12-01,1998,12,Total (Industry),13837.5
+1999-01-01,1999,1,Total (Industry),10537.1
+1999-02-01,1999,2,Total (Industry),9430.1
+1999-03-01,1999,3,Total (Industry),10540.0
+1999-04-01,1999,4,Total (Industry),10390.7
+1999-05-01,1999,5,Total (Industry),10581.0
+1999-06-01,1999,6,Total (Industry),10264.8
+1999-07-01,1999,7,Total (Industry),10824.9
+1999-08-01,1999,8,Total (Industry),10555.3
+1999-09-01,1999,9,Total (Industry),10908.9
+1999-10-01,1999,10,Total (Industry),11336.8
+1999-11-01,1999,11,Total (Industry),11584.0
+1999-12-01,1999,12,Total (Industry),15016.9
+2000-01-01,2000,1,Total (Industry),10794.2
+2000-02-01,2000,2,Total (Industry),10114.8
+2000-03-01,2000,3,Total (Industry),10930.1
+2000-04-01,2000,4,Total (Industry),10609.9
+2000-05-01,2000,5,Total (Industry),11052.7
+2000-06-01,2000,6,Total (Industry),11675.2
+2000-07-01,2000,7,Total (Industry),10605.2
+2000-08-01,2000,8,Total (Industry),11190.6
+2000-09-01,2000,9,Total (Industry),11447.4
+2000-10-01,2000,10,Total (Industry),11664.4
+2000-11-01,2000,11,Total (Industry),12127.8
+2000-12-01,2000,12,Total (Industry),15567.3
+2001-01-01,2001,1,Total (Industry),11612.2
+2001-02-01,2001,2,Total (Industry),10625.2
+2001-03-01,2001,3,Total (Industry),11940.5
+2001-04-01,2001,4,Total (Industry),11576.8
+2001-05-01,2001,5,Total (Industry),12075.8
+2001-06-01,2001,6,Total (Industry),11749.3
+2001-07-01,2001,7,Total (Industry),12038.9
+2001-08-01,2001,8,Total (Industry),12204.9
+2001-09-01,2001,9,Total (Industry),11949.3
+2001-10-01,2001,10,Total (Industry),12797.9
+2001-11-01,2001,11,Total (Industry),13359.0
+2001-12-01,2001,12,Total (Industry),16743.5
+2002-01-01,2002,1,Total (Industry),12836.0
+2002-02-01,2002,2,Total (Industry),11392.4
+2002-03-01,2002,3,Total (Industry),12728.5
+2002-04-01,2002,4,Total (Industry),12455.8
+2002-05-01,2002,5,Total (Industry),13217.9
+2002-06-01,2002,6,Total (Industry),12550.6
+2002-07-01,2002,7,Total (Industry),12943.3
+2002-08-01,2002,8,Total (Industry),13261.7
+2002-09-01,2002,9,Total (Industry),12888.3
+2002-10-01,2002,10,Total (Industry),13798.9
+2002-11-01,2002,11,Total (Industry),14418.4
+2002-12-01,2002,12,Total (Industry),17801.4
+2003-01-01,2003,1,Total (Industry),13636.3
+2003-02-01,2003,2,Total (Industry),12067.5
+2003-03-01,2003,3,Total (Industry),13289.7
+2003-04-01,2003,4,Total (Industry),13347.9
+2003-05-01,2003,5,Total (Industry),13897.3
+2003-06-01,2003,6,Total (Industry),13284.0
+2003-07-01,2003,7,Total (Industry),14005.4
+2003-08-01,2003,8,Total (Industry),13933.3
+2003-09-01,2003,9,Total (Industry),14055.9
+2003-10-01,2003,10,Total (Industry),15188.7
+2003-11-01,2003,11,Total (Industry),15455.0
+2003-12-01,2003,12,Total (Industry),19384.4
+2004-01-01,2004,1,Total (Industry),14934.7
+2004-02-01,2004,2,Total (Industry),13588.5
+2004-03-01,2004,3,Total (Industry),14600.9
+2004-04-01,2004,4,Total (Industry),14552.0
+2004-05-01,2004,5,Total (Industry),14685.1
+2004-06-01,2004,6,Total (Industry),14679.0
+2004-07-01,2004,7,Total (Industry),15154.9
+2004-08-01,2004,8,Total (Industry),14731.7
+2004-09-01,2004,9,Total (Industry),15204.1
+2004-10-01,2004,10,Total (Industry),15769.1
+2004-11-01,2004,11,Total (Industry),16017.9
+2004-12-01,2004,12,Total (Industry),20298.1
+2005-01-01,2005,1,Total (Industry),15066.7
+2005-02-01,2005,2,Total (Industry),13693.5
+2005-03-01,2005,3,Total (Industry),15128.9
+2005-04-01,2005,4,Total (Industry),14742.6
+2005-05-01,2005,5,Total (Industry),15000.6
+2005-06-01,2005,6,Total (Industry),15159.8
+2005-07-01,2005,7,Total (Industry),15339.3
+2005-08-01,2005,8,Total (Industry),15299.0
+2005-09-01,2005,9,Total (Industry),15436.0
+2005-10-01,2005,10,Total (Industry),16002.8
+2005-11-01,2005,11,Total (Industry),16520.8
+2005-12-01,2005,12,Total (Industry),20955.0
+2006-01-01,2006,1,Total (Industry),15614.7
+2006-02-01,2006,2,Total (Industry),14231.0
+2006-03-01,2006,3,Total (Industry),15868.7
+2006-04-01,2006,4,Total (Industry),15619.2
+2006-05-01,2006,5,Total (Industry),15959.0
+2006-06-01,2006,6,Total (Industry),16106.6
+2006-07-01,2006,7,Total (Industry),16214.5
+2006-08-01,2006,8,Total (Industry),16401.9
+2006-09-01,2006,9,Total (Industry),16348.7
+2006-10-01,2006,10,Total (Industry),17155.7
+2006-11-01,2006,11,Total (Industry),17800.4
+2006-12-01,2006,12,Total (Industry),22142.8
+2007-01-01,2007,1,Total (Industry),16855.2
+2007-02-01,2007,2,Total (Industry),15331.4
+2007-03-01,2007,3,Total (Industry),17317.7
+2007-04-01,2007,4,Total (Industry),16514.4
+2007-05-01,2007,5,Total (Industry),17100.4
+2007-06-01,2007,6,Total (Industry),17184.1
+2007-07-01,2007,7,Total (Industry),17437.0
+2007-08-01,2007,8,Total (Industry),17801.5
+2007-09-01,2007,9,Total (Industry),17603.5
+2007-10-01,2007,10,Total (Industry),18530.4
+2007-11-01,2007,11,Total (Industry),19307.1
+2007-12-01,2007,12,Total (Industry),23833.7
+2008-01-01,2008,1,Total (Industry),18201.0
+2008-02-01,2008,2,Total (Industry),16791.4
+2008-03-01,2008,3,Total (Industry),17807.9
+2008-04-01,2008,4,Total (Industry),17543.0
+2008-05-01,2008,5,Total (Industry),18183.5
+2008-06-01,2008,6,Total (Industry),17477.9
+2008-07-01,2008,7,Total (Industry),18391.2
+2008-08-01,2008,8,Total (Industry),18198.2
+2008-09-01,2008,9,Total (Industry),17885.2
+2008-10-01,2008,10,Total (Industry),19144.5
+2008-11-01,2008,11,Total (Industry),19478.5
+2008-12-01,2008,12,Total (Industry),25184.3
+2009-01-01,2009,1,Total (Industry),19384.5
+2009-02-01,2009,2,Total (Industry),16853.8
+2009-03-01,2009,3,Total (Industry),18927.9
+2009-04-01,2009,4,Total (Industry),18849.3
+2009-05-01,2009,5,Total (Industry),19397.5
+2009-06-01,2009,6,Total (Industry),18902.9
+2009-07-01,2009,7,Total (Industry),19360.6
+2009-08-01,2009,8,Total (Industry),19156.7
+2009-09-01,2009,9,Total (Industry),19030.3
+2009-10-01,2009,10,Total (Industry),20294.6
+2009-11-01,2009,11,Total (Industry),20840.1
+2009-12-01,2009,12,Total (Industry),25958.5
+2010-01-01,2010,1,Total (Industry),19792.0
+2010-02-01,2010,2,Total (Industry),17431.5
+2010-03-01,2010,3,Total (Industry),19490.3
+2010-04-01,2010,4,Total (Industry),19032.0
+2010-05-01,2010,5,Total (Industry),19533.6
+2010-06-01,2010,6,Total (Industry),19339.1
+2010-07-01,2010,7,Total (Industry),20231.6
+2010-08-01,2010,8,Total (Industry),19860.8
+2010-09-01,2010,9,Total (Industry),19916.3
+2010-10-01,2010,10,Total (Industry),20575.4
+2010-11-01,2010,11,Total (Industry),21163.7
+2010-12-01,2010,12,Total (Industry),26599.2
+2011-01-01,2011,1,Total (Industry),20063.7
+2011-02-01,2011,2,Total (Industry),18079.3
+2011-03-01,2011,3,Total (Industry),19933.8
+2011-04-01,2011,4,Total (Industry),19833.0
+2011-05-01,2011,5,Total (Industry),19888.1
+2011-06-01,2011,6,Total (Industry),19738.3
+2011-07-01,2011,7,Total (Industry),20419.6
+2011-08-01,2011,8,Total (Industry),20388.3
+2011-09-01,2011,9,Total (Industry),20475.9
+2011-10-01,2011,10,Total (Industry),21183.4
+2011-11-01,2011,11,Total (Industry),21864.2
+2011-12-01,2011,12,Total (Industry),27425.4
+2012-01-01,2012,1,Total (Industry),20529.6
+2012-02-01,2012,2,Total (Industry),19071.2
+2012-03-01,2012,3,Total (Industry),20868.1
+2012-04-01,2012,4,Total (Industry),20028.9
+2012-05-01,2012,5,Total (Industry),20873.1
+2012-06-01,2012,6,Total (Industry),20878.1
+2012-07-01,2012,7,Total (Industry),20964.6
+2012-08-01,2012,8,Total (Industry),21352.0
+2012-09-01,2012,9,Total (Industry),21040.2
+2012-10-01,2012,10,Total (Industry),21850.4
+2012-11-01,2012,11,Total (Industry),22680.2
+2012-12-01,2012,12,Total (Industry),27676.4
+2013-01-01,2013,1,Total (Industry),21510.6
+2013-02-01,2013,2,Total (Industry),19299.8
+2013-03-01,2013,3,Total (Industry),21410.5
+2013-04-01,2013,4,Total (Industry),20601.1
+2013-05-01,2013,5,Total (Industry),21481.0
+2013-06-01,2013,6,Total (Industry),20984.5
+2013-07-01,2013,7,Total (Industry),21474.2
+2013-08-01,2013,8,Total (Industry),22024.0
+2013-09-01,2013,9,Total (Industry),21551.9
+2013-10-01,2013,10,Total (Industry),22853.7
+2013-11-01,2013,11,Total (Industry),23771.3
+2013-12-01,2013,12,Total (Industry),29137.6
+2014-01-01,2014,1,Total (Industry),22960.6
+2014-02-01,2014,2,Total (Industry),20295.0
+2014-03-01,2014,3,Total (Industry),22386.2
+2014-04-01,2014,4,Total (Industry),21975.8
+2014-05-01,2014,5,Total (Industry),22620.1
+2014-06-01,2014,6,Total (Industry),22061.3
+2014-07-01,2014,7,Total (Industry),22917.2
+2014-08-01,2014,8,Total (Industry),22898.2
+2014-09-01,2014,9,Total (Industry),23057.2
+2014-10-01,2014,10,Total (Industry),24332.7
+2014-11-01,2014,11,Total (Industry),24793.5
+2014-12-01,2014,12,Total (Industry),30425.9
+2015-01-01,2015,1,Total (Industry),23924.6
+2015-02-01,2015,2,Total (Industry),21239.9
+2015-03-01,2015,3,Total (Industry),23584.2
+2015-04-01,2015,4,Total (Industry),22812.9
+2015-05-01,2015,5,Total (Industry),23532.6
+2015-06-01,2015,6,Total (Industry),23293.5
+2015-07-01,2015,7,Total (Industry),24015.9
+2015-08-01,2015,8,Total (Industry),23824.2
+2015-09-01,2015,9,Total (Industry),24008.9
+2015-10-01,2015,10,Total (Industry),25447.3
+2015-11-01,2015,11,Total (Industry),25783.5
+2015-12-01,2015,12,Total (Industry),31923.0
+2016-01-01,2016,1,Total (Industry),24753.1
+2016-02-01,2016,2,Total (Industry),22734.9
+2016-03-01,2016,3,Total (Industry),24517.3
+2016-04-01,2016,4,Total (Industry),23975.9
+2016-05-01,2016,5,Total (Industry),24143.5
+2016-06-01,2016,6,Total (Industry),24165.3
+2016-07-01,2016,7,Total (Industry),24563.7
+2016-08-01,2016,8,Total (Industry),24591.3
+2016-09-01,2016,9,Total (Industry),25063.6
+2016-10-01,2016,10,Total (Industry),25974.6
+2016-11-01,2016,11,Total (Industry),26781.1
+2016-12-01,2016,12,Total (Industry),33100.2
+2017-01-01,2017,1,Total (Industry),25306.2
+2017-02-01,2017,2,Total (Industry),22615.0
+2017-03-01,2017,3,Total (Industry),25113.5
+2017-04-01,2017,4,Total (Industry),24583.1
+2017-05-01,2017,5,Total (Industry),25133.2
+2017-06-01,2017,6,Total (Industry),25167.5
+2017-07-01,2017,7,Total (Industry),25278.6
+2017-08-01,2017,8,Total (Industry),25275.4
+2017-09-01,2017,9,Total (Industry),25348.7
+2017-10-01,2017,10,Total (Industry),26397.1
+2017-11-01,2017,11,Total (Industry),27707.3
+2017-12-01,2017,12,Total (Industry),33639.0
+2018-01-01,2018,1,Total (Industry),25896.0
+2018-02-01,2018,2,Total (Industry),23300.7
+2018-03-01,2018,3,Total (Industry),26218.0
+2018-04-01,2018,4,Total (Industry),24883.3
+2018-05-01,2018,5,Total (Industry),25954.1
+2018-06-01,2018,6,Total (Industry),25827.2
+2018-07-01,2018,7,Total (Industry),25935.6
+2018-08-01,2018,8,Total (Industry),26340.6
+2018-09-01,2018,9,Total (Industry),26063.9
+2018-10-01,2018,10,Total (Industry),27407.7
+2018-11-01,2018,11,Total (Industry),28609.2
+2018-12-01,2018,12,Total (Industry),34361.4
+2019-01-01,2019,1,Total (Industry),26748.0
+2019-02-01,2019,2,Total (Industry),24049.2
+2019-03-01,2019,3,Total (Industry),26660.6
+2019-04-01,2019,4,Total (Industry),25937.2
+2019-05-01,2019,5,Total (Industry),26708.0
+2019-06-01,2019,6,Total (Industry),26311.9
+2019-07-01,2019,7,Total (Industry),26603.4
+2019-08-01,2019,8,Total (Industry),27106.8
+2019-09-01,2019,9,Total (Industry),26586.5
+2019-10-01,2019,10,Total (Industry),28147.1
+2019-11-01,2019,11,Total (Industry),29527.1
+2019-12-01,2019,12,Total (Industry),35210.2
+2020-01-01,2020,1,Total (Industry),27321.3
+2020-02-01,2020,2,Total (Industry),25436.2
+2020-03-01,2020,3,Total (Industry),29167.9
+2020-04-01,2020,4,Total (Industry),23628.7
+2020-05-01,2020,5,Total (Industry),28194.7
+2020-06-01,2020,6,Total (Industry),28576.6
+2020-07-01,2020,7,Total (Industry),30020.7
+2020-08-01,2020,8,Total (Industry),28579.5
+2020-09-01,2020,9,Total (Industry),28349.8
+2020-10-01,2020,10,Total (Industry),30340.0
+2020-11-01,2020,11,Total (Industry),33119.3
+2020-12-01,2020,12,Total (Industry),38903.2
+2021-01-01,2021,1,Total (Industry),30108.5
+2021-02-01,2021,2,Total (Industry),26777.2
+2021-03-01,2021,3,Total (Industry),30336.0
+2021-04-01,2021,4,Total (Industry),29266.9
+2021-05-01,2021,5,Total (Industry),30216.8
+2021-06-01,2021,6,Total (Industry),29433.8
+2021-07-01,2021,7,Total (Industry),29172.7
+2021-08-01,2021,8,Total (Industry),28368.7
+2021-09-01,2021,9,Total (Industry),28901.7
+2021-10-01,2021,10,Total (Industry),31709.1
+2021-11-01,2021,11,Total (Industry),35171.1
+2021-12-01,2021,12,Total (Industry),40863.3
+2022-01-01,2022,1,Total (Industry),31862.0
+2022-02-01,2022,2,Total (Industry),29208.8
+2022-03-01,2022,3,Total (Industry),32830.9
+2022-04-01,2022,4,Total (Industry),32535.1
+2022-05-01,2022,5,Total (Industry),33287.1
+2022-06-01,2022,6,Total (Industry),33035.5
+2022-07-01,2022,7,Total (Industry),33800.0
+2022-08-01,2022,8,Total (Industry),33877.5
+2022-09-01,2022,9,Total (Industry),34276.8
+2022-10-01,2022,10,Total (Industry),35496.2
+2022-11-01,2022,11,Total (Industry),37866.8
+2022-12-01,2022,12,Total (Industry),44046.3
+2023-01-01,2023,1,Total (Industry),34338.4
+2023-02-01,2023,2,Total (Industry),31104.6
+2023-03-01,2023,3,Total (Industry),34675.4
+2023-04-01,2023,4,Total (Industry),33602.6
+2023-05-01,2023,5,Total (Industry),34724.2
+2023-06-01,2023,6,Total (Industry),34042.4
+2023-07-01,2023,7,Total (Industry),34263.0
+2023-08-01,2023,8,Total (Industry),34539.7
+2023-09-01,2023,9,Total (Industry),34981.9
+2023-10-01,2023,10,Total (Industry),35946.9
+2023-11-01,2023,11,Total (Industry),38649.0
+2023-12-01,2023,12,Total (Industry),44158.6
+2024-01-01,2024,1,Total (Industry),34734.9
+2024-02-01,2024,2,Total (Industry),32745.3
+2024-03-01,2024,3,Total (Industry),35136.7
+2024-04-01,2024,4,Total (Industry),34020.9
+2024-05-01,2024,5,Total (Industry),35455.4
+2024-06-01,2024,6,Total (Industry),34766.2
+2024-07-01,2024,7,Total (Industry),35169.4
+2024-08-01,2024,8,Total (Industry),35930.3
+2024-09-01,2024,9,Total (Industry),35311.2
+2024-10-01,2024,10,Total (Industry),37317.8
+2024-11-01,2024,11,Total (Industry),40227.1
+2024-12-01,2024,12,Total (Industry),45943.1
+2025-01-01,2025,1,Total (Industry),36169.3
+2025-02-01,2025,2,Total (Industry),32744.3
+2025-03-01,2025,3,Total (Industry),36277.1
+2025-04-01,2025,4,Total (Industry),35382.3
+2025-05-01,2025,5,Total (Industry),36907.1
+2025-06-01,2025,6,Total (Industry),36351.9
